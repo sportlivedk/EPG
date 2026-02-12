@@ -19,19 +19,19 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            border-bottom: 2px solid #003366; /* En linje under headeren i jeres blå farve */
+            border-bottom: 2px solid #003366; 
             padding-bottom: 20px;
             margin-bottom: 30px;
         }
 
         h1 { 
             color: #003366; 
-            margin: 0; /* Fjerner standard margin så den flugter med logoet */
+            margin: 0; 
         }
 
         .logo {
-            max-height: 60px; /* Sikrer at logoet ikke bliver for højt/voldsomt */
-            width: auto;      /* Bevarer billedets proportioner */
+            max-height: 60px; 
+            width: auto;      
         }
 
         .intro-text {
@@ -51,7 +51,7 @@
             display: flex; 
             justify-content: space-between; 
             align-items: center; 
-            border-left: 5px solid #003366; /* Lille blå kant til venstre på listerne */
+            border-left: 5px solid #003366; 
         }
 
         .file-list li:hover { 
@@ -76,6 +76,14 @@
             font-weight: bold;
             font-size: 1.1em;
         }
+
+        /* NY KLASSE: Styrer udseendet på opdateringsdatoen */
+        .update-date {
+            font-weight: normal; /* Fjerner fed skrift */
+            font-size: 0.9em;    /* Gør den en lille smule mindre */
+            color: #555;         /* Gør den en anelse mørkegrå */
+            margin-left: 5px;    /* Lidt luft til titlen */
+        }
     </style>
 </head>
 <body>
@@ -89,17 +97,17 @@
 
     <ul class="file-list">
         <li>
-            <span class="week-title">Uge 07 (2026)</span>
+            <span class="week-title">Uge 07 2026 <span class="update-date">(opdateret 12-02-2026)</span></span>
             <a href="SPORT_LIVE_DK_WEEK_07_2026.xml" class="download-btn" download>Download XML</a>
         </li>
 
         <li>
-            <span class="week-title">Uge 08 (2026)</span>
+            <span class="week-title">Uge 08 2026 <span class="update-date">(opdateret 12-02-2026)</span></span>
             <a href="SPORT_LIVE_DK_WEEK_08_2026.xml" class="download-btn" download>Download XML</a>
         </li>
 
         <li>
-            <span class="week-title">Uge 09 (2026)</span>
+            <span class="week-title">Uge 09 2026 <span class="update-date">(opdateret 12-02-2026)</span></span>
             <a href="SPORT_LIVE_DK_WEEK_09_2026.xml" class="download-btn" download>Download XML</a>
         </li>
 
