@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>16/02/2026</Date>
-    <StartTime>11:50</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>16/02/2026</Date>
-    <StartTime>12:10</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>16/02/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>16/02/2026</Date>
-    <StartTime>17:10</StartTime>
+    <StartTime>17:20</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>16/02/2026</Date>
-    <StartTime>19:40</StartTime>
+    <StartTime>19:50</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>16/02/2026</Date>
-    <StartTime>20:50</StartTime>
+    <StartTime>21:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>16/02/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Sporting-Famalicão</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>01:15</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -132,20 +132,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>01:55</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
-    <Title>Shimano MTB Liga</Title>
-    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
-    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/02/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -158,20 +145,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Sports magazine</PrimaryGenre>
-    <Title>Korsør Aqtive days 2025</Title>
-    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
-    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/02/2026</Date>
-    <StartTime>07:30</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -184,7 +158,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>08:35</StartTime>
+    <StartTime>08:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Sporting-Famalicão</EpisodeTitle>
@@ -197,7 +171,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:20</StartTime>
     <PrimaryGenre>Darts</PrimaryGenre>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -210,7 +184,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Sports magazine</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -223,7 +197,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Super Grand Prix</Title>
     <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
@@ -236,7 +210,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>15:05</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
@@ -249,7 +223,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>17:30</StartTime>
+    <StartTime>17:05</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK-Hjørring Futsal Klub</EpisodeTitle>
@@ -262,7 +236,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>19:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Bologna-Lazio</EpisodeTitle>
@@ -275,7 +249,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Cycling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -288,7 +262,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
@@ -301,7 +275,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>01:25</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -314,7 +288,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -470,7 +444,7 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -483,7 +457,7 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
@@ -496,7 +470,7 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>09:45</StartTime>
+    <StartTime>09:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
@@ -509,7 +483,7 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>12:10</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Supercoppa Italiana</Title>
     <EpisodeTitle>Napoli-Bologna</EpisodeTitle>
@@ -522,7 +496,7 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Bologna-Lazio</EpisodeTitle>
@@ -626,7 +600,7 @@
   </Event>
   <Event>
     <Date>20/02/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -743,7 +717,7 @@
   </Event>
   <Event>
     <Date>20/02/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter-Torino</EpisodeTitle>
@@ -769,7 +743,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -873,7 +847,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Sporting-Famalicão</EpisodeTitle>
@@ -1055,7 +1029,7 @@
   </Event>
   <Event>
     <Date>22/02/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>Darts</PrimaryGenre>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
