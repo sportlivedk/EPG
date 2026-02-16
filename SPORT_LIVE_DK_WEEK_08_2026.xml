@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Darts</PrimaryGenre>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Super Grand Prix</Title>
     <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>17:05</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK-Hjørring Futsal Klub</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>19:25</StartTime>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Bologna-Lazio</EpisodeTitle>
@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>17/02/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:25</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -259,6 +259,19 @@
     <StillSceneUrl/>
     <ShortDescription>Første etape af Tour de La Provence fra Marseille til Saint-Victoret.</ShortDescription>
     <LongDescription>Første etape af det franske landevejsløb Tour de La Provence, som er en del af UCI Europe Tour, køres på en 168,82 kilometer lang rute fra Marseille til Saint-Victoret. Kommentatorer: Henrik Hvillum og Gustav Volstrup Sønderlund.</LongDescription>
+  </Event>
+  <Event>
+    <Date>17/02/2026</Date>
+    <StartTime>23:40</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Champions</Title>
+    <EpisodeTitle>Hwan Bae-Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Anders Lind møder Hwan Bae i WTT Champions Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Hwan Bae fra Australien i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>18/02/2026</Date>
@@ -275,7 +288,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -301,7 +314,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
@@ -314,7 +327,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>07:25</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Supercopa de España</Title>
     <EpisodeTitle>FC Barcelona-Real Madrid</EpisodeTitle>
@@ -327,7 +340,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Finals Hong Kong</Title>
     <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
@@ -340,7 +353,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:40</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
@@ -353,7 +366,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>12:30</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -366,7 +379,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>15:10</StartTime>
+    <StartTime>15:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Sporting-Famalicão</EpisodeTitle>
@@ -379,7 +392,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>17:20</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -392,7 +405,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -418,7 +431,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
@@ -431,7 +444,7 @@
   </Event>
   <Event>
     <Date>18/02/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK-Hjørring Futsal Klub</EpisodeTitle>
@@ -444,7 +457,20 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>01:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Korsør Aqtive Days</Title>
+    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>19/02/2026</Date>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -457,7 +483,7 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
@@ -470,7 +496,7 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-BMS Herlev</EpisodeTitle>
@@ -509,7 +535,7 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>16:10</StartTime>
+    <StartTime>16:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK-Hjørring Futsal Klub</EpisodeTitle>
@@ -561,20 +587,20 @@
   </Event>
   <Event>
     <Date>19/02/2026</Date>
-    <StartTime>23:50</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Korsør Aqtive Days</Title>
-    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
     <Status>Repeat</Status>
     <StillSceneUrl/>
-    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
-    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
   </Event>
   <Event>
     <Date>20/02/2026</Date>
-    <StartTime>00:15</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
@@ -587,7 +613,7 @@
   </Event>
   <Event>
     <Date>20/02/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>00:35</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
     <Title>DM i poker</Title>
     <EpisodeTitle>DM 2025</EpisodeTitle>
@@ -600,7 +626,7 @@
   </Event>
   <Event>
     <Date>20/02/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -652,7 +678,7 @@
   </Event>
   <Event>
     <Date>20/02/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -704,7 +730,7 @@
   </Event>
   <Event>
     <Date>20/02/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Darts</PrimaryGenre>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -729,8 +755,8 @@
     <LongDescription>Kvartfinale mellem Inter og Torino i den italienske pokalturnering Coppa Italia. Kampen spilles på U-power Stadium i Monza og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
-    <Date>21/02/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>20/02/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Bologna-Lazio</EpisodeTitle>
@@ -743,7 +769,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -756,33 +782,20 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>07:10</StartTime>
-    <PrimaryGenre>Squash</PrimaryGenre>
-    <Title>Super Grand Prix</Title>
-    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <StartTime>07:15</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Supercoppa Italiana</Title>
+    <EpisodeTitle>Napoli-Bologna</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl/>
-    <ShortDescription>Reportage fra Super Grand Prix 2 i Holbæk.</ShortDescription>
-    <LongDescription>Reportage fra finaledagen ved det andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+    <ShortDescription>Finale i Supercoppa Italiana mellem Napoli og Bologna.</ShortDescription>
+    <LongDescription>Finale i den prestigefyldte Supercoppa Italiana mellem Napoli og Bologna på Al-Awwal Park Stadium i Riyadh. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>07:55</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
-    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/02/2026</Date>
-    <StartTime>08:15</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -795,7 +808,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>11:20</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
@@ -808,7 +821,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>13:40</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
@@ -821,7 +834,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -834,7 +847,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Bakken Bears</EpisodeTitle>
@@ -1042,7 +1055,7 @@
   </Event>
   <Event>
     <Date>22/02/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>19:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Future Fight Night</Title>
     <EpisodeTitle>Future Fight Night 3</EpisodeTitle>
@@ -1055,7 +1068,7 @@
   </Event>
   <Event>
     <Date>23/02/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Ukraine-Danmark</EpisodeTitle>
@@ -1068,7 +1081,7 @@
   </Event>
   <Event>
     <Date>23/02/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
