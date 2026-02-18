@@ -354,6 +354,19 @@
   <Event>
     <Date>18/02/2026</Date>
     <StartTime>10:35</StartTime>
+    <PrimaryGenre>Table Tennis</PrimaryGenre>
+    <Title>WTT Finals Hong Kong</Title>
+    <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl/>
+    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals Hong Kong.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>18/02/2026</Date>
+    <StartTime>10:35</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
@@ -1025,7 +1038,7 @@
     <Status>Live</Status>
     <StillSceneUrl/>
     <ShortDescription>Gentofte Fjordbold møder Eastside Viborg i 18. runde af Futsal Ligaen.</ShortDescription>
-    <LongDescription>Gentofte Fjordbold møder Eastside Viborg i 18. og sidste runde af grundspillet i Futsal Ligaen. Kampen afvikles i Gentofte Sportspark og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Gentofte Fjordbold møder Eastside Viborg i 18. og sidste runde af grundspillet i Futsal Ligaen. Kampen afvikles i Gentofte Sportspark og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
   </Event>
   <Event>
     <Date>22/02/2026</Date>
