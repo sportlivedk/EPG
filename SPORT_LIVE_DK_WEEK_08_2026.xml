@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Supercoppa Italiana</Title>
     <EpisodeTitle>Napoli-Bologna</EpisodeTitle>
@@ -808,7 +808,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>11:20</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
@@ -847,7 +847,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>21/02/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Bakken Bears</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>22/02/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -977,7 +977,7 @@
   </Event>
   <Event>
     <Date>22/02/2026</Date>
-    <StartTime>08:05</StartTime>
+    <StartTime>08:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -990,7 +990,7 @@
   </Event>
   <Event>
     <Date>22/02/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Bakken Bears</EpisodeTitle>
@@ -1003,7 +1003,7 @@
   </Event>
   <Event>
     <Date>22/02/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-Elmer Møller</EpisodeTitle>

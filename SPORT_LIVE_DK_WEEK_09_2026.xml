@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>23/02/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:40</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>23/02/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Supercopa de España</Title>
     <EpisodeTitle>FC Barcelona-Real Madrid</EpisodeTitle>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>24/02/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>24/02/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>24/02/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>14:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Pokalfinale for herrer</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>24/02/2026</Date>
-    <StartTime>16:40</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>24/02/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:25</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>24/02/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Braga-Vitória</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>24/02/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Ukraine-Danmark</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>25/02/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>25/02/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>25/02/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Darts</PrimaryGenre>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>25/02/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Braga-Vitória</EpisodeTitle>
@@ -327,7 +327,7 @@
   </Event>
   <Event>
     <Date>25/02/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>25/02/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Bakken Bears</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>25/02/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-Elmer Møller</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>25/02/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Gentofte Fjordbold-Eastside Viborg</EpisodeTitle>
@@ -548,7 +548,7 @@
   </Event>
   <Event>
     <Date>27/02/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -561,7 +561,7 @@
   </Event>
   <Event>
     <Date>27/02/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Hwan Bae-Anders Lind</EpisodeTitle>
@@ -574,7 +574,7 @@
   </Event>
   <Event>
     <Date>27/02/2026</Date>
-    <StartTime>01:15</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Table Tennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Shunsuke Togami-Anders Lind</EpisodeTitle>
@@ -587,7 +587,7 @@
   </Event>
   <Event>
     <Date>27/02/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -769,20 +769,7 @@
   </Event>
   <Event>
     <Date>28/02/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>Sæsonfinale</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
-    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/02/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -795,7 +782,7 @@
   </Event>
   <Event>
     <Date>28/02/2026</Date>
-    <StartTime>07:50</StartTime>
+    <StartTime>07:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 6</EpisodeTitle>
@@ -808,7 +795,7 @@
   </Event>
   <Event>
     <Date>28/02/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>08:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Bakken Bears</EpisodeTitle>
@@ -821,7 +808,7 @@
   </Event>
   <Event>
     <Date>28/02/2026</Date>
-    <StartTime>11:20</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Georgien</EpisodeTitle>
@@ -834,7 +821,7 @@
   </Event>
   <Event>
     <Date>28/02/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
