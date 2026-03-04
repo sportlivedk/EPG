@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>07:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Hwan Bae-Anders Lind</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>08:15</StartTime>
+    <StartTime>08:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>08:50</StartTime>
+    <StartTime>08:55</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>10:40</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Super Grand Prix</Title>
     <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>11:25</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Gentofte Fjordbold-Albertslund IF</EpisodeTitle>
@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Supercoppa Italiana</Title>
     <EpisodeTitle>Napoli-Bologna</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>15:30</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Inter</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Georgien-Danmark</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>10/03/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Braga-Sporting</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale</EpisodeTitle>
@@ -327,7 +327,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>00:30</StartTime>
+    <StartTime>00:25</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
     <Title>DM i poker</Title>
     <EpisodeTitle>DM 2025</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>11/03/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -652,7 +652,20 @@
   </Event>
   <Event>
     <Date>13/03/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Korsør Aqtive Days</Title>
+    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/03/2026</Date>
+    <StartTime>07:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Inter</EpisodeTitle>
@@ -665,7 +678,7 @@
   </Event>
   <Event>
     <Date>13/03/2026</Date>
-    <StartTime>09:30</StartTime>
+    <StartTime>09:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -691,7 +704,7 @@
   </Event>
   <Event>
     <Date>13/03/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 7</EpisodeTitle>
@@ -704,7 +717,7 @@
   </Event>
   <Event>
     <Date>13/03/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Bakken Bears</EpisodeTitle>
@@ -717,7 +730,7 @@
   </Event>
   <Event>
     <Date>13/03/2026</Date>
-    <StartTime>15:40</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Gentofte Fjordbold-Albertslund IF</EpisodeTitle>
@@ -730,7 +743,7 @@
   </Event>
   <Event>
     <Date>13/03/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>18:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Braga-Sporting</EpisodeTitle>
@@ -743,7 +756,7 @@
   </Event>
   <Event>
     <Date>13/03/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Nordmakedonien</EpisodeTitle>
@@ -769,7 +782,7 @@
   </Event>
   <Event>
     <Date>14/03/2026</Date>
-    <StartTime>00:20</StartTime>
+    <StartTime>00:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
@@ -795,7 +808,7 @@
   </Event>
   <Event>
     <Date>14/03/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
