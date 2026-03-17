@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>12:45</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>14:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>16:05</StartTime>
+    <StartTime>16:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 7</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>19:25</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK-Albertslund IF</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>21:45</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -131,8 +131,8 @@
     <LongDescription>Det danske kvindelandshold møder på udebane Grækenland i deres sjette og sidste kvalifikationskamp forud for EM i 2027. Kampen spilles i Ivanofeio Sports Arena i Thessaloniki og kommenteres af Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
   </Event>
   <Event>
-    <Date>24/03/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>23/03/2026</Date>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>00:35</StartTime>
+    <StartTime>00:25</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
     <Title>DM i poker</Title>
     <EpisodeTitle>DM 2025</EpisodeTitle>
@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>22:55</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
@@ -327,7 +327,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>07:40</StartTime>
+    <StartTime>07:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Inter</EpisodeTitle>
@@ -379,7 +379,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>12:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -405,7 +405,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre/>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -418,7 +418,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -431,7 +431,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>18:00</StartTime>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
@@ -444,7 +444,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 7</EpisodeTitle>
@@ -457,7 +457,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>21:05</StartTime>
+    <StartTime>21:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -470,7 +470,7 @@
   </Event>
   <Event>
     <Date>25/03/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK-Albertslund IF</EpisodeTitle>
@@ -483,7 +483,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -496,7 +496,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -652,7 +652,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -665,7 +665,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Como-Inter</EpisodeTitle>
@@ -678,7 +678,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -847,7 +847,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Nordmakedonien</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>09:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -873,7 +873,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>11:20</StartTime>
+    <StartTime>11:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 7</EpisodeTitle>
@@ -886,7 +886,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -899,7 +899,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>13:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-Elmer Møller</EpisodeTitle>
@@ -912,7 +912,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>15:20</StartTime>
+    <StartTime>15:15</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -925,7 +925,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre/>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -938,7 +938,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Randers Cimbria</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
@@ -977,7 +977,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>00:20</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -990,7 +990,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>01:15</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Finals Hong Kong</Title>
     <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
@@ -1003,7 +1003,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
