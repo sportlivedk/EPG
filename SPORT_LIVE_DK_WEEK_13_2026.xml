@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>23/03/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>2. etape, Forcalquier-Montagne de Lure</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>09:25</StartTime>
+    <StartTime>09:30</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>11:15</StartTime>
+    <StartTime>11:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK-Albertslund IF</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>24/03/2026</Date>
-    <StartTime>19:35</StartTime>
+    <StartTime>19:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -496,7 +496,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -522,7 +522,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale 2025</EpisodeTitle>
@@ -535,7 +535,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>07:30</StartTime>
+    <StartTime>07:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
@@ -548,7 +548,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -561,7 +561,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>10:15</StartTime>
+    <StartTime>10:20</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>3. etape, Rognac-Arles</EpisodeTitle>
@@ -574,7 +574,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 7</EpisodeTitle>
@@ -587,7 +587,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -600,7 +600,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -613,7 +613,7 @@
   </Event>
   <Event>
     <Date>26/03/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:20</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hundested IK-Albertslund IF</EpisodeTitle>
@@ -756,7 +756,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>15:10</StartTime>
+    <StartTime>15:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Randers Cimbria</EpisodeTitle>
@@ -782,7 +782,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>18:15</StartTime>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Nordmakedonien</EpisodeTitle>
@@ -873,7 +873,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -886,33 +886,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>11:10</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 7</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>7</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
-    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/03/2026</Date>
-    <StartTime>12:15</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Bolden er flad</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
-    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
-    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>28/03/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-Elmer Møller</EpisodeTitle>
@@ -925,7 +899,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>15:15</StartTime>
+    <StartTime>13:15</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -938,7 +912,33 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>15:55</StartTime>
+    <StartTime>13:55</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>14:45</StartTime>
+    <PrimaryGenre>Futsal</PrimaryGenre>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Albertslund IF-Hundested IK</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
+    <ShortDescription>Albertslund møder Hundested i den anden af tre mulige semifinaler i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Albertslund IF møder Hundested IK i den anden af tre mulige semifinaler i Futsal Ligaen. Kampen spilles i Albertslund Stadionhal og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>17:05</StartTime>
     <PrimaryGenre/>
     <Title>SponsorWorld Masters</Title>
     <EpisodeTitle>SponsorWorld Masters 2026</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Randers Cimbria</EpisodeTitle>
@@ -964,7 +964,20 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>21:10</StartTime>
+    <StartTime>22:15</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 7</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>7</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/03/2026</Date>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
@@ -976,21 +989,8 @@
     <LongDescription>Sporting Clube de Portugal møder Alverca i 27. spillerunde af Liga Portugal på Estádio do FC Alverca nordøst for Lissabon. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
-    <Date>28/03/2026</Date>
-    <StartTime>23:15</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions</Title>
-    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12646-237e66a1-e615-4035-98d7-dae6609aec8c.jpg?temp_url_sig=281dc6e306c12de62ac4f58b2989e68a0a151bc0&amp;temp_url_expires=4927793586</StillSceneUrl>
-    <ShortDescription>Kvartfinale ved WTT Champions i Frankfurt.</ShortDescription>
-    <LongDescription>Kvartfinale mellem danske Anders Lind og franske Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentatorer: Peter Jørgensen og Michael Maze.</LongDescription>
-  </Event>
-  <Event>
     <Date>29/03/2026</Date>
-    <StartTime>00:15</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1003,20 +1003,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>01:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Finals Hong Kong</Title>
-    <EpisodeTitle>Truls Möregårdh-Anders Lind</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12770-7d38d8d7-0568-4d18-a18b-d9a56441a68c.jpg?temp_url_sig=e5a62ad63b261a0d5cf62c653a4ff5d254c5cf84&amp;temp_url_expires=4927793614</StillSceneUrl>
-    <ShortDescription>1/8-finale mellem Anders Lind og Truls Möregårdh ved WTT Finals Hong Kong.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder Truls Möregårdh fra Sverige i 1/8-finalen ved det store finalestævne WTT Finals Hong Kong, hvor kun verdens 16 bedste bordtennisspillere deltager. Kampen afvikles i Hong Kong Coliseum og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/03/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1070,14 +1057,14 @@
     <Date>29/03/2026</Date>
     <StartTime>13:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>Pokalfinale</Title>
-    <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
-    <Season>2026</Season>
+    <Title>Futsal Ligaen</Title>
+    <EpisodeTitle>Albertslund IF-Hundested IK</EpisodeTitle>
+    <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13037-55532e25-50f7-423b-aa4a-eec9731de62f.jpg?temp_url_sig=9128c76993277497a9926236f008d614e8c1528f&amp;temp_url_expires=4927875945</StillSceneUrl>
-    <ShortDescription>Pokalfinale i futsal mellem Aalborg og Albertslund.</ShortDescription>
-    <LongDescription>DBU's første pokalfinale i futsal finder sted i Aalborg Stadionhal, hvor Aalborg Futsal Klub møder Albertslund IF i kampen om pokaltitlen. Kommentatorer: Peter Jørgensen og Clement Cliford.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
+    <ShortDescription>Albertslund møder Hundested i den anden af tre mulige semifinaler i Futsal Ligaen.</ShortDescription>
+    <LongDescription>Albertslund IF møder Hundested IK i den anden af tre mulige semifinaler i Futsal Ligaen. Kampen spilles i Albertslund Stadionhal og kommenteres af Mads Knudsen og Clement Cliford.</LongDescription>
   </Event>
   <Event>
     <Date>29/03/2026</Date>
@@ -1094,7 +1081,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>17:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>Sæsonfinale 2025</EpisodeTitle>
@@ -1107,7 +1094,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>17:20</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -1133,7 +1120,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>EC Open</Title>
     <EpisodeTitle>EC Open 2025</EpisodeTitle>
@@ -1146,7 +1133,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>22:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
