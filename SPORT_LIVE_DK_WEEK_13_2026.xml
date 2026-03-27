@@ -269,7 +269,7 @@
     <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-11177-b19ee576-c8ee-4aa9-ba29-cac2e375546c.jpg?temp_url_sig=88592577def79fbf9c5a1f5de552e9bc31c84360&amp;temp_url_expires=4927792219</StillSceneUrl>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-7766483-f9627be7-7879-42c3-8fb0-d90c033a0163.jpg?temp_url_sig=59839864b4572e495f3d76a00f8614e9714e9656&amp;temp_url_expires=4927792209</StillSceneUrl>
     <ShortDescription>EM-kvalifikationskamp i Gentofte mellem Danmark og Kroatien.</ShortDescription>
     <LongDescription>Det danske kvindelandshold møder på hjemmebane Kroatien i den femte af seks kvalifikationskampe forud for EM i 2027. Kampen spilles i Gentofte Sportspark og kommenteres af Peter Jørgensen og Gritt Ryder.</LongDescription>
   </Event>
@@ -769,7 +769,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>17:35</StartTime>
+    <StartTime>17:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Super Grand Prix</Title>
     <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
@@ -782,7 +782,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>18:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -808,7 +808,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>19:40</StartTime>
+    <StartTime>19:30</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Future Fight Night</Title>
     <EpisodeTitle>Future Fight Night 3</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>27/03/2026</Date>
-    <StartTime>23:50</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Supercoppa Italiana</Title>
     <EpisodeTitle>Napoli-Bologna</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -847,7 +847,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>02:35</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Nordmakedonien</EpisodeTitle>
@@ -873,7 +873,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Grækenland-Danmark</EpisodeTitle>
@@ -886,7 +886,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>11:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-Elmer Møller</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 7</EpisodeTitle>
@@ -977,7 +977,7 @@
   </Event>
   <Event>
     <Date>28/03/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Alverca-Sporting</EpisodeTitle>
@@ -990,7 +990,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1003,7 +1003,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>02:30</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1055,7 +1055,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Albertslund IF-Hundested IK</EpisodeTitle>
@@ -1120,7 +1120,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>EC Open</Title>
     <EpisodeTitle>EC Open 2025</EpisodeTitle>
@@ -1133,7 +1133,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>22:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1146,7 +1146,7 @@
   </Event>
   <Event>
     <Date>29/03/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Supercopa de España</Title>
     <EpisodeTitle>FC Barcelona-Real Madrid</EpisodeTitle>
@@ -1159,7 +1159,7 @@
   </Event>
   <Event>
     <Date>30/03/2026</Date>
-    <StartTime>03:10</StartTime>
+    <StartTime>03:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
