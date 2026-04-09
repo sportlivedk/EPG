@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>21/04/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Super Grand Prix</Title>
     <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>21/04/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>07:55</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>21/04/2026</Date>
-    <StartTime>08:25</StartTime>
+    <StartTime>08:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>FC Porto-Tondela</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>21/04/2026</Date>
-    <StartTime>10:35</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -276,7 +276,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>21/04/2026</Date>
-    <StartTime>15:55</StartTime>
+    <StartTime>16:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -667,8 +667,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
 Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
-    <Date>24/04/2026</Date>
-    <StartTime>00:05</StartTime>
+    <Date>23/04/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter-Como</EpisodeTitle>
@@ -681,7 +681,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>24/04/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
