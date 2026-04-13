@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>13/04/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>13:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>13/04/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -68,7 +68,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/04/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Skotland</EpisodeTitle>
@@ -82,7 +82,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/04/2026</Date>
-    <StartTime>19:10</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -95,7 +95,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/04/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>21:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Randers Cimbria</EpisodeTitle>
@@ -107,8 +107,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <LongDescription>Horsens IC får besøg af pokalmestrene fra Randers Cimbria i Basketligaens mesterskabsspil. Kampen afvikles i Arena Randers  og kommenteres af Peter Jørgensen og Simon Falden.</LongDescription>
   </Event>
   <Event>
-    <Date>14/04/2026</Date>
-    <StartTime>00:20</StartTime>
+    <Date>13/04/2026</Date>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 8</EpisodeTitle>
@@ -121,7 +121,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
-    <StartTime>01:25</StartTime>
+    <StartTime>00:55</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -134,7 +134,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -212,7 +212,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -225,7 +225,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
-    <StartTime>16:10</StartTime>
+    <StartTime>15:45</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12705-b8be2856-2b91-4848-b52b-81f824a32b03.jpg?temp_url_sig=1b0994a9d0e40bd4b014aeeb421552bf67f72d02&amp;temp_url_expires=4927877176</StillSceneUrl>
+    <ShortDescription>Reportage fra Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved det andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/04/2026</Date>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -238,11 +251,11 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Swedish Rental Kart Championship 2026</EpisodeTitle>
-    <Season/>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
@@ -251,7 +264,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
-    <StartTime>17:20</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -265,7 +278,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
-    <StartTime>19:35</StartTime>
+    <StartTime>19:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Skanderborg Fight Night</Title>
     <EpisodeTitle>Skanderborg Fight Night 2026</EpisodeTitle>
@@ -278,7 +291,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/04/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Benfica-Nacional</EpisodeTitle>
@@ -291,7 +304,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>15/04/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>00:35</StartTime>
+    <PrimaryGenre>Poker</PrimaryGenre>
+    <Title>DM i poker</Title>
+    <EpisodeTitle>DM 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12543-b27091ad-94b3-44ed-a3c1-31223f5757ab.jpg?temp_url_sig=7bacba3c8d2d9aae60653f07afc13d25c368067a&amp;temp_url_expires=4927876927</StillSceneUrl>
+    <ShortDescription>Sammendrag fra DM i poker på Casino Copenhagen.</ShortDescription>
+    <LongDescription>Sammendrag fra finalebordet ved DM i poker, som blev spillet på Casino Copenhagen d. 8. september med deltagelse af nogle af landets bedste Texas Hold’em-spillere og over en million kroner i vinderpuljen. Kommentatorer: Peter Jørgensen og Rasmus Agerskov Larsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/04/2026</Date>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -320,8 +346,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>07:35</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Swedish Rental Kart Championship 2026</EpisodeTitle>
-    <Season/>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
@@ -408,7 +434,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>15/04/2026</Date>
-    <StartTime>15:55</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Randers Cimbria</EpisodeTitle>
@@ -421,7 +447,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>15/04/2026</Date>
-    <StartTime>18:15</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -435,7 +461,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>15/04/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -445,6 +471,19 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13154-31b4a925-63d0-46f0-af1c-bce43aae89ee.jpg?temp_url_sig=1e1f4cd376d4fc91c792a2cd004f75f996d63222&amp;temp_url_expires=4929691320</StillSceneUrl>
     <ShortDescription>Damernes og herrernes DM-finaler fra Skinderskovhallen i Herlev.</ShortDescription>
     <LongDescription>Nogle af Danmarks bedste squashspillere er samlet i Skinderskovhallen i Herlev, som danner rammen om damernes og herrernes DM-finaler. Kommentatorer: Martin Kring og Mikkel Kragholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/04/2026</Date>
+    <StartTime>22:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12394-138e0c16-9b8b-4404-a311-6086ac1a2419.jpg?temp_url_sig=cb604b4b295e3be080a563f2db1e5c340e373c47&amp;temp_url_expires=4927876142</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
   </Event>
   <Event>
     <Date>15/04/2026</Date>
@@ -474,7 +513,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -487,7 +526,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>06:55</StartTime>
+    <StartTime>07:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Benfica-Nacional</EpisodeTitle>
@@ -500,7 +539,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>09:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -513,7 +552,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>11:50</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Horsens IC-Randers Cimbria</EpisodeTitle>
@@ -539,7 +578,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>16:45</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -552,7 +591,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>16/04/2026</Date>
-    <StartTime>17:25</StartTime>
+    <StartTime>17:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 8</EpisodeTitle>
@@ -631,7 +670,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
@@ -644,7 +683,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>08:50</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
@@ -657,7 +696,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -670,7 +709,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Horsens IC</EpisodeTitle>
@@ -683,7 +722,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -696,7 +735,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>18:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Korsør Aqtive Days</Title>
+    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
+    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
+    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>17/04/2026</Date>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Bolden er flad</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -709,7 +761,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>17/04/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -752,8 +804,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>23:30</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Swedish Rental Kart Championship 2026</EpisodeTitle>
-    <Season/>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
@@ -788,7 +840,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>18/04/2026</Date>
-    <StartTime>07:25</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -802,7 +854,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>18/04/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:20</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Skotland</EpisodeTitle>
@@ -816,7 +868,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>18/04/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -830,11 +882,24 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>18/04/2026</Date>
+    <StartTime>13:50</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Dansk Gokart Cup</Title>
+    <EpisodeTitle>Sæsonfinale 2025</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12683-6d8b0ee1-1a00-403a-a889-3a49314c4c43.jpg?temp_url_sig=ab796be0f246643771e4cae9aff32cdd91a1494c&amp;temp_url_expires=4927876182</StillSceneUrl>
+    <ShortDescription>Reportage fra finalen i Dansk Gokart Cup i Taastrup.</ShortDescription>
+    <LongDescription>Reportage fra årets finale i Dansk Gokart Cup d. 2. november i Racehall København, hvor nogle af Danmarks bedste indendørs gokartkørere kæmpede om ære og medaljer. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>18/04/2026</Date>
     <StartTime>14:15</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Swedish Rental Kart Championship 2026</EpisodeTitle>
-    <Season/>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
@@ -1015,8 +1080,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>12:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Swedish Rental Kart Championship 2026</EpisodeTitle>
-    <Season/>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
