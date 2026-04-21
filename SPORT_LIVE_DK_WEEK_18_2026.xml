@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>27/04/2026</Date>
-    <StartTime>06:50</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>27/04/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 8</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>27/04/2026</Date>
-    <StartTime>08:25</StartTime>
+    <StartTime>08:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-BC Copenhagen</EpisodeTitle>
@@ -81,7 +81,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/04/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -97,33 +97,33 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>18:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Optakt til semifinale 1</EpisodeTitle>
+    <EpisodeTitle>Optakt til Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12395-e1555218-0d2f-474e-a2a5-1133b3391e75.jpg?temp_url_sig=c819648d7a0464bd04e1b4c9dc0f14c862077756&amp;temp_url_expires=4927791601</StillSceneUrl>
-    <ShortDescription>Optakt til aftenens kamp i Basketligaen.</ShortDescription>
-    <LongDescription>Vi varmer op til aftenens semifinalekamp i Basketligaen. Vært: Jonas Kvist Jepsen.</LongDescription>
+    <ShortDescription>Optakt til aftenens semifinale direkte fra Næstved.</ShortDescription>
+    <LongDescription>Vi sender direkte fra Arena Næstved, hvor vi varmer op til aftenens semifinale i Basketligaen mellem Team FOG Næstved og Svendborg Rabbits. Vært: Jonas Kvist Jepsen.</LongDescription>
   </Event>
   <Event>
     <Date>27/04/2026</Date>
     <StartTime>18:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Første semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den første af fem mulige semifinalerunder i Basketligaen. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>Første semifinale mellem Team FOG Næstved og Svendborg Rabbits.</ShortDescription>
+    <LongDescription>Team FOG Næstved møder på hjemmebane Svendborg Rabbits i den første af fem mulige semifinaler i Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>27/04/2026</Date>
     <StartTime>21:25</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
-    <EpisodeTitle>Finaler i hip hop, battle og showdance</EpisodeTitle>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Premiere</Status>
@@ -141,7 +141,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Albertslund og Hjørring.</ShortDescription>
+    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
   </Event>
   <Event>
@@ -214,13 +214,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>14:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Første semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den første af fem mulige semifinalerunder i Basketligaen. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>Første semifinale mellem Team FOG Næstved og Svendborg Rabbits.</ShortDescription>
+    <LongDescription>Team FOG Næstved møder på hjemmebane Svendborg Rabbits i den første af fem mulige semifinaler i Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>28/04/2026</Date>
@@ -232,7 +232,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Albertslund og Hjørring.</ShortDescription>
+    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
   </Event>
   <Event>
@@ -240,7 +240,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>18:55</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
-    <EpisodeTitle>Finaler i hip hop, battle og showdance</EpisodeTitle>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -323,7 +323,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Albertslund og Hjørring.</ShortDescription>
+    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
   </Event>
   <Event>
@@ -331,7 +331,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>09:45</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
-    <EpisodeTitle>Finaler i hip hop, battle og showdance</EpisodeTitle>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -363,37 +363,11 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Madagaskar ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>29/04/2026</Date>
     <StartTime>16:35</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/04/2026</Date>
-    <StartTime>17:05</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>29/04/2026</Date>
-    <StartTime>17:35</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -406,33 +380,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/04/2026</Date>
-    <StartTime>20:15</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Moreirense</EpisodeTitle>
-    <Season>2025-26</Season>
+    <StartTime>19:15</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Moreirense i 31. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Moreirense i 31. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica. Kommentator: Martin Kring.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12705-b8be2856-2b91-4848-b52b-81f824a32b03.jpg?temp_url_sig=1b0994a9d0e40bd4b014aeeb421552bf67f72d02&amp;temp_url_expires=4927877176</StillSceneUrl>
+    <ShortDescription>Reportage fra Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved det andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
     <Date>29/04/2026</Date>
-    <StartTime>22:25</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 1</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Første semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den første af fem mulige semifinalerunder i Basketligaen. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/04/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 8</EpisodeTitle>
@@ -444,8 +405,34 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
   </Event>
   <Event>
+    <Date>29/04/2026</Date>
+    <StartTime>21:10</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/04/2026</Date>
+    <StartTime>23:20</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Første semifinale mellem Team FOG Næstved og Svendborg Rabbits.</ShortDescription>
+    <LongDescription>Team FOG Næstved møder på hjemmebane Svendborg Rabbits i den første af fem mulige semifinaler i Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
     <Date>30/04/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>01:45</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -474,13 +461,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>07:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Første semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den første af fem mulige semifinalerunder i Basketligaen. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>Første semifinale mellem Team FOG Næstved og Svendborg Rabbits.</ShortDescription>
+    <LongDescription>Team FOG Næstved møder på hjemmebane Svendborg Rabbits i den første af fem mulige semifinaler i Basketligaen. Kampen spilles i Arena Næstved og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>30/04/2026</Date>
@@ -493,7 +480,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Madagaskar ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>30/04/2026</Date>
@@ -526,7 +513,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>17:15</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
-    <EpisodeTitle>Finaler i hip hop, battle og showdance</EpisodeTitle>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -552,26 +539,26 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>18:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Optakt til semifinale 2</EpisodeTitle>
+    <EpisodeTitle>Optakt til Svendborg Rabbits-Team FOG Næstved</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12395-e1555218-0d2f-474e-a2a5-1133b3391e75.jpg?temp_url_sig=c819648d7a0464bd04e1b4c9dc0f14c862077756&amp;temp_url_expires=4927791601</StillSceneUrl>
-    <ShortDescription>Optakt til aftenens kamp i Basketligaen.</ShortDescription>
-    <LongDescription>Vi varmer op til aftenens semifinalekamp i Basketligaen. Vært: Jonas Kvist Jepsen.</LongDescription>
+    <ShortDescription>Optakt til aftenens semifinale direkte fra Svendborg.</ShortDescription>
+    <LongDescription>Vi sender direkte fra Rise Sparekasse Arena i Svendborg, hvor vi varmer op til aftenens semifinale i Basketligaen mellem Svendborg Rabbits og Team FOG Næstved. Vært: Jonas Kvist Jepsen.</LongDescription>
   </Event>
   <Event>
     <Date>30/04/2026</Date>
     <StartTime>18:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 2</EpisodeTitle>
+    <EpisodeTitle>Svendborg Rabbits-Team FOG Næstved</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Anden semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den anden af fem mulige semifinalerunder i Basketligaen. Kommentator: Jeppe Kastrup Martinusen.</LongDescription>
+    <ShortDescription>Anden semifinale mellem Svendborg Rabbits og Team FOG Næstved.</ShortDescription>
+    <LongDescription>Svendborg Rabbits møder på hjemmebane Team FOG Næstved i den anden af fem mulige semifinaler i Basketligaen. Kampen spilles i Rise Sparekasse Arena og kommenteres af Jeppe Kastrup Martinusen.</LongDescription>
   </Event>
   <Event>
     <Date>30/04/2026</Date>
@@ -583,7 +570,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Albertslund og Hjørring.</ShortDescription>
+    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
   </Event>
   <Event>
@@ -591,13 +578,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>23:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Moreirense</EpisodeTitle>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Moreirense i 31. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Moreirense i 31. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon.</LongDescription>
   </Event>
   <Event>
     <Date>01/05/2026</Date>
@@ -669,20 +656,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>13:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 2</EpisodeTitle>
+    <EpisodeTitle>Svendborg Rabbits-Team FOG Næstved</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Anden semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den anden af fem mulige semifinalerunder i Basketligaen. Kommentator: Jeppe Kastrup Martinusen.</LongDescription>
+    <ShortDescription>Anden semifinale mellem Svendborg Rabbits og Team FOG Næstved.</ShortDescription>
+    <LongDescription>Svendborg Rabbits møder på hjemmebane Team FOG Næstved i den anden af fem mulige semifinaler i Basketligaen. Kampen spilles i Rise Sparekasse Arena og kommenteres af Jeppe Kastrup Martinusen.</LongDescription>
   </Event>
   <Event>
     <Date>01/05/2026</Date>
     <StartTime>15:55</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
-    <EpisodeTitle>Finaler i hip hop, battle og showdance</EpisodeTitle>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -714,7 +701,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Albertslund og Hjørring.</ShortDescription>
+    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
   </Event>
   <Event>
@@ -722,13 +709,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>21:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Moreirense</EpisodeTitle>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Moreirense i 31. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Moreirense i 31. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon.</LongDescription>
   </Event>
   <Event>
     <Date>01/05/2026</Date>
@@ -774,7 +761,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>09:50</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
-    <EpisodeTitle>Finaler i hip hop, battle og showdance</EpisodeTitle>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -787,13 +774,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>10:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Moreirense</EpisodeTitle>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Moreirense i 31. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Moreirense i 31. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon.</LongDescription>
   </Event>
   <Event>
     <Date>02/05/2026</Date>
@@ -837,58 +824,32 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>02/05/2026</Date>
     <StartTime>22:00</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Famalicão-Benfica</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Famalicão møder Benfica i 32. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Famalicão møder Benfica og danske Alexander Bah i 32. spillerunde af Liga Portugal på Estádio Municipal de Famalicão. Kommentator: TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/05/2026</Date>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 2</EpisodeTitle>
+    <EpisodeTitle>Svendborg Rabbits-Team FOG Næstved</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Anden semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den anden af fem mulige semifinalerunder i Basketligaen. Kommentator: Jeppe Kastrup Martinusen.</LongDescription>
+    <ShortDescription>Anden semifinale mellem Svendborg Rabbits og Team FOG Næstved.</ShortDescription>
+    <LongDescription>Svendborg Rabbits møder på hjemmebane Team FOG Næstved i den anden af fem mulige semifinaler i Basketligaen. Kampen spilles i Rise Sparekasse Arena og kommenteres af Jeppe Kastrup Martinusen.</LongDescription>
   </Event>
   <Event>
     <Date>03/05/2026</Date>
-    <StartTime>00:30</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/05/2026</Date>
-    <StartTime>00:55</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/05/2026</Date>
-    <StartTime>01:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:35</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -902,19 +863,6 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>03/05/2026</Date>
     <StartTime>07:00</StartTime>
-    <PrimaryGenre>Tennis</PrimaryGenre>
-    <Title>Davis Cup</Title>
-    <EpisodeTitle>Dino Prižmić-Elmer Møller</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
-    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/05/2026</Date>
-    <StartTime>09:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -928,7 +876,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/05/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -941,7 +889,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/05/2026</Date>
-    <StartTime>12:00</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -954,7 +902,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/05/2026</Date>
-    <StartTime>12:35</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -967,20 +915,33 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>03/05/2026</Date>
+    <StartTime>14:40</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Famalicão-Benfica</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Famalicão møder Benfica i 32. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Famalicão møder Benfica og danske Alexander Bah i 32. spillerunde af Liga Portugal på Estádio Municipal de Famalicão. Kommentator: TBA.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/05/2026</Date>
     <StartTime>16:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 2</EpisodeTitle>
+    <EpisodeTitle>Svendborg Rabbits-Team FOG Næstved</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Anden semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den anden af fem mulige semifinalerunder i Basketligaen. Kommentator: Jeppe Kastrup Martinusen.</LongDescription>
+    <ShortDescription>Anden semifinale mellem Svendborg Rabbits og Team FOG Næstved.</ShortDescription>
+    <LongDescription>Svendborg Rabbits møder på hjemmebane Team FOG Næstved i den anden af fem mulige semifinaler i Basketligaen. Kampen spilles i Rise Sparekasse Arena og kommenteres af Jeppe Kastrup Martinusen.</LongDescription>
   </Event>
   <Event>
     <Date>03/05/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Madagaskar</EpisodeTitle>
@@ -989,11 +950,11 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
     <ShortDescription>Danmark møder Madagaskar ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London.</LongDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>03/05/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Mongoliet</EpisodeTitle>
@@ -1009,7 +970,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>01:30</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
-    <EpisodeTitle>Finaler i hip hop, battle og showdance</EpisodeTitle>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
