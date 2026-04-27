@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>08:05</StartTime>
+    <StartTime>08:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Team FOG Næstved</EpisodeTitle>
@@ -37,11 +37,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Anden semifinale mellem Svendborg Rabbits og Team FOG Næstved.</ShortDescription>
-    <LongDescription>Svendborg Rabbits møder på hjemmebane Team FOG Næstved i den anden af fem mulige semifinaler i Basketligaen. Kampen spilles i Rise Sparekasse Arena og kommenteres af Jeppe Kastrup Martinusen.</LongDescription>
+    <LongDescription>Svendborg Rabbits møder på hjemmebane Team FOG Næstved i den anden af fem mulige semifinaler i Basketligaen. Kampen spilles i Rise Sparekasse Arena og kommenteres af Jeppe Kastrup Martinusen og Michael Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>10:30</StartTime>
+    <StartTime>10:40</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -55,7 +55,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>12:45</StartTime>
+    <StartTime>12:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -63,21 +63,21 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
+    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
+    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>15:10</StartTime>
+    <StartTime>15:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
-    <EpisodeTitle>Famalicão-Benfica</EpisodeTitle>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Famalicão møder Benfica i 32. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Famalicão møder Benfica og danske Alexander Bah i 32. spillerunde af Liga Portugal på Estádio Municipal de Famalicão. Kommentator: TBA.</LongDescription>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
@@ -120,8 +120,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>21:25</StartTime>
-    <PrimaryGenre>Dart</PrimaryGenre>
+    <StartTime>21:15</StartTime>
+    <PrimaryGenre/>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
     <Season>2026</Season>
@@ -133,7 +133,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -146,7 +146,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -188,17 +188,17 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>11:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
-    <EpisodeTitle>Famalicão-Benfica</EpisodeTitle>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Famalicão møder Benfica i 32. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Famalicão møder Benfica og danske Alexander Bah i 32. spillerunde af Liga Portugal på Estádio Municipal de Famalicão. Kommentator: TBA.</LongDescription>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Semifinale 3</EpisodeTitle>
@@ -211,7 +211,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>15:55</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -224,7 +224,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -237,7 +237,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -250,7 +250,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>17:35</StartTime>
+    <StartTime>17:20</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -263,7 +263,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -276,7 +276,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>20:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -289,7 +289,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>21:50</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -302,7 +302,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -310,12 +310,12 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
+    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
+    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>01:05</StartTime>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -328,7 +328,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
@@ -341,7 +341,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -354,7 +354,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -362,13 +362,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
+    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
+    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>09:30</StartTime>
-    <PrimaryGenre>Dart</PrimaryGenre>
+    <StartTime>09:35</StartTime>
+    <PrimaryGenre/>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
     <Season>2026</Season>
@@ -380,7 +380,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -393,7 +393,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -406,20 +406,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
-    <EpisodeTitle>Famalicão-Benfica</EpisodeTitle>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Famalicão møder Benfica i 32. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Famalicão møder Benfica og danske Alexander Bah i 32. spillerunde af Liga Portugal på Estádio Municipal de Famalicão. Kommentator: TBA.</LongDescription>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>17:10</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Skotland</EpisodeTitle>
@@ -433,7 +433,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>19:30</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -459,7 +459,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Semifinale 3</EpisodeTitle>
@@ -472,7 +472,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -485,7 +485,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>07/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -576,7 +576,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>07/05/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Semifinale 3</EpisodeTitle>
@@ -589,7 +589,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>07/05/2026</Date>
-    <StartTime>18:15</StartTime>
+    <StartTime>18:05</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -602,7 +602,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>07/05/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>18:40</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter-Como</EpisodeTitle>
@@ -615,7 +615,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>07/05/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -623,25 +623,38 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
+    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
+    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>07/05/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
-    <EpisodeTitle>Famalicão-Benfica</EpisodeTitle>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Famalicão møder Benfica i 32. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Famalicão møder Benfica og danske Alexander Bah i 32. spillerunde af Liga Portugal på Estádio Municipal de Famalicão. Kommentator: TBA.</LongDescription>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:20</StartTime>
+    <PrimaryGenre>Mountainbike</PrimaryGenre>
+    <Title>Shimano MTB Liga</Title>
+    <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12480-16bf9719-81dc-4911-8000-51b96558c6bc.jpg?temp_url_sig=ac171a5aeb4c90d1e57c22ca7d59d6af2f98516d&amp;temp_url_expires=4927876407</StillSceneUrl>
+    <ShortDescription>Reportage fra sjette afdeling af Shimano MTB Ligaen i Rold Skov.</ShortDescription>
+    <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/05/2026</Date>
+    <StartTime>01:45</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
@@ -654,7 +667,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -667,7 +680,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -680,7 +693,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
-    <StartTime>07:40</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -693,7 +706,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
-    <StartTime>08:05</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -706,7 +719,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Davis Cup</Title>
     <EpisodeTitle>Matej Dodig-Elmer Møller</EpisodeTitle>
@@ -719,7 +732,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
-    <StartTime>10:30</StartTime>
+    <StartTime>10:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -732,7 +745,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter-Como</EpisodeTitle>
@@ -753,8 +766,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
+    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
+    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>08/05/2026</Date>
@@ -773,7 +786,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>08/05/2026</Date>
     <StartTime>18:30</StartTime>
-    <PrimaryGenre>Dart</PrimaryGenre>
+    <PrimaryGenre/>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
     <Season>2026</Season>
@@ -798,7 +811,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>09/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -814,13 +827,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
-    <EpisodeTitle>Famalicão-Benfica</EpisodeTitle>
+    <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Famalicão møder Benfica i 32. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Famalicão møder Benfica og danske Alexander Bah i 32. spillerunde af Liga Portugal på Estádio Municipal de Famalicão. Kommentator: TBA.</LongDescription>
+    <ShortDescription>Sporting tager imod Tondela i 26. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Sporting Clube de Portugal møder Tondela i 26. spillerunde af Liga Portugal hjemme på Estádio José Alvalade i Lissabon. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>09/05/2026</Date>
@@ -850,7 +863,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>09/05/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -863,7 +876,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>09/05/2026</Date>
-    <StartTime>17:20</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -871,12 +884,12 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
-    <ShortDescription>Den anden af tre mulige finalekampe i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
-    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den anden af tre mulige finalekampe i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Peter Jørgensen og Clement Cliford.</LongDescription>
+    <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
+    <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>09/05/2026</Date>
-    <StartTime>19:50</StartTime>
+    <StartTime>19:40</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -889,7 +902,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>09/05/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -902,7 +915,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>09/05/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -916,7 +929,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/05/2026</Date>
-    <StartTime>01:50</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
@@ -929,7 +942,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/05/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -942,7 +955,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/05/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter-Como</EpisodeTitle>
@@ -981,7 +994,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/05/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1033,7 +1046,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/05/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -1087,7 +1100,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
