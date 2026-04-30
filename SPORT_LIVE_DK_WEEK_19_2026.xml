@@ -1033,6 +1033,19 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/05/2026</Date>
+    <StartTime>10:30</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Super Grand Prix</Title>
+    <EpisodeTitle>Super Grand Prix 2</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12705-b8be2856-2b91-4848-b52b-81f824a32b03.jpg?temp_url_sig=1b0994a9d0e40bd4b014aeeb421552bf67f72d02&amp;temp_url_expires=4927877176</StillSceneUrl>
+    <ShortDescription>Reportage fra Super Grand Prix 2 i Holbæk.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved det andet Super Grand Prix d. 8. november i Holbæk Squashklub, hvor nogle af Danmarks bedste spillere dystede om ære og vigtige DM-ranglistepoint. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/05/2026</Date>
     <StartTime>11:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive Days</Title>
@@ -1046,7 +1059,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/05/2026</Date>
-    <StartTime>11:40</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM Triatlon Serien</Title>
     <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
@@ -1059,7 +1072,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>10/05/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Georgien</EpisodeTitle>
