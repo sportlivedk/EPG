@@ -2,7 +2,20 @@
 <EPG>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:05</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Swedish Rental Kart Championship</Title>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
+    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/05/2026</Date>
+    <StartTime>07:30</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
@@ -15,7 +28,7 @@
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>08:00</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
@@ -28,7 +41,7 @@
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>08:15</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Team FOG Næstved</EpisodeTitle>
@@ -41,7 +54,7 @@
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>10:40</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -55,7 +68,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -68,7 +81,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>15:15</StartTime>
+    <StartTime>15:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Liga Portugal</Title>
     <EpisodeTitle>Sporting-Tondela</EpisodeTitle>
@@ -81,7 +94,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
-    <StartTime>17:20</StartTime>
+    <StartTime>17:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -97,26 +110,26 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>18:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Optakt til semifinale 3</EpisodeTitle>
+    <EpisodeTitle>Optakt til Bakken Bears-Horsens IC</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12395-e1555218-0d2f-474e-a2a5-1133b3391e75.jpg?temp_url_sig=c819648d7a0464bd04e1b4c9dc0f14c862077756&amp;temp_url_expires=4927791601</StillSceneUrl>
-    <ShortDescription>Optakt til aftenens kamp i Basketligaen.</ShortDescription>
-    <LongDescription>Vi varmer op til aftenens semifinalekamp i Basketligaen. Vært: Jonas Kvist Jepsen.</LongDescription>
+    <ShortDescription>Optakt til aftenens semifinalekamp direkte fra Aarhus.</ShortDescription>
+    <LongDescription>Vi sender direkte fra Sparekassen Danmark Basketball Center i Aarhus, hvor vi varmer op til den tredje semifinale i Basketligaen mellem Bakken Bears og Horsens IC. Værter: Jonas Kvist Jepsen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
     <StartTime>18:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 3</EpisodeTitle>
+    <EpisodeTitle>Bakken Bears-Horsens IC</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Tredje semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den tredje af fem mulige semifinalerunder i Basketligaen. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>Tredje semifinale i Basketligaen mellem Bakken Bears og Horsens IC.</ShortDescription>
+    <LongDescription>Bakken Bears får besøg af Horsens IC i den tredje af fem mulige semifinalekampe i Basketligaen. Kampen spilles i Sparekassen Danmark Basketball Center i Aarhus og kommenteres af Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>04/05/2026</Date>
@@ -201,13 +214,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>13:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 3</EpisodeTitle>
+    <EpisodeTitle>Bakken Bears-Horsens IC</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Tredje semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den tredje af fem mulige semifinalerunder i Basketligaen. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>Tredje semifinale i Basketligaen mellem Bakken Bears og Horsens IC.</ShortDescription>
+    <LongDescription>Bakken Bears får besøg af Horsens IC i den tredje af fem mulige semifinalekampe i Basketligaen. Kampen spilles i Sparekassen Danmark Basketball Center i Aarhus og kommenteres af Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>05/05/2026</Date>
@@ -462,13 +475,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>21:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 3</EpisodeTitle>
+    <EpisodeTitle>Bakken Bears-Horsens IC</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Tredje semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den tredje af fem mulige semifinalerunder i Basketligaen. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>Tredje semifinale i Basketligaen mellem Bakken Bears og Horsens IC.</ShortDescription>
+    <LongDescription>Bakken Bears får besøg af Horsens IC i den tredje af fem mulige semifinalekampe i Basketligaen. Kampen spilles i Sparekassen Danmark Basketball Center i Aarhus og kommenteres af Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>06/05/2026</Date>
@@ -592,13 +605,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>15:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Semifinale 3</EpisodeTitle>
+    <EpisodeTitle>Bakken Bears-Horsens IC</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Tredje semifinalerunde i Basketligaen.</ShortDescription>
-    <LongDescription>Den tredje af fem mulige semifinalerunder i Basketligaen. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>Tredje semifinale i Basketligaen mellem Bakken Bears og Horsens IC.</ShortDescription>
+    <LongDescription>Bakken Bears får besøg af Horsens IC i den tredje af fem mulige semifinalekampe i Basketligaen. Kampen spilles i Sparekassen Danmark Basketball Center i Aarhus og kommenteres af Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>07/05/2026</Date>
