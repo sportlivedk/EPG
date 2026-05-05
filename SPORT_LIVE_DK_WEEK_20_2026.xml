@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Mexico</EpisodeTitle>
@@ -15,8 +15,8 @@
   </Event>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>08:55</StartTime>
-    <PrimaryGenre>Dart</PrimaryGenre>
+    <StartTime>09:00</StartTime>
+    <PrimaryGenre/>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
     <Season>2026</Season>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -54,20 +54,7 @@
   </Event>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>13:30</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Braga</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Braga i 33. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Braga i 33. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>15:40</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -80,7 +67,7 @@
   </Event>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -93,7 +80,7 @@
   </Event>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>17:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -106,20 +93,7 @@
   </Event>
   <Event>
     <Date>11/05/2026</Date>
-    <StartTime>20:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>VM for hold</Title>
-    <EpisodeTitle>Finale for herrer</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved bordtennis-VM for hold fra OVO Arena Wembley i London. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/05/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -131,8 +105,34 @@
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
+    <Date>11/05/2026</Date>
+    <StartTime>21:10</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Benfica-Braga</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Benfica får besøg af Braga i 33. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica og danske Alexander Bah får besøg af Braga i 33. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica.</LongDescription>
+  </Event>
+  <Event>
+    <Date>11/05/2026</Date>
+    <StartTime>23:20</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>VM for hold</Title>
+    <EpisodeTitle>Finale for herrer</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
+    <ShortDescription>Herrernes finale ved bordtennis-VM for hold i London.</ShortDescription>
+    <LongDescription>Herrernes finalekamp ved bordtennis-VM for hold fra OVO Arena Wembley i London. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
     <Date>12/05/2026</Date>
-    <StartTime>01:00</StartTime>
+    <StartTime>01:15</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>12/05/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>12/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -185,19 +185,6 @@
   <Event>
     <Date>12/05/2026</Date>
     <StartTime>08:15</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>Liga Portugal</Title>
-    <EpisodeTitle>Benfica-Braga</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
-    <ShortDescription>Benfica får besøg af Braga i 33. spillerunde af Liga Portugal.</ShortDescription>
-    <LongDescription>Benfica og danske Alexander Bah får besøg af Braga i 33. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/05/2026</Date>
-    <StartTime>10:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Malta-Danmark</EpisodeTitle>
@@ -211,7 +198,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>12/05/2026</Date>
-    <StartTime>12:35</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -221,6 +208,19 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
     <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen og Mathias Blankensteiner.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/05/2026</Date>
+    <StartTime>13:25</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>Liga Portugal</Title>
+    <EpisodeTitle>Benfica-Braga</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12489-20d73d75-71b9-4752-a956-a61645dcc591.jpg?temp_url_sig=b801388d60012ce77e5eb8092e4ad1ad6d9dfb74&amp;temp_url_expires=4927795720</StillSceneUrl>
+    <ShortDescription>Benfica får besøg af Braga i 33. spillerunde af Liga Portugal.</ShortDescription>
+    <LongDescription>Benfica og danske Alexander Bah får besøg af Braga i 33. spillerunde af Liga Portugal på Estádio do Sport Lisboa e Benfica.</LongDescription>
   </Event>
   <Event>
     <Date>12/05/2026</Date>
@@ -264,19 +264,19 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>12/05/2026</Date>
     <StartTime>20:55</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>VM for hold</Title>
+    <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
+    <ShortDescription>Danmarks 1/8-finale mod Taiwan ved bordtennis-VM for hold i London.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Taiwan i 1/8-finalen ved VM for hold, som afvikles i den legendariske OVO Arena Wembley i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>12/05/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Skanderborg Fight Night</Title>
     <EpisodeTitle>Skanderborg Fight Night 2026</EpisodeTitle>
@@ -289,20 +289,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>00:50</StartTime>
-    <PrimaryGenre>Poker</PrimaryGenre>
-    <Title>DM i poker</Title>
-    <EpisodeTitle>DM 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12543-b27091ad-94b3-44ed-a3c1-31223f5757ab.jpg?temp_url_sig=7bacba3c8d2d9aae60653f07afc13d25c368067a&amp;temp_url_expires=4927876927</StillSceneUrl>
-    <ShortDescription>Sammendrag fra DM i poker på Casino Copenhagen.</ShortDescription>
-    <LongDescription>Sammendrag fra finalebordet ved DM i poker, som blev spillet på Casino Copenhagen d. 8. september med deltagelse af nogle af landets bedste Texas Hold’em-spillere og over en million kroner i vinderpuljen. Kommentatorer: Peter Jørgensen og Rasmus Agerskov Larsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>13/05/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -315,33 +302,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
-    <EpisodeTitle>Danmark-Mongoliet</EpisodeTitle>
+    <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
-    <ShortDescription>Danmark møder Mongoliet ved bordtennis-VM for hold i London.</ShortDescription>
-    <LongDescription>Det danske herrelandshold i bordtennis møder Mongoliet i den sidste af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
+    <ShortDescription>Danmarks 1/8-finale mod Taiwan ved bordtennis-VM for hold i London.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Taiwan i 1/8-finalen ved VM for hold, som afvikles i den legendariske OVO Arena Wembley i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>08:15</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>13/05/2026</Date>
-    <StartTime>08:50</StartTime>
+    <StartTime>08:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Finale for herrer</EpisodeTitle>
@@ -354,7 +328,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Skotland</EpisodeTitle>
@@ -368,7 +342,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>13:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Næstved Bordtennis-Herlev IF</EpisodeTitle>
@@ -381,7 +355,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -394,7 +368,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>18:45</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Inter-Como</EpisodeTitle>
@@ -448,7 +422,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Date>14/05/2026</Date>
     <StartTime>01:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Korsør Aqtive Days</Title>
+    <Title>Korsør Aqtive days 2025</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
@@ -472,7 +446,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/05/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -486,7 +460,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/05/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -499,7 +473,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/05/2026</Date>
-    <StartTime>11:45</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -512,8 +486,8 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>14/05/2026</Date>
-    <StartTime>12:10</StartTime>
-    <PrimaryGenre>Dart</PrimaryGenre>
+    <StartTime>12:05</StartTime>
+    <PrimaryGenre/>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
     <Season>2026</Season>
@@ -618,7 +592,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Date>15/05/2026</Date>
     <StartTime>00:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Finals Hong Kong</Title>
+    <Title>WTT Finals</Title>
     <EpisodeTitle>Truls Möregårdh-Tomokazu Harimoto</EpisodeTitle>
     <Season>2025</Season>
     <EpisodeNo/>
