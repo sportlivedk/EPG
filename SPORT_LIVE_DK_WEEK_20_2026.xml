@@ -16,7 +16,7 @@
   <Event>
     <Date>11/05/2026</Date>
     <StartTime>09:00</StartTime>
-    <PrimaryGenre/>
+    <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
     <Season>2026</Season>
@@ -276,7 +276,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>12/05/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Skanderborg Fight Night</Title>
     <EpisodeTitle>Skanderborg Fight Night 2026</EpisodeTitle>
@@ -289,7 +289,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -302,7 +302,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>13/05/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
@@ -487,7 +487,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>14/05/2026</Date>
     <StartTime>12:05</StartTime>
-    <PrimaryGenre/>
+    <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
     <Season>2026</Season>
