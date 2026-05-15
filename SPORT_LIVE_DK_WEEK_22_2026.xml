@@ -76,7 +76,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>25/05/2026</Date>
@@ -133,7 +133,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>B.93-Lyngby (m)</EpisodeTitle>
@@ -146,7 +146,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>10:25</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Canada</EpisodeTitle>
@@ -159,7 +159,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -168,11 +168,11 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>16:05</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -185,7 +185,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>17:10</StartTime>
+    <StartTime>17:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -198,7 +198,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -211,7 +211,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -224,7 +224,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -237,7 +237,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Japan-Kina</EpisodeTitle>
@@ -250,7 +250,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -329,19 +329,6 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>27/05/2026</Date>
     <StartTime>18:05</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>27/05/2026</Date>
-    <StartTime>18:30</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -354,7 +341,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>21:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -363,11 +350,11 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
-    <Date>28/05/2026</Date>
-    <StartTime>00:20</StartTime>
+    <Date>27/05/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -380,7 +367,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -415,7 +402,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
@@ -432,7 +419,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:45</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -445,7 +432,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>B.93-Lyngby (m)</EpisodeTitle>
@@ -458,7 +445,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Canada</EpisodeTitle>
@@ -471,7 +458,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>19:35</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -484,7 +471,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -497,7 +484,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -510,7 +497,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>06:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -523,7 +510,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -558,7 +545,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
     <ShortDescription>Den første af seks kvalifikationskampe til kvindernes European League.</ShortDescription>
-    <LongDescription>Albanien møder Luxembourg i den indledende kvalifikationsrunde til kvindernes European League. Kampen spilles i SJF Bank Arena i Odense og kommenteres af Mads Knudsen og TBA.</LongDescription>
+    <LongDescription>Albanien møder Luxembourg i den indledende kvalifikationsrunde til kvindernes European League. Kampen spilles i SJF Bank Arena i Odense og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
@@ -597,7 +584,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
@@ -640,20 +627,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>07:05</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Korsør Aqtive days 2025</Title>
-    <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
-    <Season>2025</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12386-ec2d7806-8e3e-42f3-94f4-bc95c2ab9ba6.jpg?temp_url_sig=a7a76d4c7774e14f32f3df6afacb589da4717b51&amp;temp_url_expires=4927876244</StillSceneUrl>
-    <ShortDescription>Reportage fra Korsør Aqtive Days på Halsskov Færgehavn.</ShortDescription>
-    <LongDescription>Reportage fra vandsportsfestivalen Korsør Aqtive Days, som løb af stablen på Halsskov Færgehavn d. 23. august med masser af spændende aktiviteter, bl.a. wakeboarding, coastal roning, vandpolo, beachvolley, dykning, havsvømning og high diving. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/05/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -666,7 +640,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>10:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -679,7 +653,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>12:10</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -692,7 +666,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>30/05/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -913,7 +887,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>31/05/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -922,11 +896,11 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
     <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentator: Peter Jørgensen.</LongDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>01/06/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:45</StartTime>
     <PrimaryGenre>Poker</PrimaryGenre>
     <Title>DM i poker</Title>
     <EpisodeTitle>DM 2025</EpisodeTitle>
@@ -939,7 +913,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>01/06/2026</Date>
-    <StartTime>01:50</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
