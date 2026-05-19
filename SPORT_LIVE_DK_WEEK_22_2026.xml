@@ -70,30 +70,30 @@
     <StartTime>18:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <EpisodeTitle>Optakt til Team FOG Næstved-Bakken Bears</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12395-e1555218-0d2f-474e-a2a5-1133b3391e75.jpg?temp_url_sig=c819648d7a0464bd04e1b4c9dc0f14c862077756&amp;temp_url_expires=4927791601</StillSceneUrl>
+    <ShortDescription>Optakt til aftenens finalekamp direkte fra Næstved.</ShortDescription>
+    <LongDescription>Vi sender direkte fra Arena Næstved, hvor vi varmer op til aftenens finalekamp i Basketligaen mellem Team FOG Næstved og Bakken Bears. Vært: Jonas Kvist Jepsen.</LongDescription>
   </Event>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>20:50</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
+    <StartTime>18:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Basketligaen</Title>
+    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
+    <Season>2025-26</Season>
     <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
+    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved.</LongDescription>
   </Event>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Pokalturneringen</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>23:45</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Danmark-Andorra</EpisodeTitle>
@@ -120,7 +120,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -162,13 +162,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>13:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
+    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved.</LongDescription>
   </Event>
   <Event>
     <Date>26/05/2026</Date>
@@ -344,13 +344,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>21:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
+    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
@@ -396,13 +396,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>08:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
+    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
@@ -578,13 +578,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>21:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
+    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
@@ -890,13 +890,13 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StartTime>22:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
+    <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
     <Season>2025-26</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12393-7f74609b-1127-403b-a764-870b0c1b36cc.jpg?temp_url_sig=79c37bf60d5066379e3337ab7286f5fa437a0cfd&amp;temp_url_expires=4927791513</StillSceneUrl>
-    <ShortDescription>Den tredje af fem mulige finalekampe i Basketligaen.</ShortDescription>
-    <LongDescription>Kampen om DM-guldet fortsætter med den tredje af fem mulige finaler i Basketligaen, når Bakken Bears tager i mod Team FOG Næstved i Sparekassen Danmark Basketball Center i Aarhus. Kommentatorer: Peter Jørgensen og Anders Katholm.</LongDescription>
+    <ShortDescription>Den fjerde af fem mulige finalekampe i Basketligaen.</ShortDescription>
+    <LongDescription>Kampen om DM-guldet fortsætter med den fjerde af fem mulige finaler i Basketligaen mellem Team FOG Næstved og Bakken Bears. Kampen spilles i Arena Næstved.</LongDescription>
   </Event>
   <Event>
     <Date>01/06/2026</Date>
