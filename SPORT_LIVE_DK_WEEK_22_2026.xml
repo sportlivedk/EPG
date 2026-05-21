@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Mexico</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Madagaskar</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Mongoliet</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:25</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -64,6 +64,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
     <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
     <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/05/2026</Date>
+    <StartTime>17:25</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 9</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>9</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
   </Event>
   <Event>
     <Date>25/05/2026</Date>
@@ -277,6 +290,19 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   <Event>
     <Date>27/05/2026</Date>
     <StartTime>09:10</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>SPORT LIVE vil til OL</Title>
+    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Season/>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
+    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
+    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/05/2026</Date>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -289,7 +315,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
@@ -302,7 +328,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -312,6 +338,19 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13154-31b4a925-63d0-46f0-af1c-bce43aae89ee.jpg?temp_url_sig=1e1f4cd376d4fc91c792a2cd004f75f996d63222&amp;temp_url_expires=4929691320</StillSceneUrl>
     <ShortDescription>Damernes og herrernes DM-finaler fra Skinderskovhallen i Herlev.</ShortDescription>
     <LongDescription>Nogle af Danmarks bedste squashspillere er samlet i Skinderskovhallen i Herlev, som danner rammen om damernes og herrernes DM-finaler. Kommentatorer: Martin Kring og Mikkel Kragholm.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/05/2026</Date>
+    <StartTime>17:05</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Swedish Rental Kart Championship</Title>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
+    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
     <Date>27/05/2026</Date>
@@ -471,7 +510,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>28/05/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>22:20</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>28/05/2026</Date>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -484,7 +536,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -497,7 +549,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>06:50</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -510,7 +562,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>09:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -523,7 +575,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -533,6 +585,19 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
     <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
     <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/05/2026</Date>
+    <StartTime>15:05</StartTime>
+    <PrimaryGenre>Squash</PrimaryGenre>
+    <Title>Odense Open</Title>
+    <EpisodeTitle>Odense Open 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13110-cb846f4f-eb45-48fe-b8b3-985b9f130041.jpg?temp_url_sig=5751d48b4bbb1393c0400b6838c8b90ddd40e74f&amp;temp_url_expires=4927863305</StillSceneUrl>
+    <ShortDescription>Reportage fra den internationale PSA-turnering Odense Open.</ShortDescription>
+    <LongDescription>Reportage fra finaledagen ved den store internationale PSA Squash Tour-turnering Odense Open, som fandt sted d. 7. marts i Odense Squash Club med over 200 deltagere fra 18 forskellige lande. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
     <Date>29/05/2026</Date>
@@ -770,7 +835,7 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>31/05/2026</Date>
-    <StartTime>06:55</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -783,7 +848,20 @@ Mads Knudsen og Mathias Blankensteiner.</LongDescription>
   </Event>
   <Event>
     <Date>31/05/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>08:00</StartTime>
+    <PrimaryGenre>Triatlon</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
+    <Season>2025</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12394-138e0c16-9b8b-4404-a311-6086ac1a2419.jpg?temp_url_sig=cb604b4b295e3be080a563f2db1e5c340e373c47&amp;temp_url_expires=4927876142</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>31/05/2026</Date>
+    <StartTime>08:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>

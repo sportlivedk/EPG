@@ -444,7 +444,20 @@
   </Event>
   <Event>
     <Date>21/05/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>15:10</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Bolden er flad</Title>
+    <EpisodeTitle>Program 2</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>2</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12663-2b56fc0e-917f-4804-88ca-b032f1762bd4.jpg?temp_url_sig=1108bffef2b1890ee4ec91e89ea6feaadfd35d0d&amp;temp_url_expires=4927864896</StillSceneUrl>
+    <ShortDescription>Magasinprogrammet Bolden er flad går helt tæt på dansk futsal.</ShortDescription>
+    <LongDescription>SPORT LIVEs futsalmagasin sætter denne gang fokus på slutspillet i Futsal Ligaen samt pokalfinalen og landsholdets kommende VM-kvalifikationskampe. Blandt gæsterne i studiet er landstræner Nikolaj Saabye. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>21/05/2026</Date>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -691,7 +704,33 @@
   </Event>
   <Event>
     <Date>23/05/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>12:10</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Swedish Rental Kart Championship</Title>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
+    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/05/2026</Date>
+    <StartTime>12:35</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Dansk Gokart Cup</Title>
+    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
+    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
+    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/05/2026</Date>
+    <StartTime>13:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
@@ -795,6 +834,19 @@
   </Event>
   <Event>
     <Date>24/05/2026</Date>
+    <StartTime>09:30</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Overtime</Title>
+    <EpisodeTitle>Program 9</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo>9</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
+    <ShortDescription>Jonas Kvist Jepsen og Thomas Døssing stiller skarpt på Basketligaen.</ShortDescription>
+    <LongDescription>Basketmagasinet Overtime er tilbage på SPORT LIVE med højdepunkter, analyser og interviews omkring den danske basketliga. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/05/2026</Date>
     <StartTime>10:35</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
@@ -821,7 +873,7 @@
   </Event>
   <Event>
     <Date>24/05/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open 2026</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -834,7 +886,7 @@
   </Event>
   <Event>
     <Date>24/05/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Bakken Bears-Team FOG Næstved</EpisodeTitle>
@@ -847,7 +899,7 @@
   </Event>
   <Event>
     <Date>24/05/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -860,7 +912,7 @@
   </Event>
   <Event>
     <Date>24/05/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -873,7 +925,7 @@
   </Event>
   <Event>
     <Date>24/05/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -886,7 +938,7 @@
   </Event>
   <Event>
     <Date>25/05/2026</Date>
-    <StartTime>00:55</StartTime>
+    <StartTime>01:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Mongoliet</EpisodeTitle>
