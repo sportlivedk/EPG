@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>21:10</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>02/06/2026</Date>
-    <StartTime>21:50</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Litauen-Danmark (k)</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>03/06/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Mexico</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>03/06/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -535,7 +535,7 @@
   </Event>
   <Event>
     <Date>04/06/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -548,7 +548,7 @@
   </Event>
   <Event>
     <Date>04/06/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive days 2025</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -561,7 +561,7 @@
   </Event>
   <Event>
     <Date>04/06/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -574,7 +574,7 @@
   </Event>
   <Event>
     <Date>04/06/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -587,7 +587,7 @@
   </Event>
   <Event>
     <Date>04/06/2026</Date>
-    <StartTime>17:20</StartTime>
+    <StartTime>17:30</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Hørsholm Rungsted-KB (k)</EpisodeTitle>
@@ -600,7 +600,7 @@
   </Event>
   <Event>
     <Date>04/06/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Luxembourg-Danmark (k)</EpisodeTitle>
@@ -613,7 +613,7 @@
   </Event>
   <Event>
     <Date>04/06/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Skanderborg Fight Night</Title>
     <EpisodeTitle>Skanderborg Fight Night 2026</EpisodeTitle>
@@ -626,7 +626,7 @@
   </Event>
   <Event>
     <Date>05/06/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>06/06/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1029,7 +1029,7 @@
   </Event>
   <Event>
     <Date>07/06/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Mongoliet</EpisodeTitle>
@@ -1042,7 +1042,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>00:00</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 9</EpisodeTitle>
@@ -1055,7 +1055,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>01:05</StartTime>
+    <StartTime>01:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -1068,7 +1068,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Korsør Aqtive days 2025</Title>
     <EpisodeTitle>Korsør Aqtive Days 2025</EpisodeTitle>
@@ -1081,7 +1081,7 @@
   </Event>
   <Event>
     <Date>08/06/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
