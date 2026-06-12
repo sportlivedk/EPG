@@ -29,15 +29,15 @@
   <Event>
     <Date>22/06/2026</Date>
     <StartTime>12:25</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for damer</Title>
-    <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
+    <PrimaryGenre>Tennis</PrimaryGenre>
+    <Title>Davis Cup</Title>
+    <EpisodeTitle>Dino Prižmić-August Holmgren</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13672-03f7f28e-334d-4333-9bfc-30cb6e6ec5be.jpg?temp_url_sig=ef0562dd90ad625c8308363713f7f9275813184b&amp;temp_url_expires=4935128011</StillSceneUrl>
-    <ShortDescription>Kildeskoven møder Roskilde i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for damer spilles i Roskilde Kongres- og Idrætscenter, hvor Kildeskoven møder Roskilde BTK 61. Kommentatorer: Martin Kring og Jacob Henkov.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12938-fe438f52-1c96-4a42-b529-75408ccd18ae.jpg?temp_url_sig=ae52783746e6e03535b90ad370b9e90c8b6b147c&amp;temp_url_expires=4927877472</StillSceneUrl>
+    <ShortDescription>Kvalifikationskamp i Davis Cup mellem Danmark og Kroatien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i tennis møder på udebane Kroatien i første kvalifikationsrunde til efterårets Davis Cup Finals. Kampen spilles i Arena Varazdin og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>22/06/2026</Date>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>22/06/2026</Date>
-    <StartTime>19:30</StartTime>
+    <StartTime>19:25</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -144,8 +144,8 @@
     <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
   </Event>
   <Event>
-    <Date>23/06/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>22/06/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Georgien</EpisodeTitle>
@@ -314,20 +314,33 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for damer</Title>
-    <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
+    <Title>VM for hold</Title>
+    <EpisodeTitle>Danmark-Madagaskar</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13672-03f7f28e-334d-4333-9bfc-30cb6e6ec5be.jpg?temp_url_sig=ef0562dd90ad625c8308363713f7f9275813184b&amp;temp_url_expires=4935128011</StillSceneUrl>
-    <ShortDescription>Kildeskoven møder Roskilde i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for damer spilles i Roskilde Kongres- og Idrætscenter, hvor Kildeskoven møder Roskilde BTK 61. Kommentatorer: Martin Kring og Jacob Henkov.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
+    <ShortDescription>Danmark møder Madagaskar ved bordtennis-VM for hold i London.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Madagaskar i den anden af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>08:25</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>VM for hold</Title>
+    <EpisodeTitle>Danmark-Mongoliet</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13249-64ec7cf4-21f3-4b52-ae21-0bd33acd09e5.jpg?temp_url_sig=2372f341ce1a474fc976bb22ee8552c285c9b241&amp;temp_url_expires=4931506780</StillSceneUrl>
+    <ShortDescription>Danmark møder Mongoliet ved bordtennis-VM for hold i London.</ShortDescription>
+    <LongDescription>Det danske herrelandshold i bordtennis møder Mongoliet i den sidste af tre indledende kampe ved VM for hold, som afvikles i Copper Box Arena i London. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/06/2026</Date>
+    <StartTime>09:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
@@ -340,7 +353,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>11:45</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Albanien (m)</EpisodeTitle>
@@ -353,7 +366,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Pokalfinale</Title>
     <EpisodeTitle>Aalborg Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -366,7 +379,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>16:10</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -379,7 +392,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -392,7 +405,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>18:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -405,7 +418,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>20:10</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -418,7 +431,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>20:50</StartTime>
+    <StartTime>20:40</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -431,7 +444,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Bording Cup</Title>
     <EpisodeTitle>4. afdeling, Køge</EpisodeTitle>
@@ -444,7 +457,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Mountainbike</PrimaryGenre>
     <Title>Shimano MTB Liga</Title>
     <EpisodeTitle>6. afdeling, Rold Skov</EpisodeTitle>
@@ -456,8 +469,8 @@
     <LongDescription>Reportage fra sæsonens sjette og sidste afdeling af Shimano MTB Ligaen, som blev afviklet d. 28. september på en cirka 10 kilometer lang rute gennem naturskønne omgivelser i Rold Skov. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
-    <Date>25/06/2026</Date>
-    <StartTime>00:05</StartTime>
+    <Date>24/06/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Cykling</PrimaryGenre>
     <Title>Tour de La Provence</Title>
     <EpisodeTitle>1. etape, Marseille-Saint-Victoret</EpisodeTitle>
@@ -470,7 +483,7 @@
   </Event>
   <Event>
     <Date>25/06/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -731,19 +744,19 @@
   <Event>
     <Date>26/06/2026</Date>
     <StartTime>21:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for damer</Title>
-    <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
-    <Season>2026</Season>
+    <PrimaryGenre>Triatlon</PrimaryGenre>
+    <Title>DM Triatlon Serien</Title>
+    <EpisodeTitle>5. afdeling, Aarhus</EpisodeTitle>
+    <Season>2025</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13672-03f7f28e-334d-4333-9bfc-30cb6e6ec5be.jpg?temp_url_sig=ef0562dd90ad625c8308363713f7f9275813184b&amp;temp_url_expires=4935128011</StillSceneUrl>
-    <ShortDescription>Kildeskoven møder Roskilde i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for damer spilles i Roskilde Kongres- og Idrætscenter, hvor Kildeskoven møder Roskilde BTK 61. Kommentatorer: Martin Kring og Jacob Henkov.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12394-138e0c16-9b8b-4404-a311-6086ac1a2419.jpg?temp_url_sig=cb604b4b295e3be080a563f2db1e5c340e373c47&amp;temp_url_expires=4927876142</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i DM Triatlon Serien.</ShortDescription>
+    <LongDescription>Reportage fra femte og sidste afdeling af DM Triatlon Serien, som inkluderede sprint-disciplinerne 750 meter svømning, 20 kilometer cykling og 5 kilometer løb. Finalestævnet fandt sted d. 13. september på Tangkrogen i Aarhus. Reporter: Jeppe Martinusen.</LongDescription>
   </Event>
   <Event>
     <Date>26/06/2026</Date>
-    <StartTime>23:50</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Albanien (m)</EpisodeTitle>
@@ -755,8 +768,21 @@
     <LongDescription>Det danske herrelandshold møder værterne fra Albanien i den sidste af tre runder i European League. Kampen spilles i Tirana Olympic Park og kommenteres af Mads Knudsen og Mads Ditlevsen.</LongDescription>
   </Event>
   <Event>
+    <Date>26/06/2026</Date>
+    <StartTime>23:55</StartTime>
+    <PrimaryGenre>Volleyball</PrimaryGenre>
+    <Title>European League</Title>
+    <EpisodeTitle>Rumænien-Danmark (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13386-4f7d2265-7e6f-4038-9320-3beccea1c722.jpg?temp_url_sig=a9d85c3609eb1ef9886b8a988d9e832be482a79c&amp;temp_url_expires=4933910822</StillSceneUrl>
+    <ShortDescription>Tredje og sidste runde af herrernes European League.</ShortDescription>
+    <LongDescription>Det danske herrelandshold møder Rumænien i den sidste af tre runder i European League. Kampen spilles i Tirana Olympic Park i Albanien og kommenteres af Mads Knudsen og Rasmus Høyer.</LongDescription>
+  </Event>
+  <Event>
     <Date>27/06/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -938,7 +964,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -951,7 +977,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>07:40</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -964,7 +990,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>11:10</StartTime>
     <PrimaryGenre>Amerikansk fodbold</PrimaryGenre>
     <Title>Mermaid Bowl XXXVI</Title>
     <EpisodeTitle>Aalborg 89ers-Søllerød Gold Diggers</EpisodeTitle>
@@ -977,20 +1003,20 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>13:50</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Bordtennisligaen for damer</Title>
-    <EpisodeTitle>Kildeskoven-Roskilde BTK 61</EpisodeTitle>
+    <StartTime>13:55</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>Pokalfinale for herrer</Title>
+    <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13672-03f7f28e-334d-4333-9bfc-30cb6e6ec5be.jpg?temp_url_sig=ef0562dd90ad625c8308363713f7f9275813184b&amp;temp_url_expires=4935128011</StillSceneUrl>
-    <ShortDescription>Kildeskoven møder Roskilde i den anden af tre mulige finalekampe.</ShortDescription>
-    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for damer spilles i Roskilde Kongres- og Idrætscenter, hvor Kildeskoven møder Roskilde BTK 61. Kommentatorer: Martin Kring og Jacob Henkov.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12872-79c90f32-c458-448e-9acd-dcd98a293300.jpg?temp_url_sig=c67c69958a3a4ca5ed3a6b656b0988a079c56925&amp;temp_url_expires=4927792301</StillSceneUrl>
+    <ShortDescription>Randers Cimbria møder Team FOG Næstved i herrernes pokalfinale.</ShortDescription>
+    <LongDescription>De forsvarende mestre fra Randers Cimbria tørner sammen med forrige års vindere fra Team FOG Næstved i den traditionsrige herrepokalfinale, som for første gang spilles i Arena Svendborg. Kommentatorer: Henrik Hvillum og Anders Katholm.</LongDescription>
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>16:35</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -1003,7 +1029,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>17:05</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Ukraine-Danmark</EpisodeTitle>
@@ -1029,7 +1055,7 @@
   </Event>
   <Event>
     <Date>28/06/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
