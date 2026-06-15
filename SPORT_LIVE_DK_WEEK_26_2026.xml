@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>22/06/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Bosnien-Hercegovina (m)</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>22/06/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Albanien (m)</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>22/06/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>10:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -197,20 +197,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>11:50</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>23/06/2026</Date>
-    <StartTime>12:30</StartTime>
+    <StartTime>12:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -223,7 +210,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -236,7 +223,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>16:05</StartTime>
+    <StartTime>16:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Canada</EpisodeTitle>
@@ -249,7 +236,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Rumænien-Danmark (m)</EpisodeTitle>
@@ -262,7 +249,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -275,7 +262,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -288,7 +275,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Georgien-Danmark</EpisodeTitle>
@@ -301,7 +288,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
