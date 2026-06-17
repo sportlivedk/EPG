@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>10:00</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>12:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>15:10</StartTime>
+    <StartTime>15:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>19:35</StartTime>
+    <StartTime>19:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Rumænien-Danmark (m)</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>23/06/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>24/06/2026</Date>
-    <StartTime>00:20</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Georgien-Danmark</EpisodeTitle>
@@ -1064,7 +1064,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-78090a27-03b9-4a10-846f-c470c877ff5e.jpg?temp_url_sig=a800093940f7e63b8f10c4199fdf2ca00eeb1031&amp;temp_url_expires=4936338222</StillSceneUrl>
     <ShortDescription>Danmarks første gruppekamp ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Det danske U19-landshold møder Tyskland i den første af tre gruppekampe ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh, Wales.</LongDescription>
+    <LongDescription>Det danske U19-landshold møder Tyskland i den første af tre gruppekampe ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh, Wales. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>28/06/2026</Date>
