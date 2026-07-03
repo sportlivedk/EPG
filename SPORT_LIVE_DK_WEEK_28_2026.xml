@@ -81,32 +81,6 @@
   <Event>
     <Date>06/07/2026</Date>
     <StartTime>20:55</StartTime>
-    <PrimaryGenre>Basketball</PrimaryGenre>
-    <Title>VM-kvalifikation for herrer</Title>
-    <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
-    <ShortDescription>VM-kvalifikationskamp fra Caja Mágica i Madrid.</ShortDescription>
-    <LongDescription>I den femte af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Spanien til returkamp på udebane i Caja Mágica i Madrid. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
-  </Event>
-  <Event>
-    <Date>06/07/2026</Date>
-    <StartTime>23:00</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>07/07/2026</Date>
-    <StartTime>00:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -118,21 +92,8 @@
     <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun-ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
-    <Date>07/07/2026</Date>
-    <StartTime>00:55</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>07/07/2026</Date>
-    <StartTime>01:35</StartTime>
+    <Date>06/07/2026</Date>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -144,8 +105,47 @@
     <LongDescription>I 1/16-finalen ved United States Smash mødes danske Anders Lind og belgiske Adrien Rassenfosse i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
+    <Date>06/07/2026</Date>
+    <StartTime>22:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>06/07/2026</Date>
+    <StartTime>23:25</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Kvartfinale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I kvartfinalen ved United States Smash mødes danske Anders Lind og japanske Sora Matsushima i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
     <Date>07/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>00:25</StartTime>
+    <PrimaryGenre>Basketball</PrimaryGenre>
+    <Title>VM-kvalifikation for herrer</Title>
+    <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
+    <Season>2025-26</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12234-eae35912-eaa4-47a6-aed0-5aa7ef2b1fd9.jpg?temp_url_sig=242fddb13b9c1419cff1c21cdca524b847cd2c9f&amp;temp_url_expires=4927793000</StillSceneUrl>
+    <ShortDescription>VM-kvalifikationskamp fra Caja Mágica i Madrid.</ShortDescription>
+    <LongDescription>I den femte af seks kvalifikationskampe til basketball-VM i 2027 møder det danske herrelandshold Spanien til returkamp på udebane i Caja Mágica i Madrid. Kommentatorer: Jonas Kvist Jepsen og Jesper Krone.</LongDescription>
+  </Event>
+  <Event>
+    <Date>07/07/2026</Date>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>06:55</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>07:40</StartTime>
+    <StartTime>08:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -301,20 +301,20 @@
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>08:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
+    <StartTime>09:00</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Kvartfinale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I kvartfinalen ved United States Smash mødes danske Anders Lind og japanske Sora Matsushima i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>08/07/2026</Date>
-    <StartTime>09:50</StartTime>
+    <StartTime>10:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -614,32 +614,19 @@
   <Event>
     <Date>10/07/2026</Date>
     <StartTime>20:50</StartTime>
-    <PrimaryGenre>Fodbold</PrimaryGenre>
-    <Title>U19-EM</Title>
-    <EpisodeTitle>Semifinale 1</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
-    <ShortDescription>Den første af de to semifinaler ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Den første af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh og kommenteres af Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>10/07/2026</Date>
-    <StartTime>23:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+    <ShortDescription>1/16-finale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I 1/16-finalen ved United States Smash mødes danske Anders Lind og belgiske Adrien Rassenfosse i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>10/07/2026</Date>
-    <StartTime>23:45</StartTime>
+    <StartTime>21:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -651,21 +638,34 @@
     <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
-    <Date>11/07/2026</Date>
-    <StartTime>00:50</StartTime>
+    <Date>10/07/2026</Date>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
-    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun-ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>Kvartfinale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I kvartfinalen ved United States Smash mødes danske Anders Lind og japanske Sora Matsushima i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>10/07/2026</Date>
+    <StartTime>23:30</StartTime>
+    <PrimaryGenre>Fodbold</PrimaryGenre>
+    <Title>U19-EM</Title>
+    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
+    <ShortDescription>Den første af de to semifinaler ved U19-EM i Wales.</ShortDescription>
+    <LongDescription>Den første af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -678,7 +678,7 @@
   </Event>
   <Event>
     <Date>11/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -808,7 +808,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>11:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -847,7 +847,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -873,7 +873,7 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -886,20 +886,20 @@
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+    <ShortDescription>Kvartfinale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I kvartfinalen ved United States Smash mødes danske Anders Lind og japanske Sora Matsushima i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>12/07/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -912,7 +912,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
