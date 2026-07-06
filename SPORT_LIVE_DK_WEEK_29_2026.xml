@@ -5,13 +5,13 @@
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <EpisodeTitle>Spanien-Kroatien</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
     <ShortDescription>Den første af de to semifinaler ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Den første af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh og kommenteres af Martin Kring.</LongDescription>
+    <LongDescription>Spanien møder Kroatien i den første af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>13/07/2026</Date>
@@ -28,7 +28,20 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:15</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun-ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/07/2026</Date>
+    <StartTime>12:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -41,7 +54,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>12:10</StartTime>
+    <StartTime>12:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -54,7 +67,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -67,7 +80,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -80,7 +93,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -93,7 +106,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>17:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -106,7 +119,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>20:10</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -132,7 +145,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>00:35</StartTime>
+    <StartTime>00:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -145,7 +158,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -161,13 +174,13 @@
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Semifinale 2</EpisodeTitle>
+    <EpisodeTitle>Ukraine-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
     <ShortDescription>Den anden af de to semifinaler ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Den anden af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Racecourse Ground i Wrexham og kommenteres af Kenneth Hansen.</LongDescription>
+    <LongDescription>Ukraine møder Tyskland i den anden af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Racecourse Ground i Wrexham og kommenteres af Kenneth Hansen.</LongDescription>
   </Event>
   <Event>
     <Date>14/07/2026</Date>
@@ -197,7 +210,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>14:15</StartTime>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -210,7 +223,20 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>17:10</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>1/16-finale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I 1/16-finalen ved United States Smash mødes danske Anders Lind og belgiske Adrien Rassenfosse i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/07/2026</Date>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -223,7 +249,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -236,7 +262,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -249,7 +275,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>21:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -262,7 +288,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -275,7 +301,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -288,7 +314,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -327,7 +353,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>12:30</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -340,7 +366,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -353,7 +379,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>16:05</StartTime>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -366,7 +392,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -379,7 +405,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>19:30</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -392,7 +418,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -405,7 +431,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>21:05</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -457,7 +483,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -470,7 +496,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>08:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -483,7 +509,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>11:25</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -496,7 +522,20 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>12:30</StartTime>
+    <StartTime>12:00</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>16/07/2026</Date>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -535,7 +574,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -548,7 +587,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -561,7 +600,20 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>19:50</StartTime>
+    <PrimaryGenre>Dans</PrimaryGenre>
+    <Title>Cph Open</Title>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
+    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
+    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>16/07/2026</Date>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -574,20 +626,20 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Semifinale 1</EpisodeTitle>
+    <EpisodeTitle>Spanien-Kroatien</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
     <ShortDescription>Den første af de to semifinaler ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Den første af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh og kommenteres af Martin Kring.</LongDescription>
+    <LongDescription>Spanien møder Kroatien i den første af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>00:40</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -600,20 +652,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>01:35</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
-    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/07/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -678,7 +717,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -691,7 +730,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -704,7 +743,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -717,7 +756,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:00</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -730,20 +769,20 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
-    <EpisodeTitle>Semifinale 2</EpisodeTitle>
+    <EpisodeTitle>Ukraine-Tyskland</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-d35eb898-0e56-49a0-b0f2-8f5a4344d5f3.jpg?temp_url_sig=9f3faec6b1d46eda5496342eb1644614ab6783ea&amp;temp_url_expires=4937534617</StillSceneUrl>
     <ShortDescription>Den anden af de to semifinaler ved U19-EM i Wales.</ShortDescription>
-    <LongDescription>Den anden af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Racecourse Ground i Wrexham og kommenteres af Kenneth Hansen.</LongDescription>
+    <LongDescription>Ukraine møder Tyskland i den anden af de to semifinaler ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Racecourse Ground i Wrexham og kommenteres af Kenneth Hansen.</LongDescription>
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>00:40</StartTime>
+    <StartTime>00:30</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -756,7 +795,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>01:05</StartTime>
+    <StartTime>00:55</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -769,7 +808,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 1</EpisodeTitle>
@@ -782,7 +821,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -795,7 +834,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -808,7 +847,20 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>09:05</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-2c873cfa-f35f-465f-a266-ab3344cbbd2d.jpg?temp_url_sig=a3a071f9e1e5b8de5d4729e61443797756167686&amp;temp_url_expires=4938271207</StillSceneUrl>
+    <ShortDescription>1/8-finale ved United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved United States Smash mødes danske Anders Lind og den kinesiske verdensetter Wang Chuqin i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>18/07/2026</Date>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -821,7 +873,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -834,7 +886,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>12:45</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -847,7 +899,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>15:05</StartTime>
+    <StartTime>15:00</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -860,7 +912,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -873,7 +925,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -886,7 +938,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -898,8 +950,8 @@
     <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>18/07/2026</Date>
-    <StartTime>23:45</StartTime>
+    <Date>19/07/2026</Date>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -912,7 +964,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -925,7 +977,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -938,7 +990,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>08:00</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -951,7 +1003,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>12:00</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -964,7 +1016,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -977,7 +1029,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>15:15</StartTime>
+    <StartTime>15:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -990,7 +1042,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>17:30</StartTime>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -1003,7 +1055,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>20:10</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -1016,7 +1068,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1029,7 +1081,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>22:45</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -1042,7 +1094,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -1055,7 +1107,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -1068,7 +1120,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>01:00</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1081,7 +1133,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
