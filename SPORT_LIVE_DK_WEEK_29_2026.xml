@@ -29,19 +29,19 @@
   <Event>
     <Date>13/07/2026</Date>
     <StartTime>11:15</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
-    <Season>2026</Season>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af volleyball</Title>
+    <EpisodeTitle>Masser af volleyball</EpisodeTitle>
+    <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
-    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun-ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>12:10</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>12:45</StartTime>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>13/07/2026</Date>
-    <StartTime>17:25</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>Futsal Ligaen</Title>
     <EpisodeTitle>Hjørring Futsal Klub-Albertslund IF</EpisodeTitle>
@@ -116,6 +116,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12439-165de1a5-bbb7-45ca-9b42-81e400995a25.jpg?temp_url_sig=f70df1a0930857392e16689257af65e6e958abae&amp;temp_url_expires=4927875919</StillSceneUrl>
     <ShortDescription>Den tredje og afgørende DM-finale i Futsal Ligaen mellem Hjørring og Albertslund.</ShortDescription>
     <LongDescription>Pokalmestrene fra Albertslund møder de forsvarende danmarksmestre fra Hjørring i den tredje og afgørende DM-finale i Futsal Ligaen. Kampen spilles i Park Vendia i Hjørring og kommenteres af Mads Knudsen og Mathias Blankensteiner.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/07/2026</Date>
+    <StartTime>19:50</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af bordtennis</Title>
+    <EpisodeTitle>Masser af bordtennis</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>13/07/2026</Date>
@@ -211,6 +224,19 @@
   <Event>
     <Date>14/07/2026</Date>
     <StartTime>14:30</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af bordtennis</Title>
+    <EpisodeTitle>Masser af bordtennis</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/07/2026</Date>
+    <StartTime>15:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -223,7 +249,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>17:10</StartTime>
+    <StartTime>17:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -236,7 +262,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -249,7 +275,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>18:45</StartTime>
+    <StartTime>19:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -262,7 +288,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -275,7 +301,7 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -288,20 +314,20 @@
   </Event>
   <Event>
     <Date>14/07/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
+    <Title>Masser af volleyball</Title>
+    <EpisodeTitle>Masser af volleyball</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>00:20</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -314,7 +340,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -341,6 +367,19 @@
   <Event>
     <Date>15/07/2026</Date>
     <StartTime>09:20</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af bordtennis</Title>
+    <EpisodeTitle>Masser af bordtennis</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/07/2026</Date>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -353,20 +392,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>12:55</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Overtime</Title>
-    <EpisodeTitle>Program 10</EpisodeTitle>
-    <Season>2025-26</Season>
-    <EpisodeNo>10</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12378-d947f1e4-67c5-4dce-ba0a-91cf9e42702a.jpg?temp_url_sig=6fe7e240fb634235cf1a5432e982e372b6d90c67&amp;temp_url_expires=4927793054</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på den forgangne sæson i Basketligaen.</ShortDescription>
-    <LongDescription>I sæsonens sidste udgave af basketmagasinet Overtime ser vi tilbage på de seneste måneders intense kampe og begivenheder i Basketligaen med højdepunkter, analyser og interviews. I studiet: Jonas Kvist Jepsen og Thomas Døssing.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/07/2026</Date>
-    <StartTime>14:05</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -379,7 +405,20 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>15:55</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af volleyball</Title>
+    <EpisodeTitle>Masser af volleyball</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/07/2026</Date>
+    <StartTime>16:20</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -392,7 +431,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -405,7 +444,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>19:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -418,7 +457,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -431,7 +470,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -444,7 +483,7 @@
   </Event>
   <Event>
     <Date>15/07/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>VM for hold</Title>
     <EpisodeTitle>Danmark-Taiwan</EpisodeTitle>
@@ -457,7 +496,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>00:15</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Tyskland-Danmark</EpisodeTitle>
@@ -470,7 +509,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -589,18 +628,18 @@
     <Date>16/07/2026</Date>
     <StartTime>19:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
+    <Title>Masser af bordtennis</Title>
+    <EpisodeTitle>Masser af bordtennis</EpisodeTitle>
     <Season/>
-    <EpisodeNo>1</EpisodeNo>
+    <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>19:50</StartTime>
+    <StartTime>19:45</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -613,7 +652,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -626,7 +665,7 @@
   </Event>
   <Event>
     <Date>16/07/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Spanien-Kroatien</EpisodeTitle>
@@ -639,7 +678,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -652,7 +691,7 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -757,6 +796,19 @@
   <Event>
     <Date>17/07/2026</Date>
     <StartTime>18:00</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af volleyball</Title>
+    <EpisodeTitle>Masser af volleyball</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>17/07/2026</Date>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -769,7 +821,20 @@
   </Event>
   <Event>
     <Date>17/07/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:35</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af bordtennis</Title>
+    <EpisodeTitle>Masser af bordtennis</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>17/07/2026</Date>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Ukraine-Tyskland</EpisodeTitle>
@@ -782,20 +847,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>00:30</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/07/2026</Date>
-    <StartTime>00:55</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -808,20 +860,7 @@
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>01:25</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 1</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-632eb104-519a-4e51-bcf7-54c904d1ff8e.jpg?temp_url_sig=6f26f1e37cf4b67a0d854ec5533ffd5a632bf5e4&amp;temp_url_expires=4927876370</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række danske atleter, som alle drømmer om at komme med til sommerlegene i Los Angeles. I det første program kan du møde bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/07/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -926,19 +965,19 @@
   <Event>
     <Date>18/07/2026</Date>
     <StartTime>22:00</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af volleyball</Title>
+    <EpisodeTitle>Masser af volleyball</EpisodeTitle>
+    <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>18/07/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -950,8 +989,8 @@
     <LongDescription>Ubesejrede Oliver Zaren står over for sit livs kamp, når han går i ringen mod spanske José Luis Navarro Jr. for at kæmpe om den prestigefyldte EM-titel i supermellemvægt. Stævnet på Hipódromo de la Zarzuela i Madrid byder også på bl.a. EM-titelkamp i weltervægt mellem belgiske Anas Messaoudi og spanske Aaron Alhambra. Kommentatorer: Peter Jørgensen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>19/07/2026</Date>
-    <StartTime>00:05</StartTime>
+    <Date>18/07/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Lazio-Inter</EpisodeTitle>
@@ -964,7 +1003,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -977,7 +1016,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -990,7 +1029,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>08:10</StartTime>
+    <StartTime>08:00</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -1003,7 +1042,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:10</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Odense Open</Title>
     <EpisodeTitle>Odense Open 2026</EpisodeTitle>
@@ -1016,7 +1055,20 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>12:50</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af bordtennis</Title>
+    <EpisodeTitle>Masser af bordtennis</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267841-24db03b0-f3a4-4b1a-a333-e63f7bb536a6.jpg?temp_url_sig=7e2a47d70e2cf27afd1b0fbd80f8d49cfb46adc6&amp;temp_url_expires=4939189377</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk bordtennis.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk bordtennis, som bl.a. bød på medaljeslutspil i Bordtennisligaen, VM for hold og vanvittigt spændende kampe med Jonathan Groth og ikke mindst Anders Lind i de store WTT- og Grand Smash-turneringer. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>19/07/2026</Date>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -1029,7 +1081,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -1042,7 +1094,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>18:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -1055,7 +1107,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -1068,7 +1120,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -1081,7 +1133,7 @@
   </Event>
   <Event>
     <Date>19/07/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -1093,8 +1145,8 @@
     <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Anders Lind og australske Nicholas Lum i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
-    <Date>19/07/2026</Date>
-    <StartTime>23:45</StartTime>
+    <Date>20/07/2026</Date>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -1107,7 +1159,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>00:30</StartTime>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -1120,7 +1172,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>01:20</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -1133,7 +1185,7 @@
   </Event>
   <Event>
     <Date>20/07/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
