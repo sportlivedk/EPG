@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Nicholas Lum</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>07:50</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>09:25</StartTime>
+    <StartTime>09:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>10:15</StartTime>
+    <StartTime>10:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>10:50</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>12:30</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>16:45</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>20:50</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-Hørsholm Rungsted (k)</EpisodeTitle>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>03/08/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior DM</Title>
     <EpisodeTitle>DM-finaler for damer og herrer</EpisodeTitle>
@@ -158,7 +158,33 @@
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Bordtennisligaen for herrer</Title>
+    <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13322-6e7971ca-b9f8-4523-a7a0-535b050c5a8a.jpg?temp_url_sig=65f1b82176a8e190f38a319a2ded48faaed7a0c9&amp;temp_url_expires=4932713378</StillSceneUrl>
+    <ShortDescription>Roskilde møder Næstved i den anden af tre mulige finalekampe.</ShortDescription>
+    <LongDescription>Den anden af tre mulige finalekampe i Bordtennisligaen for herrer spilles i Roskilde Kongres- og Idrætscenter, hvor Roskilde BTK 61 får besøg af Næstved Bordtennis. Kommentatorer: Mads Knudsen og Jacob Henkov.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/08/2026</Date>
+    <StartTime>04:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Yokohama</Title>
+    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-7d480d92-8a32-486a-ad2e-112e99e96d5d.jpg?temp_url_sig=b5b9b7fd47d652a871734d6b5eae8b48ede27825&amp;temp_url_expires=4939966485</StillSceneUrl>
+    <ShortDescription>1/16-finale ved WTT Champions Yokohama i Japan.</ShortDescription>
+    <LongDescription>I den indledende 1/16-finale ved WTT Champions Yokohama i Japan mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Yokohama Buntai Arena. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/08/2026</Date>
+    <StartTime>05:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -289,19 +315,19 @@
   <Event>
     <Date>04/08/2026</Date>
     <StartTime>22:45</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Yokohama</Title>
+    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-7d480d92-8a32-486a-ad2e-112e99e96d5d.jpg?temp_url_sig=b5b9b7fd47d652a871734d6b5eae8b48ede27825&amp;temp_url_expires=4939966485</StillSceneUrl>
+    <ShortDescription>1/16-finale ved WTT Champions Yokohama i Japan.</ShortDescription>
+    <LongDescription>I den indledende 1/16-finale ved WTT Champions Yokohama i Japan mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Yokohama Buntai Arena. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>04/08/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -314,7 +340,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>01:00</StartTime>
+    <StartTime>01:15</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -327,7 +353,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>01:20</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -340,7 +366,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -354,32 +380,6 @@
   <Event>
     <Date>05/08/2026</Date>
     <StartTime>07:05</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>1. etape, svømning</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/08/2026</Date>
-    <StartTime>08:05</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>05/08/2026</Date>
-    <StartTime>08:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>07:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -405,7 +405,7 @@
   </Event>
   <Event>
     <Date>05/08/2026</Date>
-    <StartTime>10:50</StartTime>
+    <StartTime>09:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Spanien</EpisodeTitle>
@@ -415,6 +415,32 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13721-78090a27-03b9-4a10-846f-c470c877ff5e.jpg?temp_url_sig=a800093940f7e63b8f10c4199fdf2ca00eeb1031&amp;temp_url_expires=4936338222</StillSceneUrl>
     <ShortDescription>Danmarks anden gruppekamp ved U19-EM i Wales.</ShortDescription>
     <LongDescription>Det danske U19-landshold møder Spanien i den anden af tre gruppekampe ved europamesterskabet i fodbold for U19-landshold. Kampen spilles på Central Park i Denbigh, Wales. Kommentator: Kenneth Hansen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/08/2026</Date>
+    <StartTime>11:15</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Dansk Gokart Cup</Title>
+    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
+    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
+    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>05/08/2026</Date>
+    <StartTime>11:45</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Yokohama</Title>
+    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-7d480d92-8a32-486a-ad2e-112e99e96d5d.jpg?temp_url_sig=b5b9b7fd47d652a871734d6b5eae8b48ede27825&amp;temp_url_expires=4939966485</StillSceneUrl>
+    <ShortDescription>1/16-finale ved WTT Champions Yokohama i Japan.</ShortDescription>
+    <LongDescription>I den indledende 1/16-finale ved WTT Champions Yokohama i Japan mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Yokohama Buntai Arena. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>05/08/2026</Date>
@@ -522,7 +548,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af bordtennis</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -535,20 +561,20 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>07:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Program 2</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
+    <StartTime>07:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Yokohama</Title>
+    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-7d480d92-8a32-486a-ad2e-112e99e96d5d.jpg?temp_url_sig=b5b9b7fd47d652a871734d6b5eae8b48ede27825&amp;temp_url_expires=4939966485</StillSceneUrl>
+    <ShortDescription>1/16-finale ved WTT Champions Yokohama i Japan.</ShortDescription>
+    <LongDescription>I den indledende 1/16-finale ved WTT Champions Yokohama i Japan mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Yokohama Buntai Arena. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>08:25</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -561,7 +587,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -574,7 +600,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>European League</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -587,7 +613,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -600,7 +626,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -613,7 +639,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>19:25</StartTime>
+    <StartTime>19:30</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-KFUM (m)</EpisodeTitle>
@@ -626,7 +652,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -639,7 +665,7 @@
   </Event>
   <Event>
     <Date>06/08/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -652,7 +678,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1110,19 +1136,6 @@
     <StartTime>23:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
-    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
-    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun-ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>09/08/2026</Date>
-    <StartTime>00:45</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
@@ -1133,7 +1146,7 @@
   </Event>
   <Event>
     <Date>09/08/2026</Date>
-    <StartTime>01:25</StartTime>
+    <StartTime>00:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -1146,7 +1159,20 @@
   </Event>
   <Event>
     <Date>09/08/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>01:25</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Yokohama</Title>
+    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-7d480d92-8a32-486a-ad2e-112e99e96d5d.jpg?temp_url_sig=b5b9b7fd47d652a871734d6b5eae8b48ede27825&amp;temp_url_expires=4939966485</StillSceneUrl>
+    <ShortDescription>1/16-finale ved WTT Champions Yokohama i Japan.</ShortDescription>
+    <LongDescription>I den indledende 1/16-finale ved WTT Champions Yokohama i Japan mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Yokohama Buntai Arena. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/08/2026</Date>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
