@@ -276,19 +276,6 @@
   <Event>
     <Date>11/08/2026</Date>
     <StartTime>10:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/08/2026</Date>
-    <StartTime>10:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Danmark-Wales</EpisodeTitle>
@@ -301,7 +288,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -314,7 +301,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Finland (k)</EpisodeTitle>
@@ -327,7 +314,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (k)</EpisodeTitle>
@@ -340,7 +327,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>15:15</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Finland (m)</EpisodeTitle>
@@ -353,7 +340,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>15:40</StartTime>
+    <StartTime>15:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
@@ -366,7 +353,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>16:05</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
@@ -379,7 +366,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -392,7 +379,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>17:00</StartTime>
+    <StartTime>16:35</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Estland (m)</EpisodeTitle>
@@ -405,7 +392,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>17:25</StartTime>
+    <StartTime>17:00</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -418,20 +405,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>17:50</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Yokohama</Title>
-    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-7d480d92-8a32-486a-ad2e-112e99e96d5d.jpg?temp_url_sig=b5b9b7fd47d652a871734d6b5eae8b48ede27825&amp;temp_url_expires=4939966485</StillSceneUrl>
-    <ShortDescription>1/8-finale ved WTT Champions Yokohama i Japan.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved WTT Champions Yokohama i Japan mødes danske Anders Lind og den topseedede japaner Sora Matsushima i Yokohama Buntai Arena. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/08/2026</Date>
-    <StartTime>18:40</StartTime>
+    <StartTime>17:25</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -444,7 +418,7 @@
   </Event>
   <Event>
     <Date>11/08/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-KFUM (m)</EpisodeTitle>
@@ -457,7 +431,7 @@
   </Event>
   <Event>
     <Date>12/08/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
