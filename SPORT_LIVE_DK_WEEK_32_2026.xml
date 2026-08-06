@@ -756,7 +756,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>20:50</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -769,7 +769,7 @@
   </Event>
   <Event>
     <Date>07/08/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Dart</PrimaryGenre>
     <Title>Denmark Open</Title>
     <EpisodeTitle>Finaler 2026</EpisodeTitle>
@@ -782,7 +782,7 @@
   </Event>
   <Event>
     <Date>08/08/2026</Date>
-    <StartTime>02:35</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1109,18 +1109,18 @@
     <Date>09/08/2026</Date>
     <StartTime>01:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Yokohama</Title>
-    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
+    <Title>United States Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Wong Chun-ting</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-7d480d92-8a32-486a-ad2e-112e99e96d5d.jpg?temp_url_sig=b5b9b7fd47d652a871734d6b5eae8b48ede27825&amp;temp_url_expires=4939966485</StillSceneUrl>
-    <ShortDescription>1/8-finale ved WTT Champions Yokohama i Japan.</ShortDescription>
-    <LongDescription>I 1/8-finalen ved WTT Champions Yokohama i Japan mødes danske Anders Lind og den topseedede japaner Sora Matsushima i Yokohama Buntai Arena. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13720-ea0a376b-2600-445b-8a77-d8b35471f679.jpg?temp_url_sig=4c1cffd307f99c0a7ffa25342168cd91b2aa7b4e&amp;temp_url_expires=4938271211</StillSceneUrl>
+    <ShortDescription>Første runde af United States Smash i Los Angeles.</ShortDescription>
+    <LongDescription>I den indledende runde af turneringen United States Smash mødes danske Jonathan Groth og Wong Chun-ting fra Hongkong i Ontario Convention Center i Los Angeles. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>09/08/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>La Gran Noche del Boxeo</Title>
     <EpisodeTitle>Dobbelt EM-titelstævne fra Madrid</EpisodeTitle>
@@ -1290,15 +1290,15 @@
   <Event>
     <Date>09/08/2026</Date>
     <StartTime>16:10</StartTime>
-    <PrimaryGenre>Dans</PrimaryGenre>
-    <Title>Cph Open</Title>
-    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Yokohama</Title>
+    <EpisodeTitle>Anders Lind-Sora Matsushima</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
-    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14214-7d480d92-8a32-486a-ad2e-112e99e96d5d.jpg?temp_url_sig=b5b9b7fd47d652a871734d6b5eae8b48ede27825&amp;temp_url_expires=4939966485</StillSceneUrl>
+    <ShortDescription>1/8-finale ved WTT Champions Yokohama i Japan.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved WTT Champions Yokohama i Japan mødes danske Anders Lind og den topseedede japaner Sora Matsushima i Yokohama Buntai Arena. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>09/08/2026</Date>
