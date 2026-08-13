@@ -328,32 +328,6 @@
   <Event>
     <Date>18/08/2026</Date>
     <StartTime>20:00</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Estland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>20:30</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Estland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>18/08/2026</Date>
-    <StartTime>21:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
@@ -366,7 +340,20 @@
   </Event>
   <Event>
     <Date>18/08/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>20:50</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>18/08/2026</Date>
+    <StartTime>21:50</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -379,7 +366,7 @@
   </Event>
   <Event>
     <Date>19/08/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -730,33 +717,7 @@
   </Event>
   <Event>
     <Date>21/08/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Finland-Sverige (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Kvindernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Finland møder Sverige i kvindernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>07:35</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>21/08/2026</Date>
-    <StartTime>08:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
@@ -769,7 +730,7 @@
   </Event>
   <Event>
     <Date>21/08/2026</Date>
-    <StartTime>08:45</StartTime>
+    <StartTime>07:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
@@ -779,6 +740,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
     <ShortDescription>Herrernes finale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
     <LongDescription>Estland møder Sverige i herrernes finalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>21/08/2026</Date>
+    <StartTime>08:15</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>21/08/2026</Date>
@@ -847,7 +821,7 @@
   </Event>
   <Event>
     <Date>21/08/2026</Date>
-    <StartTime>18:10</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -886,7 +860,7 @@
   </Event>
   <Event>
     <Date>21/08/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>

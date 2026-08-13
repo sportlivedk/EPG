@@ -899,7 +899,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -912,7 +912,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>09:30</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -925,7 +925,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>10:35</StartTime>
+    <StartTime>10:30</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>Gentofte-HIK (k)</EpisodeTitle>
@@ -938,33 +938,33 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>14:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Masser af volleyball</Title>
-    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
-    <Season/>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
-    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
-    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser også frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/08/2026</Date>
-    <StartTime>14:25</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
+    <StartTime>13:55</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Sverige mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Lin Yun-ju fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>14:45</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/08/2026</Date>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -977,33 +977,7 @@
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>15:30</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/08/2026</Date>
-    <StartTime>16:00</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/08/2026</Date>
-    <StartTime>16:25</StartTime>
+    <StartTime>16:20</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -1082,32 +1056,58 @@
   <Event>
     <Date>14/08/2026</Date>
     <StartTime>20:20</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og svenske Mattias Karlsson i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Kvindelandsholdene fra Danmark og Sverige mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>21:25</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
+    <StartTime>20:55</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Lin Yun-ju fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Kvindelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>14/08/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>21:20</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Herrelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/08/2026</Date>
+    <StartTime>21:45</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Cherneka Johnson vs. Dina Thorslund</Title>
+    <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
+    <ShortDescription>VM-titelkamp mellem Dina Thorslund og Cherneka Johnson fra Orlando, Florida.</ShortDescription>
+    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/08/2026</Date>
+    <StartTime>22:35</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
@@ -1120,7 +1120,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1279,19 +1279,6 @@
     <StartTime>19:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og svenske Mattias Karlsson i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/08/2026</Date>
-    <StartTime>20:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
@@ -1302,7 +1289,20 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>21:05</StartTime>
+    <StartTime>19:50</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/08/2026</Date>
+    <StartTime>20:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
@@ -1315,7 +1315,7 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Hugo Calderano</EpisodeTitle>
@@ -1328,7 +1328,20 @@
   </Event>
   <Event>
     <Date>15/08/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>22:50</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Masser af volleyball</Title>
+    <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/episode-8267840-fddc0077-22ec-4f13-8b60-37dfd9ea08ac.jpg?temp_url_sig=4992db5d95997f609c324f0d157d76a34fc4fcff&amp;temp_url_expires=4939189404</StillSceneUrl>
+    <ShortDescription>Et tilbageblik på foråret og sommeren i dansk volleyball.</ShortDescription>
+    <LongDescription>Vi kigger tilbage på nogle af forårets og sommerens højdepunkter i dansk volleyball, som bl.a. bød på masser af kampe med både kvinde- og herrelandsholdene i European League, og vi ser også frem mod herrernes EM-slutrunde i efteråret. Vært: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/08/2026</Date>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>MVPW 05 - Johnson vs. Thorslund</Title>
     <EpisodeTitle>VM-titelstævne fra Orlando i Florida</EpisodeTitle>
@@ -1341,7 +1354,7 @@
   </Event>
   <Event>
     <Date>16/08/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1526,13 +1539,13 @@
     <StartTime>16:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
+    <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Lin Yun-ju fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Omar Assar fra Egypten i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>16/08/2026</Date>
