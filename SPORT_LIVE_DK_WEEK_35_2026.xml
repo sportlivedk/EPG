@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>08:10</StartTime>
+    <StartTime>08:20</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Norge (k)</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>08:35</StartTime>
+    <StartTime>08:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Spanien-Danmark</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>10:55</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>VM-kvalifikation for herrer</Title>
     <EpisodeTitle>Danmark-Ukraine</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Program 10</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>16:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
@@ -145,20 +145,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>17:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Maciej Kubik</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og polske Maciej Kubik i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>24/08/2026</Date>
-    <StartTime>17:45</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
@@ -171,7 +158,20 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>18:05</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>1/8-finale: Anders Lind-Hugo Calderano</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/08/2026</Date>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>1. etape, svømning</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>DM-finale</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>24/08/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson vs. Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -209,8 +209,8 @@
     <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>24/08/2026</Date>
-    <StartTime>23:40</StartTime>
+    <Date>25/08/2026</Date>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>U19-EM</Title>
     <EpisodeTitle>Spanien-Tyskland</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>25/08/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -603,13 +603,13 @@
     <StartTime>20:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
-    <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
+    <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-35c57212-006e-4583-aaa0-620d7a910efb.jpg?temp_url_sig=785d28b568680dc615a8940fbb6a21505c625614&amp;temp_url_expires=4940563970</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I den indledende runde af Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og svenske Mattias Karlsson i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
+    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Jonathan Groth og Lin Yun-ju fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>26/08/2026</Date>
@@ -772,19 +772,6 @@
     <StartTime>16:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
-    <EpisodeTitle>Lind/Hursey-Karlsson/Kallberg</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-cdf8863a-38a6-4bb6-b6b6-8de1a05432b1.jpg?temp_url_sig=d64650e16dd6440925092f28e769f7de91170887&amp;temp_url_expires=4940563982</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I første runde af mixed double ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Anna Hursey fra Wales med de to svenskere Kristian Karlsson og Christina Kallberg i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>27/08/2026</Date>
-    <StartTime>17:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
@@ -792,6 +779,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
     <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
     <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/08/2026</Date>
+    <StartTime>17:10</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>1/8-finale: Anders Lind-Hugo Calderano</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>27/08/2026</Date>
@@ -954,13 +954,13 @@
     <StartTime>11:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
-    <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
+    <EpisodeTitle>1/8-finale: Anders Lind-Hugo Calderano</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
-    <ShortDescription>1/16-finale ved Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I 1/16-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Kuo Guan-Hong fra Taiwan i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>28/08/2026</Date>
@@ -1500,19 +1500,6 @@
     <StartTime>18:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
-    <EpisodeTitle>Lind/Hursey-Karlsson/Kallberg</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-cdf8863a-38a6-4bb6-b6b6-8de1a05432b1.jpg?temp_url_sig=d64650e16dd6440925092f28e769f7de91170887&amp;temp_url_expires=4940563982</StillSceneUrl>
-    <ShortDescription>Første runde af Europe Smash i Malmø Arena.</ShortDescription>
-    <LongDescription>I første runde af mixed double ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Anna Hursey fra Wales med de to svenskere Kristian Karlsson og Christina Kallberg i Malmø Arena i Sverige. Kommentator: Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>30/08/2026</Date>
-    <StartTime>19:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Maciej Kubik</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
@@ -1523,7 +1510,7 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>18:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Kuo Guan-Hong</EpisodeTitle>
@@ -1536,7 +1523,20 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>19:45</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>Europe Smash</Title>
+    <EpisodeTitle>1/8-finale: Anders Lind-Hugo Calderano</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14234-76769dc3-edb4-4ccf-81a8-8170c9b16649.jpg?temp_url_sig=f79279e241c23c328bc0356034fde64a30582cdf&amp;temp_url_expires=4940563956</StillSceneUrl>
+    <ShortDescription>1/8-finale ved Europe Smash i Malmø Arena.</ShortDescription>
+    <LongDescription>I 1/8-finalen ved Europe Smash - den ene af de fire prestigefyldte Grand Smash-turneringer - mødes danske Anders Lind og Hugo Calderano fra Brasilien i Malmø Arena i Sverige. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>30/08/2026</Date>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
@@ -1549,7 +1549,7 @@
   </Event>
   <Event>
     <Date>30/08/2026</Date>
-    <StartTime>21:50</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -1575,7 +1575,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>00:35</StartTime>
+    <StartTime>00:40</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
@@ -1614,7 +1614,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
