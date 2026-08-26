@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>08:10</StartTime>
+    <StartTime>08:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Lin Yun-ju</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>08:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Omar Assar</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>10:00</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>13:20</StartTime>
+    <StartTime>13:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>17:00</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:15</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler og finaler</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>22:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Estland (k)</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Estland (m)</EpisodeTitle>
@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>00:40</StartTime>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Wang Manyu-Kuai Man</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -743,7 +743,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>12:10</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler og finaler</EpisodeTitle>
@@ -756,7 +756,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -769,7 +769,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>16:20</StartTime>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -782,7 +782,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>17:00</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Lind/Hursey-Karlsson/Kallberg</EpisodeTitle>
@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>18:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -808,7 +808,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>21:45</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -847,7 +847,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>22:10</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>22:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -873,7 +873,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -886,7 +886,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -899,7 +899,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>00:15</StartTime>
+    <StartTime>00:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Finland (k)</EpisodeTitle>
@@ -912,7 +912,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>00:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Sverige-Estland (k)</EpisodeTitle>
@@ -925,20 +925,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>01:15</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Finland-Sverige (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Kvindernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Finland møder Sverige i kvindernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/09/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Estland (k)</EpisodeTitle>
@@ -951,7 +938,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
