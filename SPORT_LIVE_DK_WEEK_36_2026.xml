@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>18:40</StartTime>
+    <StartTime>18:35</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (k)</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Estland (k)</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>22:55</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Finland-Estland (m)</EpisodeTitle>
@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>31/08/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Estland-Sverige (m)</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>01/09/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -613,7 +613,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Anders Lind-Hugo Calderano</EpisodeTitle>
@@ -626,7 +626,7 @@
   </Event>
   <Event>
     <Date>03/09/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1003,7 +1003,7 @@
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1172,7 +1172,7 @@
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>19:10</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Europe Smash</Title>
     <EpisodeTitle>Jonathan Groth-Mattias Karlsson</EpisodeTitle>
@@ -1211,7 +1211,7 @@
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -1224,7 +1224,7 @@
   </Event>
   <Event>
     <Date>05/09/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -1237,7 +1237,7 @@
   </Event>
   <Event>
     <Date>06/09/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
