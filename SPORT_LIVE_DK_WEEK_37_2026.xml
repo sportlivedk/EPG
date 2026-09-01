@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>06:55</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler og finaler</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>08:20</StartTime>
+    <StartTime>08:15</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Kvartfinaler og finaler</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>10:00</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>12:35</StartTime>
+    <StartTime>12:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Masser af volleyball</Title>
     <EpisodeTitle>Højdepunkter fra 2026</EpisodeTitle>
@@ -115,7 +115,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
     <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
-    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
   </Event>
   <Event>
     <Date>07/09/2026</Date>
@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>07/09/2026</Date>
-    <StartTime>21:05</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>08/09/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>08/09/2026</Date>
-    <StartTime>17:00</StartTime>
+    <StartTime>17:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>08/09/2026</Date>
-    <StartTime>17:45</StartTime>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>08/09/2026</Date>
-    <StartTime>18:15</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -327,7 +327,7 @@
   </Event>
   <Event>
     <Date>08/09/2026</Date>
-    <StartTime>18:40</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>08/09/2026</Date>
-    <StartTime>22:20</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>08/09/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -362,11 +362,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
     <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
-    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
   </Event>
   <Event>
     <Date>09/09/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -379,7 +379,7 @@
   </Event>
   <Event>
     <Date>09/09/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -479,7 +479,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
     <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
-    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
   </Event>
   <Event>
     <Date>09/09/2026</Date>
@@ -574,7 +574,7 @@
   </Event>
   <Event>
     <Date>09/09/2026</Date>
-    <StartTime>22:45</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -600,7 +600,7 @@
   </Event>
   <Event>
     <Date>10/09/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -613,7 +613,7 @@
   </Event>
   <Event>
     <Date>10/09/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -626,7 +626,7 @@
   </Event>
   <Event>
     <Date>10/09/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -639,7 +639,7 @@
   </Event>
   <Event>
     <Date>10/09/2026</Date>
-    <StartTime>10:50</StartTime>
+    <StartTime>10:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -652,7 +652,7 @@
   </Event>
   <Event>
     <Date>10/09/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>11:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -665,7 +665,7 @@
   </Event>
   <Event>
     <Date>10/09/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -678,7 +678,7 @@
   </Event>
   <Event>
     <Date>10/09/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Indledende heats</EpisodeTitle>
@@ -817,7 +817,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
     <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
-    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
   </Event>
   <Event>
     <Date>11/09/2026</Date>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>11/09/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -886,7 +886,7 @@
   </Event>
   <Event>
     <Date>11/09/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Kvartfinaler og finaler</EpisodeTitle>
@@ -899,7 +899,7 @@
   </Event>
   <Event>
     <Date>11/09/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>15:05</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -925,7 +925,7 @@
   </Event>
   <Event>
     <Date>11/09/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>18:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -938,7 +938,7 @@
   </Event>
   <Event>
     <Date>11/09/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>11/09/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>12/09/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -977,20 +977,7 @@
   </Event>
   <Event>
     <Date>12/09/2026</Date>
-    <StartTime>01:50</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/09/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1172,7 +1159,7 @@
   </Event>
   <Event>
     <Date>12/09/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -1198,7 +1185,7 @@
   </Event>
   <Event>
     <Date>12/09/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -1211,7 +1198,7 @@
   </Event>
   <Event>
     <Date>13/09/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Palermo-Mantova</EpisodeTitle>
@@ -1224,7 +1211,7 @@
   </Event>
   <Event>
     <Date>13/09/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:35</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1393,7 +1380,7 @@
   </Event>
   <Event>
     <Date>13/09/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1406,7 +1393,7 @@
   </Event>
   <Event>
     <Date>13/09/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -1419,7 +1406,7 @@
   </Event>
   <Event>
     <Date>13/09/2026</Date>
-    <StartTime>23:45</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -1428,11 +1415,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14373-b100b263-8d32-49be-b3ec-8d66bafdc736.jpg?temp_url_sig=f7ce886dafbf5423c2f8348120fea04be1cb4ae0&amp;temp_url_expires=4943324130</StillSceneUrl>
     <ShortDescription>Returkamp i tredje og sidste kvalifikationsrunde.</ShortDescription>
-    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
