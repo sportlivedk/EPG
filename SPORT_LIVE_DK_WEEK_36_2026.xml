@@ -925,7 +925,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Kvartfinaler og finaler</EpisodeTitle>
@@ -938,7 +938,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>08:45</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>04/09/2026</Date>
-    <StartTime>11:15</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Parma-Cremonese</EpisodeTitle>
@@ -1220,7 +1220,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-543d46e4-f075-43e7-8d0d-b39e34954e66.jpg?temp_url_sig=f0d2277e22be0a6eb8f6cc52d6502f296e20a942&amp;temp_url_expires=4942385313</StillSceneUrl>
     <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
-    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentator: Mads Knudsen.</LongDescription>
+    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
   </Event>
   <Event>
     <Date>05/09/2026</Date>
@@ -1493,7 +1493,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-543d46e4-f075-43e7-8d0d-b39e34954e66.jpg?temp_url_sig=f0d2277e22be0a6eb8f6cc52d6502f296e20a942&amp;temp_url_expires=4942385313</StillSceneUrl>
     <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
-    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentator: Mads Knudsen.</LongDescription>
+    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
   </Event>
   <Event>
     <Date>06/09/2026</Date>
