@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
     <EpisodeTitle>Finale (k)</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>08:15</StartTime>
+    <StartTime>08:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>09:20</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler og finaler</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>10:40</StartTime>
+    <StartTime>10:30</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Kvartfinaler og finaler</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:10</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>12:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Finland-Danmark</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Danmark-Holland</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Estland-Danmark</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -132,7 +132,20 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:20</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Macao</Title>
+    <EpisodeTitle>Anders Lind-João Geraldo</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions Macao i Kina.</ShortDescription>
+    <LongDescription>I den indledende runde af WTT Champions Macao i Kina mødes danske Anders Lind og João Geraldo fra Portugal. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>14/09/2026</Date>
+    <StartTime>22:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -144,8 +157,8 @@
     <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
   </Event>
   <Event>
-    <Date>14/09/2026</Date>
-    <StartTime>23:55</StartTime>
+    <Date>15/09/2026</Date>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Parma-Cremonese</EpisodeTitle>
@@ -158,7 +171,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -275,7 +288,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>21:45</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -288,7 +301,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -301,7 +314,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -314,7 +327,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -327,7 +340,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -353,7 +366,7 @@
   </Event>
   <Event>
     <Date>16/09/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -366,7 +379,7 @@
   </Event>
   <Event>
     <Date>16/09/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -379,7 +392,7 @@
   </Event>
   <Event>
     <Date>16/09/2026</Date>
-    <StartTime>08:05</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -392,7 +405,7 @@
   </Event>
   <Event>
     <Date>16/09/2026</Date>
-    <StartTime>10:35</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -405,7 +418,7 @@
   </Event>
   <Event>
     <Date>16/09/2026</Date>
-    <StartTime>11:20</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Dans</PrimaryGenre>
     <Title>Cph Open</Title>
     <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
@@ -418,16 +431,16 @@
   </Event>
   <Event>
     <Date>16/09/2026</Date>
-    <StartTime>11:55</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <StartTime>11:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Macao</Title>
+    <EpisodeTitle>Anders Lind-João Geraldo</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions Macao i Kina.</ShortDescription>
+    <LongDescription>I den indledende runde af WTT Champions Macao i Kina mødes danske Anders Lind og João Geraldo fra Portugal. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>16/09/2026</Date>
@@ -444,7 +457,7 @@
   </Event>
   <Event>
     <Date>16/09/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -613,7 +626,7 @@
   </Event>
   <Event>
     <Date>17/09/2026</Date>
-    <StartTime>10:30</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Danmark-Serbien</EpisodeTitle>
@@ -626,7 +639,7 @@
   </Event>
   <Event>
     <Date>17/09/2026</Date>
-    <StartTime>12:45</StartTime>
+    <StartTime>12:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -639,7 +652,7 @@
   </Event>
   <Event>
     <Date>17/09/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Bakken Bears</EpisodeTitle>
@@ -951,7 +964,7 @@
   </Event>
   <Event>
     <Date>19/09/2026</Date>
-    <StartTime>14:05</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -977,7 +990,7 @@
   </Event>
   <Event>
     <Date>19/09/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -990,7 +1003,20 @@
   </Event>
   <Event>
     <Date>19/09/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:00</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Macao</Title>
+    <EpisodeTitle>Anders Lind-João Geraldo</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions Macao i Kina.</ShortDescription>
+    <LongDescription>I den indledende runde af WTT Champions Macao i Kina mødes danske Anders Lind og João Geraldo fra Portugal. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>19/09/2026</Date>
+    <StartTime>21:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Svendborg Rabbits-Horsens IC</EpisodeTitle>
@@ -1002,8 +1028,8 @@
     <LongDescription>Rise Sparekasse Arena i Svendborg danner rammen om sæsonens første tv-kamp i Basketligaen, som står mellem Svendborg Rabbits og Horsens IC. Kommentatorer: Peter Jørgensen og TBA.</LongDescription>
   </Event>
   <Event>
-    <Date>19/09/2026</Date>
-    <StartTime>23:50</StartTime>
+    <Date>20/09/2026</Date>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -1016,7 +1042,7 @@
   </Event>
   <Event>
     <Date>20/09/2026</Date>
-    <StartTime>01:55</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1121,6 +1147,19 @@
   <Event>
     <Date>20/09/2026</Date>
     <StartTime>22:50</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Macao</Title>
+    <EpisodeTitle>Anders Lind-João Geraldo</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions Macao i Kina.</ShortDescription>
+    <LongDescription>I den indledende runde af WTT Champions Macao i Kina mødes danske Anders Lind og João Geraldo fra Portugal. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>20/09/2026</Date>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -1133,7 +1172,7 @@
   </Event>
   <Event>
     <Date>21/09/2026</Date>
-    <StartTime>01:20</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -1146,7 +1185,7 @@
   </Event>
   <Event>
     <Date>21/09/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
