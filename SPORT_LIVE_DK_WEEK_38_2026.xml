@@ -5,13 +5,13 @@
     <StartTime>07:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
-    <EpisodeTitle>Finale (k)</EpisodeTitle>
+    <EpisodeTitle>Miwa Harimoto-Chen Yi</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
     <ShortDescription>Damernes finale ved WTT Champions Macao i Kina.</ShortDescription>
-    <LongDescription>Damernes finale ved WTT Champions Macao i Kina spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Japanske Miwa Harimoto og kinesiske Chen Yi mødes i damernes finale ved WTT Champions Macao i Kina. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>14/09/2026</Date>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>21:10</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Program 2</EpisodeTitle>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>14/09/2026</Date>
-    <StartTime>23:55</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Parma-Cremonese</EpisodeTitle>
@@ -197,20 +197,33 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-João Geraldo</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions Macao i Kina.</ShortDescription>
+    <LongDescription>I den indledende runde af WTT Champions Macao i Kina mødes danske Anders Lind og João Geraldo fra Portugal. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/09/2026</Date>
+    <StartTime>07:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Macao</Title>
+    <EpisodeTitle>Hugo Calderano-Truls Möregårdh</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
     <ShortDescription>Herrernes finale ved WTT Champions Macao i Kina.</ShortDescription>
-    <LongDescription>Herrernes finale ved WTT Champions Macao i Kina spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Hugo Calderano fra Brasilien møder svenske Truls Möregårdh i herrernes finale ved WTT Champions Macao i Kina. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>08:25</StartTime>
+    <StartTime>08:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-prækvalifikation</Title>
     <EpisodeTitle>Danmark-Rumænien (m)</EpisodeTitle>
@@ -223,7 +236,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>10:35</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -236,7 +249,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>11:40</StartTime>
+    <StartTime>11:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Danmark-Holland</EpisodeTitle>
@@ -249,7 +262,7 @@
   </Event>
   <Event>
     <Date>15/09/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:40</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Estland-Danmark</EpisodeTitle>
@@ -590,30 +603,30 @@
     <StartTime>00:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
-    <EpisodeTitle>Finale (k)</EpisodeTitle>
+    <EpisodeTitle>Miwa Harimoto-Chen Yi</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
     <ShortDescription>Damernes finale ved WTT Champions Macao i Kina.</ShortDescription>
-    <LongDescription>Damernes finale ved WTT Champions Macao i Kina spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Japanske Miwa Harimoto og kinesiske Chen Yi mødes i damernes finale ved WTT Champions Macao i Kina. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>17/09/2026</Date>
-    <StartTime>01:15</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <EpisodeTitle>Hugo Calderano-Truls Möregårdh</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
     <ShortDescription>Herrernes finale ved WTT Champions Macao i Kina.</ShortDescription>
-    <LongDescription>Herrernes finale ved WTT Champions Macao i Kina spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Hugo Calderano fra Brasilien møder svenske Truls Möregårdh i herrernes finale ved WTT Champions Macao i Kina. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>17/09/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
