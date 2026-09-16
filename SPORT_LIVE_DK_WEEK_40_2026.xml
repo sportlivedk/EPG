@@ -652,16 +652,29 @@
   </Event>
   <Event>
     <Date>01/10/2026</Date>
-    <StartTime>13:55</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>EM for herrer</Title>
-    <EpisodeTitle>Finale</EpisodeTitle>
+    <StartTime>14:40</StartTime>
+    <PrimaryGenre>Gokart</PrimaryGenre>
+    <Title>Swedish Rental Kart Championship</Title>
+    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
-    <ShortDescription>Finale ved EM-slutrunden fra Milano i Italien.</ShortDescription>
-    <LongDescription>EM-slutrunden i volleyball for herrer kulminerer med den store finale, som spilles i PalaItalia Santa Giulia i Milano. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
+    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
+    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>01/10/2026</Date>
+    <StartTime>15:05</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Basketcheferne</Title>
+    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
+    <Season>2026-27</Season>
+    <EpisodeNo>1</EpisodeNo>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
+    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
+    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
   </Event>
   <Event>
     <Date>01/10/2026</Date>
@@ -705,19 +718,6 @@
   <Event>
     <Date>01/10/2026</Date>
     <StartTime>21:15</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo>1</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
-    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
-    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>01/10/2026</Date>
-    <StartTime>22:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -730,33 +730,20 @@
   </Event>
   <Event>
     <Date>01/10/2026</Date>
-    <StartTime>23:10</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
+    <StartTime>22:05</StartTime>
+    <PrimaryGenre>Volleyball</PrimaryGenre>
+    <Title>EM for herrer</Title>
+    <EpisodeTitle>Finale</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>01/10/2026</Date>
-    <StartTime>23:35</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra 2. afdeling af Dansk Gokart Cup i Aarhus.</ShortDescription>
-    <LongDescription>Reportage fra 2. afdeling af Dansk Gokart Cup, som blev afviklet søndag d. 12. april i Racehall Aarhus med nogle af Danmarks bedste indendørs gokartkørere. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
+    <ShortDescription>Finale ved EM-slutrunden fra Milano i Italien.</ShortDescription>
+    <LongDescription>EM-slutrunden i volleyball for herrer kulminerer med den store finale, som spilles i PalaItalia Santa Giulia i Milano. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>02/10/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Palermo-Mantova</EpisodeTitle>
@@ -769,7 +756,7 @@
   </Event>
   <Event>
     <Date>02/10/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
