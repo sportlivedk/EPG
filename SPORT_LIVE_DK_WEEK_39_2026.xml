@@ -808,7 +808,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>06:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>08:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
@@ -847,7 +847,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>13:40</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>18:05</StartTime>
+    <StartTime>17:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Sydney Uni-Veszprém HC (m)</EpisodeTitle>
@@ -869,7 +869,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Kvalifikationskamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Australske Sydney Uni Handball Club møder Veszprém HC fra Ungarn ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>Australske Sydney Uni Handball Club møder Veszprém HC fra Ungarn ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
   </Event>
   <Event>
     <Date>25/09/2026</Date>
@@ -882,11 +882,11 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -899,20 +899,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>22:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Macao</Title>
-    <EpisodeTitle>Anders Lind-João Geraldo</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14332-b70b7513-4b9d-49e7-9665-8c85c4cbfb0b.jpg?temp_url_sig=e0ce2ad6b3f2277a32b597a619e5779d16d387dc&amp;temp_url_expires=4942733696</StillSceneUrl>
-    <ShortDescription>Første runde af WTT Champions Macao i Kina.</ShortDescription>
-    <LongDescription>I den indledende runde af WTT Champions Macao i Kina mødes danske Anders Lind og João Geraldo fra Portugal. Kampen spilles i Macao East Asian Games Dome og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>25/09/2026</Date>
-    <StartTime>22:40</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
     <EpisodeTitle>Anders Lind-Tomokazu Harimoto</EpisodeTitle>
@@ -925,7 +912,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
     <EpisodeTitle>Miwa Harimoto-Chen Yi</EpisodeTitle>
@@ -938,7 +925,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>00:30</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
     <EpisodeTitle>Hugo Calderano-Truls Möregårdh</EpisodeTitle>
@@ -951,7 +938,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>01:20</StartTime>
+    <StartTime>01:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -964,7 +951,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -977,7 +964,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -990,7 +977,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>10:40</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -1003,7 +990,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>11:20</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -1016,7 +1003,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:40</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Al Ahly-TBD (m)</EpisodeTitle>
@@ -1025,11 +1012,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>15:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
@@ -1042,7 +1029,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>17:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketmagasinet Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1055,20 +1042,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>18:20</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>26/09/2026</Date>
-    <StartTime>18:45</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -1103,11 +1077,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>E.C. Pinheiros møder FC Barcelona i gruppe A ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>E.C. Pinheiros møder FC Barcelona i gruppe A ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>00:35</StartTime>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Burgan-Füchse Berlin (m)</EpisodeTitle>
@@ -1116,11 +1090,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Burgan Sports Club fra Kuwait møder tyske Füchse Berlin i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>Burgan Sports Club fra Kuwait møder tyske Füchse Berlin i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:40</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1133,20 +1107,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Herrernes anden semifinale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Danmark møder Sverige i herrernes anden semifinalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>27/09/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>06:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
@@ -1159,7 +1120,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -1172,7 +1133,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Pinheiros-FC Barcelona (m)</EpisodeTitle>
@@ -1181,11 +1142,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>E.C. Pinheiros møder FC Barcelona i gruppe A ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>E.C. Pinheiros møder FC Barcelona i gruppe A ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Burgan-Füchse Berlin (m)</EpisodeTitle>
@@ -1194,11 +1155,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Burgan Sports Club fra Kuwait møder tyske Füchse Berlin i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>Burgan Sports Club fra Kuwait møder tyske Füchse Berlin i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>15:05</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Al Ahly-TBD (m)</EpisodeTitle>
@@ -1207,7 +1168,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>27/09/2026</Date>
@@ -1220,11 +1181,24 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Tyske Füchse Berlin møder australske Sydney Uni Handball Club eller Veszprém HC fra Ungarn i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentator: TBA.</LongDescription>
+    <LongDescription>Tyske Füchse Berlin møder australske Sydney Uni Handball Club eller Veszprém HC fra Ungarn i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>18:15</StartTime>
+    <StartTime>18:30</StartTime>
+    <PrimaryGenre>Volleyball</PrimaryGenre>
+    <Title>EM for herrer</Title>
+    <EpisodeTitle>Italien-Danmark</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
+    <ShortDescription>1/8-finale fra Torino i Norditalien.</ShortDescription>
+    <LongDescription>Det danske herrelandshold møder værterne fra Italien i 1/8-finalen ved europamesterskabet i volleyball. Kampen spilles i PalaVela i Torino og kommenteres af Mads Knudsen og Mads Ditlevsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/09/2026</Date>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -1237,7 +1211,20 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>22:45</StartTime>
+    <PrimaryGenre>Beachvolley</PrimaryGenre>
+    <Title>Danish Beachvolley Tour</Title>
+    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
+    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
+    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/09/2026</Date>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -1249,21 +1236,8 @@
     <LongDescription>Kvinderne fra HB Køge får besøg af PSV Eindhoven fra Holland til den afgørende returkamp i tredje og sidste kvalifikationsrunde frem mod ligafasen i Champions League. Kampen spilles på Capelli Sport Stadion i Køge og kommenteres af Mads Knudsen og Amalie Bremer.</LongDescription>
   </Event>
   <Event>
-    <Date>27/09/2026</Date>
-    <StartTime>22:55</StartTime>
-    <PrimaryGenre>Triatlon</PrimaryGenre>
-    <Title>DATEV Challenge Roth</Title>
-    <EpisodeTitle>3. etape, maratonløb</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13754-5dd795c9-57b0-4ff1-9f96-d5886413646e.jpg?temp_url_sig=d3c86082af7c63a50c7836cc3f4cae3d526b42b0&amp;temp_url_expires=4938657393</StillSceneUrl>
-    <ShortDescription>Verdens største langdistanceløb fra Roth i Sydtyskland.</ShortDescription>
-    <LongDescription>Danmark stiller med bl.a. Kristian Høgenhaug og flere andre stærke triatleter ved årets udgave af DATEV Challenge Roth, som starter med en 3,8 kilometers svømmetur i Main-Danube-kanalen, derefter 180 kilometers cykling i de bayerske alper og til slut et 42,2 kilometer langt maratonløb. Kommentatorer: Martin Kring og Ondrej Kralik.</LongDescription>
-  </Event>
-  <Event>
     <Date>28/09/2026</Date>
-    <StartTime>02:35</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
