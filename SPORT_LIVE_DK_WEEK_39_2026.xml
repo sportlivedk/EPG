@@ -808,7 +808,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:25</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>11:15</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>13:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
@@ -847,10 +847,10 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>16:00</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
-    <EpisodeTitle>Sydney Uni-Veszprém HC (m)</EpisodeTitle>
+    <EpisodeTitle>Sydney Uni-Veszprém (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -863,17 +863,17 @@
     <StartTime>17:25</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
-    <EpisodeTitle>Al Ahly-TBD (m)</EpisodeTitle>
+    <EpisodeTitle>Al Ahly-Veszprém (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
+    <LongDescription>Egyptiske Al Ahly SC møder Veszprém HC fra Ungarn i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -886,7 +886,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -912,7 +912,7 @@
   </Event>
   <Event>
     <Date>25/09/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
     <EpisodeTitle>Miwa Harimoto-Chen Yi</EpisodeTitle>
@@ -925,7 +925,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Macao</Title>
     <EpisodeTitle>Hugo Calderano-Truls Möregårdh</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -977,7 +977,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>10:55</StartTime>
+    <StartTime>10:50</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -990,7 +990,7 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -1003,16 +1003,16 @@
   </Event>
   <Event>
     <Date>26/09/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
-    <EpisodeTitle>Al Ahly-TBD (m)</EpisodeTitle>
+    <EpisodeTitle>Al Ahly-Veszprém (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
+    <LongDescription>Egyptiske Al Ahly SC møder Veszprém HC fra Ungarn i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>26/09/2026</Date>
@@ -1081,7 +1081,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>00:50</StartTime>
+    <StartTime>00:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Burgan-Füchse Berlin (m)</EpisodeTitle>
@@ -1094,7 +1094,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>02:40</StartTime>
+    <StartTime>02:50</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1107,7 +1107,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>06:50</StartTime>
+    <StartTime>06:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Bears Academy</EpisodeTitle>
@@ -1120,7 +1120,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -1133,7 +1133,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>11:15</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Pinheiros-FC Barcelona (m)</EpisodeTitle>
@@ -1146,7 +1146,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>13:05</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Burgan-Füchse Berlin (m)</EpisodeTitle>
@@ -1162,30 +1162,30 @@
     <StartTime>14:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
-    <EpisodeTitle>Al Ahly-TBD (m)</EpisodeTitle>
+    <EpisodeTitle>Al Ahly-Veszprém (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Egyptiske Al Ahly SC møder Sydney Uni Handball Club eller Veszprém HC i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
+    <LongDescription>Egyptiske Al Ahly SC møder Veszprém HC fra Ungarn i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Martin Kring og Johan Strange.</LongDescription>
   </Event>
   <Event>
     <Date>27/09/2026</Date>
     <StartTime>16:40</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
-    <EpisodeTitle>Füchse Berlin-TBD (m)</EpisodeTitle>
+    <EpisodeTitle>Füchse Berlin-Veszprém (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14621-7a703693-0a4d-4f95-919f-d7a969a07f37.jpg?temp_url_sig=5314c8fdcce5f80a563dbf2eecdcca888ee7244f&amp;temp_url_expires=4945414287</StillSceneUrl>
     <ShortDescription>Gruppekamp fra New Capital i Egypten.</ShortDescription>
-    <LongDescription>Tyske Füchse Berlin møder australske Sydney Uni Handball Club eller Veszprém HC fra Ungarn i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
+    <LongDescription>Tyske Füchse Berlin møder Veszprém HC fra Ungarn i gruppe B ved den 19. udgave af herrernes VM for klubhold, som finder sted i New Capital Sports City Hall øst for Cairo i Egypten. Kommentatorer: Thomas Sønnichsen og Lars Rasmussen.</LongDescription>
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -1198,7 +1198,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -1224,7 +1224,7 @@
   </Event>
   <Event>
     <Date>27/09/2026</Date>
-    <StartTime>23:25</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
