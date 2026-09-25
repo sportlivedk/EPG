@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Finale</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>09:20</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>13:50</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>14:40</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>28/09/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Veszprém (m)</EpisodeTitle>
