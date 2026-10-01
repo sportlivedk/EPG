@@ -249,7 +249,20 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>19:25</StartTime>
+    <StartTime>19:20</StartTime>
+    <PrimaryGenre>Boksning</PrimaryGenre>
+    <Title>Gala de Boxe record D'EOTTM</Title>
+    <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
+    <Season/>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14711-0275d412-3565-4ac4-9fd6-f5cb4a527934.jpg?temp_url_sig=df37f997493f525a289b77770f3b26372e16ad91&amp;temp_url_expires=4946615267</StillSceneUrl>
+    <ShortDescription>Professionelt boksestævne fra Quebec City i Canada.</ShortDescription>
+    <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/10/2026</Date>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen</EpisodeTitle>
@@ -262,20 +275,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>00:35</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>China Smash</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14624-840bea59-2424-4588-bdb0-d299a7eed372.jpg?temp_url_sig=22929e3f555a13eda32efe6ee044e936c8488bd9&amp;temp_url_expires=4945420349</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved China Smash i Beijing.</ShortDescription>
-    <LongDescription>Herrernes finale ved China Smash - den ene af de fire store prestigefyldte Grand Smash-turneringer. Kampen spilles i Shougang Park i Beijing og kommenteres af Mads Knudsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/10/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -459,18 +459,18 @@
     <Date>15/10/2026</Date>
     <StartTime>00:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Cherneka Johnson-Dina Thorslund</Title>
-    <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
+    <Title>Gala de Boxe record D'EOTTM</Title>
+    <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>VM-titelkamp mellem Dina Thorslund og Cherneka Johnson fra Orlando, Florida.</ShortDescription>
-    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14711-0275d412-3565-4ac4-9fd6-f5cb4a527934.jpg?temp_url_sig=df37f997493f525a289b77770f3b26372e16ad91&amp;temp_url_expires=4946615267</StillSceneUrl>
+    <ShortDescription>Professionelt boksestævne fra Quebec City i Canada.</ShortDescription>
+    <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>01:25</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -483,7 +483,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -782,7 +782,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -795,20 +795,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>08:50</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>17/10/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -821,7 +808,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:05</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -834,7 +821,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -847,7 +834,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>14:20</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -860,7 +847,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>16:40</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -873,7 +860,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>16:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -886,7 +873,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>19:35</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -899,7 +886,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>20:40</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
@@ -912,20 +899,20 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
-    <Title>Cherneka Johnson-Dina Thorslund</Title>
-    <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
+    <Title>Gala de Boxe record D'EOTTM</Title>
+    <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14186-ae2d8482-2d93-4176-ae2a-f5b67ce08e80.jpg?temp_url_sig=add0b54ae903af280c506ff91897f64ab8b9bd5c&amp;temp_url_expires=4939451230</StillSceneUrl>
-    <ShortDescription>VM-titelkamp mellem Dina Thorslund og Cherneka Johnson fra Orlando, Florida.</ShortDescription>
-    <LongDescription>Ubesejrede Dina Thorslund møder australske Cherneka Johnson i kampen om hele fire VM-bælter i bantamvægt ved stævnet MVPW 05 på Caribe Royale i Orlando, Florida. Kommentatorer: Jonas Kvist Jepsen og Oliver Møllenberg.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14711-0275d412-3565-4ac4-9fd6-f5cb4a527934.jpg?temp_url_sig=df37f997493f525a289b77770f3b26372e16ad91&amp;temp_url_expires=4946615267</StillSceneUrl>
+    <ShortDescription>Professionelt boksestævne fra Quebec City i Canada.</ShortDescription>
+    <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>18/10/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>17/10/2026</Date>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -938,7 +925,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>02:30</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
