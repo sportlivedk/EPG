@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>06/10/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>07/10/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -548,7 +548,7 @@
   </Event>
   <Event>
     <Date>08/10/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -561,7 +561,7 @@
   </Event>
   <Event>
     <Date>08/10/2026</Date>
-    <StartTime>08:10</StartTime>
+    <StartTime>08:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Holbæk-Stenhus-BMS Herlev</EpisodeTitle>
@@ -574,7 +574,20 @@
   </Event>
   <Event>
     <Date>08/10/2026</Date>
-    <StartTime>10:30</StartTime>
+    <StartTime>10:25</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>08/10/2026</Date>
+    <StartTime>11:00</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Zamalek-Al Ahly (m)</EpisodeTitle>
@@ -587,7 +600,7 @@
   </Event>
   <Event>
     <Date>08/10/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:35</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -694,7 +707,7 @@
     <StartTime>00:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
-    <EpisodeTitle>VM-titelstævne med bl.a. Oliver Zaren</EpisodeTitle>
+    <EpisodeTitle>VM-stævne med bl.a. Oliver Zaren</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Live</Status>
@@ -770,6 +783,19 @@
   <Event>
     <Date>09/10/2026</Date>
     <StartTime>14:15</StartTime>
+    <PrimaryGenre>Beachvolley</PrimaryGenre>
+    <Title>Danish Beachvolley Tour</Title>
+    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
+    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
+    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/10/2026</Date>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Værløse Blue Hawks</EpisodeTitle>
@@ -782,7 +808,7 @@
   </Event>
   <Event>
     <Date>09/10/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Zamalek-Al Ahly (m)</EpisodeTitle>
@@ -795,7 +821,7 @@
   </Event>
   <Event>
     <Date>09/10/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -808,10 +834,10 @@
   </Event>
   <Event>
     <Date>09/10/2026</Date>
-    <StartTime>20:10</StartTime>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
-    <EpisodeTitle>VM-titelstævne med bl.a. Oliver Zaren</EpisodeTitle>
+    <EpisodeTitle>VM-stævne med bl.a. Oliver Zaren</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -821,7 +847,7 @@
   </Event>
   <Event>
     <Date>10/10/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>01:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -834,7 +860,7 @@
   </Event>
   <Event>
     <Date>10/10/2026</Date>
-    <StartTime>01:50</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1029,7 +1055,7 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -1042,7 +1068,7 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>08:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -1055,7 +1081,7 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>08:50</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -1068,7 +1094,7 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>09:20</StartTime>
+    <StartTime>09:35</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
@@ -1081,7 +1107,7 @@
   </Event>
   <Event>
     <Date>11/10/2026</Date>
-    <StartTime>09:50</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1136,7 +1162,7 @@
     <StartTime>19:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
-    <EpisodeTitle>VM-titelstævne med bl.a. Oliver Zaren</EpisodeTitle>
+    <EpisodeTitle>VM-stævne med bl.a. Oliver Zaren</EpisodeTitle>
     <Season/>
     <EpisodeNo/>
     <Status>Repeat</Status>
