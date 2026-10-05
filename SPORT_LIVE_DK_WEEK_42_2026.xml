@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>12/10/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Pinheiros-FC Barcelona (m)</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>12/10/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Al Ahly-Veszprém (m)</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>12/10/2026</Date>
-    <StartTime>10:15</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Burgan-Füchse Berlin (m)</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>12/10/2026</Date>
-    <StartTime>11:40</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>12/10/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>13:10</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Kvartfinaler og finaler</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>12/10/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Værløse Blue Hawks</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>12/10/2026</Date>
-    <StartTime>19:50</StartTime>
+    <StartTime>19:55</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>01:05</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Finale (k)</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>10:00</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>11:10</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Zamalek (m)</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>12:30</StartTime>
+    <StartTime>12:40</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Veszprém (m)</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Veszprém-Burgan (m)</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>17:35</StartTime>
+    <StartTime>17:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>13/10/2026</Date>
-    <StartTime>20:25</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen</EpisodeTitle>
@@ -272,19 +272,6 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14625-7fa18e73-9d1a-48a3-b551-3fc4573935d6.jpg?temp_url_sig=03b6721ab0ae7f17e1d5b5dedb5466775f348d78&amp;temp_url_expires=4945422355</StillSceneUrl>
     <ShortDescription>International padelturnering i Racket Club Taastrup.</ShortDescription>
     <LongDescription>FIP Bronze Copenhagen er et stop på det Internationale padelforbunds verdensturnering CUPRA FIP Tour, og ved turneringen i Racket Club Taastrup er der 12.000 euro i præmiepuljen samt 32 deltagende par på både herre- og damesiden. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>14/10/2026</Date>
-    <StartTime>01:40</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Swedish Rental Kart Championship</Title>
-    <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13111-cb1ece88-648f-4b50-9ccb-959ae18d7c88.jpg?temp_url_sig=157a38314effaad6d35ed21bc22be040cf170f53&amp;temp_url_expires=4927868635</StillSceneUrl>
-    <ShortDescription>Reportage fra sæsonfinalen i Swedish Rental Kart Championship.</ShortDescription>
-    <LongDescription>Racehall Stockholm danner ramme om sæsonfinalen i Swedish Rental Kart Championship, hvor der også er mange danske kørere på deltagerlisten. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
     <Date>14/10/2026</Date>
@@ -301,7 +288,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -314,7 +301,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>09:25</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
@@ -327,7 +314,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>11:55</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
@@ -340,7 +327,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -353,7 +340,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Finale (k)</EpisodeTitle>
@@ -366,7 +353,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>14:25</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Finale (m)</EpisodeTitle>
@@ -392,7 +379,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Zamalek-Al Ahly (m)</EpisodeTitle>
@@ -405,7 +392,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -418,7 +405,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -431,7 +418,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>20:40</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -444,7 +431,7 @@
   </Event>
   <Event>
     <Date>14/10/2026</Date>
-    <StartTime>21:45</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BK Vejen-Værløse Blue Hawks</EpisodeTitle>
@@ -457,7 +444,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -470,7 +457,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:25</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -483,7 +470,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>01:35</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -496,7 +483,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -509,7 +496,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -522,7 +509,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>08:15</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen</EpisodeTitle>
@@ -535,7 +522,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -548,7 +535,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -587,7 +574,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>21:15</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -600,7 +587,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
@@ -613,7 +600,7 @@
   </Event>
   <Event>
     <Date>15/10/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -626,7 +613,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>00:20</StartTime>
+    <StartTime>00:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
@@ -639,7 +626,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:35</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -652,7 +639,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -665,7 +652,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>08:00</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -678,7 +665,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>08:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -691,7 +678,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:30</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen</EpisodeTitle>
@@ -704,7 +691,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -717,7 +704,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>17:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -730,7 +717,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>18:20</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -756,7 +743,7 @@
   </Event>
   <Event>
     <Date>16/10/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
@@ -769,7 +756,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>01:40</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -782,7 +769,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:35</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -795,7 +782,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -808,7 +795,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>08:50</StartTime>
+    <StartTime>08:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -821,7 +808,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>10:55</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -834,7 +821,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>12:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
@@ -847,7 +834,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -886,7 +873,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>19:00</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -899,7 +886,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
@@ -912,7 +899,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -925,7 +912,7 @@
   </Event>
   <Event>
     <Date>17/10/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -938,7 +925,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -951,7 +938,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>06:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -964,7 +951,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>08:00</StartTime>
+    <StartTime>07:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -977,7 +964,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>08:45</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -990,7 +977,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -1003,7 +990,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -1068,7 +1055,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1081,7 +1068,7 @@
   </Event>
   <Event>
     <Date>18/10/2026</Date>
-    <StartTime>21:50</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -1093,8 +1080,8 @@
     <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
   </Event>
   <Event>
-    <Date>18/10/2026</Date>
-    <StartTime>23:55</StartTime>
+    <Date>19/10/2026</Date>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -1107,7 +1094,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>00:35</StartTime>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
@@ -1120,7 +1107,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>01:25</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
@@ -1133,33 +1120,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>02:00</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>02:20</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>02:30</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
