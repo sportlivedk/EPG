@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>13:15</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Individuelt EM</Title>
     <EpisodeTitle>Finale (k)</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>14:10</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>19:25</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>19:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>22:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
@@ -118,8 +118,8 @@
     <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>19/10/2026</Date>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>00:25</StartTime>
+    <StartTime>00:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>06:55</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>07:35</StartTime>
+    <StartTime>07:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -379,7 +379,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>09:45</StartTime>
+    <StartTime>10:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>12:05</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -405,7 +405,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -418,7 +418,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
