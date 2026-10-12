@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>09:50</StartTime>
+    <StartTime>09:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>10:55</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>22:50</StartTime>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>01:55</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>07:50</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -379,7 +379,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>10:00</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -405,7 +405,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -418,7 +418,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
