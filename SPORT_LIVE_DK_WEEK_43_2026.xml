@@ -2,7 +2,7 @@
 <EPG>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -15,7 +15,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-SL Benfica</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>13:10</StartTime>
+    <StartTime>13:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>14:15</StartTime>
+    <StartTime>14:20</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, indledende runde</EpisodeTitle>
@@ -76,7 +76,7 @@
     <Status>Premiere</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle fodboldspillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>19/10/2026</Date>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -131,8 +131,8 @@
     <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>20/10/2026</Date>
-    <StartTime>00:00</StartTime>
+    <Date>19/10/2026</Date>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>07:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>09:50</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>10:55</StartTime>
+    <StartTime>11:00</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>12:30</StartTime>
+    <StartTime>12:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>13:10</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>20/10/2026</Date>
-    <StartTime>20:00</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -284,7 +284,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle fodboldspillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>20/10/2026</Date>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>01:10</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>07:05</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>07:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -453,11 +453,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle fodboldspillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -470,7 +470,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -483,7 +483,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -496,7 +496,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -509,7 +509,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -522,7 +522,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -600,7 +600,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>14:35</StartTime>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -609,11 +609,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle fodboldspillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>15:15</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -626,7 +626,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>17:40</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -639,7 +639,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -652,7 +652,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>21:50</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -665,7 +665,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>22:30</StartTime>
+    <StartTime>22:20</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -678,7 +678,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -691,7 +691,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>01:50</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -704,7 +704,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -717,7 +717,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Adrien Rassenfosse</EpisodeTitle>
@@ -730,7 +730,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>08:05</StartTime>
+    <StartTime>07:55</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>United States Smash</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -743,7 +743,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>08:50</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, indledende runde</EpisodeTitle>
@@ -756,7 +756,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -769,7 +769,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>14:25</StartTime>
+    <StartTime>14:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -782,7 +782,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>16:15</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>17:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
@@ -808,7 +808,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>17:35</StartTime>
+    <StartTime>17:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>17:45</StartTime>
+    <StartTime>17:30</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -830,11 +830,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle fodboldspillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:05</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -847,7 +847,20 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>18:55</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Sverige (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Herrernes anden semifinale ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Danmark møder Sverige i herrernes anden semifinalekamp ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/10/2026</Date>
+    <StartTime>19:25</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
@@ -860,7 +873,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>19:50</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -873,7 +886,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -886,7 +899,7 @@
   </Event>
   <Event>
     <Date>23/10/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -899,7 +912,7 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -912,7 +925,7 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -921,11 +934,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle fodboldspillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>07:50</StartTime>
+    <StartTime>08:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -938,7 +951,7 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>10:15</StartTime>
+    <StartTime>10:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -951,7 +964,7 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -964,7 +977,7 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1038,7 +1051,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
     <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
-    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og TBA.</LongDescription>
+    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>24/10/2026</Date>
@@ -1094,7 +1107,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
@@ -1107,7 +1120,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>08:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -1120,7 +1133,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>08:45</StartTime>
+    <StartTime>09:00</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
@@ -1133,7 +1146,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>14:05</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -1146,7 +1159,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -1155,11 +1168,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle fodboldspillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne og gik på banen for at dyste om DM-titlen. Reporter: Thomas Sønnichsen.</LongDescription>
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>17:10</StartTime>
+    <StartTime>17:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -1181,7 +1194,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14717-8007e65a-94b2-4d4c-9faf-b7e07f91f918.jpg?temp_url_sig=69ca4454b5d9d9823301a7c24c1602144b642aab&amp;temp_url_expires=4946703422</StillSceneUrl>
     <ShortDescription>Den 11. udgave af Herlev Fight Night i Herlev Hallen.</ShortDescription>
-    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen og TBA.</LongDescription>
+    <LongDescription>Herlev Boxing præsenterer den 11. udgave af Herlev Fight Night med boksning på højeste niveau. Aftenen byder på 14-16 kampe i olympisk eliteboksning med nogle af Danmarks og Nordens bedste boksere i ringen. Stævnet finder sted i Herlev Hallen og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>26/10/2026</Date>
