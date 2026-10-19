@@ -93,7 +93,20 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>21:35</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Sverige-Norge (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Kvindelandsholdene fra Sverige og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>19/10/2026</Date>
+    <StartTime>22:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -119,7 +132,7 @@
   </Event>
   <Event>
     <Date>19/10/2026</Date>
-    <StartTime>23:30</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
@@ -131,8 +144,8 @@
     <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>19/10/2026</Date>
-    <StartTime>23:55</StartTime>
+    <Date>20/10/2026</Date>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
     <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
@@ -353,7 +366,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Semifinaler</EpisodeTitle>
@@ -366,7 +379,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>07:50</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -379,7 +392,7 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -392,7 +405,20 @@
   </Event>
   <Event>
     <Date>21/10/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>11:45</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Estland (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Herrelandsholdene fra Danmark og Estland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>21/10/2026</Date>
+    <StartTime>12:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -535,7 +561,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Team FOG Næstved-Svendborg Rabbits</EpisodeTitle>
@@ -548,7 +574,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -561,7 +587,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:30</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -574,7 +600,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:35</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
@@ -587,7 +613,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -600,7 +626,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -613,7 +639,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>15:10</StartTime>
+    <StartTime>14:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -626,7 +652,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>17:40</StartTime>
+    <StartTime>17:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -639,7 +665,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -652,7 +678,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -665,7 +691,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>22:20</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -678,7 +704,7 @@
   </Event>
   <Event>
     <Date>22/10/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -688,6 +714,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
     <ShortDescription>Finale ved EM-slutrunden fra Milano i Italien.</ShortDescription>
     <LongDescription>EM-slutrunden i volleyball for herrer kulminerer med den store finale, som står mellem Frankrig og Polen. Kampen spilles i Unipol Forum di Assago i Milano og kommenteres af Peter Jørgensen og Mads Ditlevsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>23/10/2026</Date>
+    <StartTime>00:55</StartTime>
+    <PrimaryGenre>Beachvolley</PrimaryGenre>
+    <Title>Danish Beachvolley Tour</Title>
+    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
+    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
+    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
   </Event>
   <Event>
     <Date>23/10/2026</Date>
@@ -925,7 +964,20 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:10</StartTime>
+    <PrimaryGenre>Dans</PrimaryGenre>
+    <Title>Cph Open</Title>
+    <EpisodeTitle>DM-finaler i hip hop, battle og showdance</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13251-3e42803d-a41b-49d2-955b-971b3bad6a25.jpg?temp_url_sig=f843620f1830962b14fb99f1d5897801a504b590&amp;temp_url_expires=4931576417</StillSceneUrl>
+    <ShortDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance.</ShortDescription>
+    <LongDescription>Reportage fra årets DM-finaler i hip hop, battle og showdance, som fandt sted d. 18. april i Idrætscenter Midtfyn i Ringe og bød på danseunderholdning i topklasse med nogle af Danmarks bedste performere. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>24/10/2026</Date>
+    <StartTime>07:50</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -938,7 +990,7 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>08:00</StartTime>
+    <StartTime>08:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -964,7 +1016,7 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>12:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -977,7 +1029,7 @@
   </Event>
   <Event>
     <Date>24/10/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1107,7 +1159,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Anders Lind-Patrick Franziska</EpisodeTitle>
@@ -1120,7 +1172,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>08:00</StartTime>
+    <StartTime>07:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>China Smash</Title>
     <EpisodeTitle>Jonathan Groth-Tomokazu Harimoto</EpisodeTitle>
@@ -1133,7 +1185,20 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>09:00</StartTime>
+    <StartTime>08:45</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>DM i disc golf</Title>
+    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
+    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
+    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+  </Event>
+  <Event>
+    <Date>25/10/2026</Date>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
@@ -1146,7 +1211,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>14:15</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -1159,7 +1224,7 @@
   </Event>
   <Event>
     <Date>25/10/2026</Date>
-    <StartTime>16:40</StartTime>
+    <StartTime>16:35</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
