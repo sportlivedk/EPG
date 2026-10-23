@@ -11,7 +11,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Damernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af TBA.</LongDescription>
+    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>02/11/2026</Date>
@@ -24,7 +24,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Herrernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af TBA.</LongDescription>
+    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>02/11/2026</Date>
@@ -297,7 +297,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Damernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af TBA.</LongDescription>
+    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>04/11/2026</Date>
@@ -310,7 +310,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Herrernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af TBA.</LongDescription>
+    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>04/11/2026</Date>
@@ -453,7 +453,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
     <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
-    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: Peter Jørgensen og Pascal Colman.</LongDescription>
   </Event>
   <Event>
     <Date>04/11/2026</Date>
@@ -535,7 +535,7 @@
   </Event>
   <Event>
     <Date>05/11/2026</Date>
-    <StartTime>12:05</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -609,11 +609,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
     <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
-    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: Peter Jørgensen og Pascal Colman.</LongDescription>
   </Event>
   <Event>
     <Date>05/11/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Herlev Fight Night</Title>
     <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
@@ -626,7 +626,7 @@
   </Event>
   <Event>
     <Date>05/11/2026</Date>
-    <StartTime>22:45</StartTime>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -791,7 +791,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
     <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
-    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: Peter Jørgensen og Pascal Colman.</LongDescription>
   </Event>
   <Event>
     <Date>06/11/2026</Date>
@@ -869,7 +869,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
     <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
-    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: Peter Jørgensen og Pascal Colman.</LongDescription>
   </Event>
   <Event>
     <Date>07/11/2026</Date>
@@ -912,7 +912,7 @@
   </Event>
   <Event>
     <Date>07/11/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>20:50</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -999,7 +999,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14404-a3f7d584-1705-4677-a144-7d26db86f954.jpg?temp_url_sig=cb51d95dc71cc870cd644a397a789e777f9dd7fe&amp;temp_url_expires=4943688350</StillSceneUrl>
     <ShortDescription>Gladsaxe møder Holbæk-Stenhus i syvende runde af Basketligaen.</ShortDescription>
-    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: TBA og Pascal Colman.</LongDescription>
+    <LongDescription>I syvende spillerunde af Basketligaen tager Gladsaxe BK imod Holbæk-Stenhus i Gladsaxe Sportscenter. Kommentatorer: Peter Jørgensen og Pascal Colman.</LongDescription>
   </Event>
   <Event>
     <Date>08/11/2026</Date>
@@ -1064,7 +1064,7 @@
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
     <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
-    <LongDescription>Danmark møder på udebane Rumænien i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Sepsi Arena i Sfantu Gheorghe og kommenteres af TBA.</LongDescription>
+    <LongDescription>Danmark møder på udebane Rumænien i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Sepsi Arena i Sfantu Gheorghe og kommenteres af Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>08/11/2026</Date>
@@ -1077,7 +1077,7 @@
     <Status>Relive</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
     <ShortDescription>Damernes finale ved WTT Champions i Frankfurt.</ShortDescription>
-    <LongDescription>Damernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af TBA.</LongDescription>
+    <LongDescription>Damernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>08/11/2026</Date>
@@ -1090,7 +1090,7 @@
     <Status>Relive</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
     <ShortDescription>Herrernes finale ved WTT Champions i Frankfurt.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af TBA.</LongDescription>
+    <LongDescription>Herrernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>08/11/2026</Date>
