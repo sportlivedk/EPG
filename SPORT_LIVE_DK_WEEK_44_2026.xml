@@ -343,13 +343,13 @@
     <StartTime>18:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Anders Lind-Felix Lebrun</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Live</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14740-07d3a83c-0502-46a8-aca0-0d7749d49cad.jpg?temp_url_sig=57e5cc4ea4c7d9c121ccc48e4ca859b7aafbbd99&amp;temp_url_expires=4947140802</StillSceneUrl>
     <ShortDescription>Første runde af WTT Champions fra Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder den franske verdenstoer Felix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
+    <LongDescription>Danske Anders Lind møder den franske verdenstoer Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>27/10/2026</Date>
@@ -405,7 +405,7 @@
   </Event>
   <Event>
     <Date>28/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -418,7 +418,7 @@
   </Event>
   <Event>
     <Date>28/10/2026</Date>
-    <StartTime>08:05</StartTime>
+    <StartTime>08:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -431,7 +431,7 @@
   </Event>
   <Event>
     <Date>28/10/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>10:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -444,7 +444,7 @@
   </Event>
   <Event>
     <Date>28/10/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
@@ -457,7 +457,7 @@
   </Event>
   <Event>
     <Date>28/10/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>13:20</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -470,7 +470,7 @@
   </Event>
   <Event>
     <Date>28/10/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>15:15</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -483,16 +483,16 @@
   </Event>
   <Event>
     <Date>28/10/2026</Date>
-    <StartTime>15:30</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Anders Lind-Felix Lebrun</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14740-07d3a83c-0502-46a8-aca0-0d7749d49cad.jpg?temp_url_sig=57e5cc4ea4c7d9c121ccc48e4ca859b7aafbbd99&amp;temp_url_expires=4947140802</StillSceneUrl>
     <ShortDescription>Første runde af WTT Champions fra Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder den franske verdenstoer Felix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
+    <LongDescription>Danske Anders Lind møder den franske verdenstoer Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>28/10/2026</Date>
@@ -666,19 +666,32 @@
   <Event>
     <Date>29/10/2026</Date>
     <StartTime>22:10</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Norge-Danmark (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Herrernes bronzekamp ved 3x3 Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Danmark møder Norge i Herrernes bronzekamp om tredjepladsen ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>29/10/2026</Date>
+    <StartTime>22:45</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Anders Lind-Felix Lebrun</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14740-07d3a83c-0502-46a8-aca0-0d7749d49cad.jpg?temp_url_sig=57e5cc4ea4c7d9c121ccc48e4ca859b7aafbbd99&amp;temp_url_expires=4947140802</StillSceneUrl>
     <ShortDescription>Første runde af WTT Champions fra Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder den franske verdenstoer Felix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
+    <LongDescription>Danske Anders Lind møder den franske verdenstoer Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>29/10/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -690,8 +703,8 @@
     <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>29/10/2026</Date>
-    <StartTime>23:50</StartTime>
+    <Date>30/10/2026</Date>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Palermo-Mantova</EpisodeTitle>
@@ -704,7 +717,7 @@
   </Event>
   <Event>
     <Date>30/10/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -731,15 +744,28 @@
   <Event>
     <Date>30/10/2026</Date>
     <StartTime>07:55</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajaksprint</Title>
+    <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
+    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>30/10/2026</Date>
+    <StartTime>08:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Anders Lind-Felix Lebrun</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14740-07d3a83c-0502-46a8-aca0-0d7749d49cad.jpg?temp_url_sig=57e5cc4ea4c7d9c121ccc48e4ca859b7aafbbd99&amp;temp_url_expires=4947140802</StillSceneUrl>
     <ShortDescription>Første runde af WTT Champions fra Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder den franske verdenstoer Felix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
+    <LongDescription>Danske Anders Lind møder den franske verdenstoer Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>30/10/2026</Date>
@@ -912,7 +938,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -925,7 +951,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>08:55</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -938,7 +964,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -951,20 +977,20 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>10:15</StartTime>
+    <StartTime>10:30</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Anders Lind-Felix Lebrun</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14740-07d3a83c-0502-46a8-aca0-0d7749d49cad.jpg?temp_url_sig=57e5cc4ea4c7d9c121ccc48e4ca859b7aafbbd99&amp;temp_url_expires=4947140802</StillSceneUrl>
     <ShortDescription>Første runde af WTT Champions fra Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder den franske verdenstoer Felix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
+    <LongDescription>Danske Anders Lind møder den franske verdenstoer Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>11:00</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -977,7 +1003,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>11:35</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -990,7 +1016,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>12:05</StartTime>
+    <StartTime>12:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BMS Herlev-Værløse Blue Hawks</EpisodeTitle>
@@ -1003,7 +1029,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:25</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -1016,7 +1042,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>17:00</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -1029,7 +1055,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>20:40</StartTime>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -1042,7 +1068,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>21:05</StartTime>
+    <StartTime>21:00</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1055,7 +1081,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Herlev Fight Night</Title>
     <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
@@ -1068,7 +1094,7 @@
   </Event>
   <Event>
     <Date>01/11/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1081,7 +1107,7 @@
   </Event>
   <Event>
     <Date>01/11/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
@@ -1094,7 +1120,7 @@
   </Event>
   <Event>
     <Date>01/11/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:30</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1107,7 +1133,20 @@
   </Event>
   <Event>
     <Date>01/11/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:10</StartTime>
+    <PrimaryGenre>3x3 basketball</PrimaryGenre>
+    <Title>3x3 Nordic Cup</Title>
+    <EpisodeTitle>Danmark-Norge (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
+    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
+    <LongDescription>Herrelandsholdene fra Danmark og Norge mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>01/11/2026</Date>
+    <StartTime>10:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -1120,7 +1159,7 @@
   </Event>
   <Event>
     <Date>01/11/2026</Date>
-    <StartTime>11:25</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -1133,7 +1172,7 @@
   </Event>
   <Event>
     <Date>01/11/2026</Date>
-    <StartTime>14:00</StartTime>
+    <StartTime>14:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>Bordtennisligaen for herrer</Title>
     <EpisodeTitle>Roskilde BTK 61-Næstved Bordtennis</EpisodeTitle>
@@ -1146,16 +1185,16 @@
   </Event>
   <Event>
     <Date>01/11/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Anders Lind-Felix Lebrun</EpisodeTitle>
+    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14740-07d3a83c-0502-46a8-aca0-0d7749d49cad.jpg?temp_url_sig=57e5cc4ea4c7d9c121ccc48e4ca859b7aafbbd99&amp;temp_url_expires=4947140802</StillSceneUrl>
     <ShortDescription>Første runde af WTT Champions fra Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder den franske verdenstoer Felix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
+    <LongDescription>Danske Anders Lind møder den franske verdenstoer Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>01/11/2026</Date>
