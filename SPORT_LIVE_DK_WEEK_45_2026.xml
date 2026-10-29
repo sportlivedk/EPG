@@ -11,7 +11,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Damernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>02/11/2026</Date>
@@ -24,7 +24,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Herrernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>02/11/2026</Date>
@@ -148,7 +148,7 @@
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
+    <EpisodeTitle>Programserie om unge danske OL-håb</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
@@ -297,7 +297,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Damernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>04/11/2026</Date>
@@ -310,7 +310,7 @@
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Herrernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Mads Knudsen.</LongDescription>
+    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>04/11/2026</Date>
@@ -421,7 +421,7 @@
     <StartTime>19:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
-    <EpisodeTitle>Optakt til Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
+    <EpisodeTitle>Optakt til aftenens kamp</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo/>
     <Status>Live</Status>
@@ -694,7 +694,7 @@
     <StartTime>14:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
+    <EpisodeTitle>Programserie om unge danske OL-håb</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
@@ -1110,7 +1110,7 @@
     <StartTime>01:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om danske OL-håb</EpisodeTitle>
+    <EpisodeTitle>Programserie om unge danske OL-håb</EpisodeTitle>
     <Season/>
     <EpisodeNo>2</EpisodeNo>
     <Status>Repeat</Status>
