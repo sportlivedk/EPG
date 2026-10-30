@@ -938,7 +938,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>08:55</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>09:50</StartTime>
+    <StartTime>09:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -977,7 +977,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>10:30</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
     <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
@@ -990,7 +990,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>11:00</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (k)</EpisodeTitle>
@@ -1003,7 +1003,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>3x3 basketball</PrimaryGenre>
     <Title>3x3 Nordic Cup</Title>
     <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
@@ -1016,7 +1016,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>12:00</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BMS Herlev-Værløse Blue Hawks</EpisodeTitle>
@@ -1029,20 +1029,72 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>14:25</StartTime>
-    <PrimaryGenre>Volleyball</PrimaryGenre>
-    <Title>EM for herrer</Title>
-    <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
+    <StartTime>14:10</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
-    <ShortDescription>Finale ved EM-slutrunden fra Milano i Italien.</ShortDescription>
-    <LongDescription>EM-slutrunden i volleyball for herrer kulminerer med den store finale, som står mellem Frankrig og Polen. Kampen spilles i Unipol Forum di Assago i Milano og kommenteres af Peter Jørgensen og Mads Ditlevsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-8aaf6894-0686-4f76-a7cb-a5f7bdba8792.jpg?temp_url_sig=376b5a73b1b511ab27452549d73a32706d30d204&amp;temp_url_expires=4948523550</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Damernes K1 U23-løb med bl.a. danske Sophie Blomgren-Hansen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>16:55</StartTime>
+    <StartTime>14:40</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Herrernes K1 U23-løb med bl.a. danske Valdemar Jørgensen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>31/10/2026</Date>
+    <StartTime>15:15</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-8aaf6894-0686-4f76-a7cb-a5f7bdba8792.jpg?temp_url_sig=376b5a73b1b511ab27452549d73a32706d30d204&amp;temp_url_expires=4948523550</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Damernes K1-løb med bl.a. danske Pernille Hostrup ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>31/10/2026</Date>
+    <StartTime>15:45</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Herrernes K1-løb med bl.a. danske Philip Knudsen og forsvarende verdensmester Mads Brandt Pedersen ved VM i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>31/10/2026</Date>
+    <StartTime>16:25</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Herrernes K2-løb med bl.a. danske Mads Brandt Pedersen, Philip Knudsen, Valdemar Jørgensen og Jonathan Dagnæs ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>31/10/2026</Date>
+    <StartTime>17:05</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -1055,7 +1107,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Swedish Rental Kart Championship</Title>
     <EpisodeTitle>Sæsonfinale 2026</EpisodeTitle>
@@ -1068,7 +1120,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>21:00</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>2. afdeling, Aarhus</EpisodeTitle>
@@ -1081,7 +1133,7 @@
   </Event>
   <Event>
     <Date>31/10/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Herlev Fight Night</Title>
     <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
@@ -1094,7 +1146,7 @@
   </Event>
   <Event>
     <Date>01/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1238,32 +1290,71 @@
   <Event>
     <Date>01/11/2026</Date>
     <StartTime>21:55</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Finland (m)</EpisodeTitle>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Herrelandsholdene fra Danmark og Finland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-8aaf6894-0686-4f76-a7cb-a5f7bdba8792.jpg?temp_url_sig=376b5a73b1b511ab27452549d73a32706d30d204&amp;temp_url_expires=4948523550</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Damernes K1 U23-løb med bl.a. danske Sophie Blomgren-Hansen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>01/11/2026</Date>
     <StartTime>22:25</StartTime>
-    <PrimaryGenre>3x3 basketball</PrimaryGenre>
-    <Title>3x3 Nordic Cup</Title>
-    <EpisodeTitle>Danmark-Estland (k)</EpisodeTitle>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14188-ba84464c-ec48-46af-86f0-0d95e1b78984.jpg?temp_url_sig=589cbce7d0f389dec8b32afc2301434a754d5bd4&amp;temp_url_expires=4939457305</StillSceneUrl>
-    <ShortDescription>Gruppekamp ved 3x3-turneringen Nordic Cup i Brøndby.</ShortDescription>
-    <LongDescription>Kvindelandsholdene fra Danmark og Estland mødes i gruppespillet ved basketturneringen 3x3 Nordic Cup, som afvikles ved Idrættens Hus i Brøndby. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Herrernes K1 U23-løb med bl.a. danske Valdemar Jørgensen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>01/11/2026</Date>
     <StartTime>23:00</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-8aaf6894-0686-4f76-a7cb-a5f7bdba8792.jpg?temp_url_sig=376b5a73b1b511ab27452549d73a32706d30d204&amp;temp_url_expires=4948523550</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Damernes K1-løb med bl.a. danske Pernille Hostrup ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>01/11/2026</Date>
+    <StartTime>23:30</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Herrernes K1-løb med bl.a. danske Philip Knudsen og forsvarende verdensmester Mads Brandt Pedersen ved VM i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>00:10</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Herrernes K2-løb med bl.a. danske Mads Brandt Pedersen, Philip Knudsen, Valdemar Jørgensen og Jonathan Dagnæs ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>02/11/2026</Date>
+    <StartTime>00:50</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -1275,8 +1366,8 @@
     <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>01/11/2026</Date>
-    <StartTime>23:45</StartTime>
+    <Date>02/11/2026</Date>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -1286,19 +1377,6 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
     <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
     <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>02/11/2026</Date>
-    <StartTime>00:20</StartTime>
-    <PrimaryGenre>Futsal</PrimaryGenre>
-    <Title>VM-kvalifikation</Title>
-    <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13153-78116012-5d20-4abc-b4c5-e98bef03bbe3.jpg?temp_url_sig=fb44f69c6e4fa394334ba49d4ab0684a1ea1087b&amp;temp_url_expires=4929688691</StillSceneUrl>
-    <ShortDescription>Anden kvalifikationsrunde til futsal-VM i 2028.</ShortDescription>
-    <LongDescription>Danmark møder på udebane Portugal i anden kvalifikationsrunde til futsal-VM i 2028. Kampen spilles i Pavilhão Multiusos Odivelas nord for Lissabon og kommenteres af Mads Knudsen og Tim Wiese.</LongDescription>
   </Event>
   <Event>
     <Date>02/11/2026</Date>
