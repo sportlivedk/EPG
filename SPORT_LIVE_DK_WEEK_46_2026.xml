@@ -2,33 +2,7 @@
 <EPG>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Frankfurt</Title>
-    <EpisodeTitle>Finale (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
-    <ShortDescription>Damernes finale ved WTT Champions i Frankfurt.</ShortDescription>
-    <LongDescription>Damernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>09/11/2026</Date>
-    <StartTime>08:05</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Frankfurt</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved WTT Champions i Frankfurt.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>09/11/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -41,7 +15,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>11:50</StartTime>
+    <StartTime>09:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -54,7 +28,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -67,7 +41,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>15:55</StartTime>
+    <StartTime>13:55</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -80,7 +54,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>16:00</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -90,6 +64,32 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14333-0bbc0a90-2f29-4329-9db3-7b1c14a79c18.jpg?temp_url_sig=049cf8c03f745b567c07671fb4a781ae8c744ba9&amp;temp_url_expires=4942735122</StillSceneUrl>
     <ShortDescription>Finale ved EM-slutrunden fra Milano i Italien.</ShortDescription>
     <LongDescription>EM-slutrunden i volleyball for herrer kulminerer med den store finale, som står mellem Frankrig og Polen. Kampen spilles i Unipol Forum di Assago i Milano og kommenteres af Peter Jørgensen og Mads Ditlevsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/11/2026</Date>
+    <StartTime>18:30</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-ca109f6c-a916-4156-8773-23d7c6fc8080.jpg?temp_url_sig=f3edf60c125eb6db1c674d54a8c1765f8d8253c9&amp;temp_url_expires=4947841071</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>09/11/2026</Date>
+    <StartTime>19:20</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
+    <ShortDescription>Herrernes finale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Herrernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>09/11/2026</Date>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>10:45</StartTime>
+    <StartTime>10:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>20:05</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -379,7 +379,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>09:40</StartTime>
+    <StartTime>09:45</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>10:20</StartTime>
+    <StartTime>10:25</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -431,7 +431,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -471,32 +471,19 @@
   <Event>
     <Date>11/11/2026</Date>
     <StartTime>20:25</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>DM i kajaksprint</Title>
-    <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Årets sportspræstation på SPORT LIVE</Title>
+    <EpisodeTitle>De største danske sportspræstationer i 2026</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14324-d6f09409-6c76-4561-9c70-653da5cd7025.jpg?temp_url_sig=24f4689d1f700933d96f91a31e6fac20cf784770&amp;temp_url_expires=4944218074</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskaberne i kajaksprint på Silkeborg Langsø.</ShortDescription>
-    <LongDescription>Danmarksmesterskaberne i kajaksprint afvikles i år på Silkeborg Langsø, hvor roere fra klubber over hele landet - heriblandt hjemmebane-favoritten Thorbjørn Rask - er samlet for at dyste om medaljer. Kommentatorer: Mads Knudsen og Christian Grau.</LongDescription>
+    <Status>Premiere</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14831-f6455ec6-0998-4538-a9d5-56498ab60dec.jpg?temp_url_sig=95d3bd63ec10c89bd0caaf3f44150e33131973b8&amp;temp_url_expires=4948957487</StillSceneUrl>
+    <ShortDescription>Hvem leverede den største præstation på SPORT LIVE i det forgangne år?</ShortDescription>
+    <LongDescription>I denne årskavalkade giver vi vores bud på de 10 mest betydningsfulde danske sportspræstationer på SPORT LIVE i 2026 inden for bl.a. basketball, fodbold, futsal, boksning og bordtennis - og nu er det så op til seerne at afgøre, hvilken der skal kåres som årets absolut største præstation. Vært: Jonas Kvist Jepsen.</LongDescription>
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>22:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om unge danske OL-håb</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>11/11/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>21:25</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -509,7 +496,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>23:45</StartTime>
+    <StartTime>21:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -521,8 +508,8 @@
     <LongDescription>Damernes K1 U23-løb med bl.a. danske Sophie Blomgren-Hansen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>00:15</StartTime>
+    <Date>11/11/2026</Date>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -534,8 +521,8 @@
     <LongDescription>Herrernes K1 U23-løb med bl.a. danske Valdemar Jørgensen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>00:55</StartTime>
+    <Date>11/11/2026</Date>
+    <StartTime>23:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -547,8 +534,8 @@
     <LongDescription>Damernes K1-løb med bl.a. danske Pernille Hostrup ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>01:25</StartTime>
+    <Date>11/11/2026</Date>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -561,7 +548,33 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>00:15</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-ca109f6c-a916-4156-8773-23d7c6fc8080.jpg?temp_url_sig=f3edf60c125eb6db1c674d54a8c1765f8d8253c9&amp;temp_url_expires=4947841071</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/11/2026</Date>
+    <StartTime>01:05</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
+    <ShortDescription>Herrernes finale ved WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Herrernes finalekamp ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/11/2026</Date>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -574,20 +587,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>06:55</StartTime>
-    <PrimaryGenre>Beachvolley</PrimaryGenre>
-    <Title>Danish Beachvolley Tour</Title>
-    <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14253-dee6210b-4cc9-4f49-beca-efb3fd3257d4.jpg?temp_url_sig=18c2b336a0b0d57aa6c6c93dc9fda4be97d8c88c&amp;temp_url_expires=4941090681</StillSceneUrl>
-    <ShortDescription>Reportage fra finalerne på Kongens Nytorv i København.</ShortDescription>
-    <LongDescription>Reportage fra Kongens Nytorv i København, hvor sæsonens bedste kvinde- og herrehold kæmpede om titlen som årets Tour-mestre på Danish Beachvolley Tour søndag d. 9. august. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>07:40</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -600,20 +600,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>09:45</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajakmaraton</Title>
-    <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-8aaf6894-0686-4f76-a7cb-a5f7bdba8792.jpg?temp_url_sig=376b5a73b1b511ab27452549d73a32706d30d204&amp;temp_url_expires=4948523550</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
-    <LongDescription>Damernes K1 U23-løb med bl.a. danske Sophie Blomgren-Hansen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>12/11/2026</Date>
-    <StartTime>10:15</StartTime>
+    <StartTime>09:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -626,7 +613,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>10:50</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -639,7 +626,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>11:20</StartTime>
+    <StartTime>10:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -652,7 +639,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>12:00</StartTime>
+    <StartTime>11:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -662,6 +649,19 @@
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
     <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
     <LongDescription>Herrernes K2-løb med bl.a. danske Mads Brandt Pedersen, Philip Knudsen, Valdemar Jørgensen og Jonathan Dagnæs ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>12/11/2026</Date>
+    <StartTime>11:40</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Årets sportspræstation på SPORT LIVE</Title>
+    <EpisodeTitle>De største danske sportspræstationer i 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14831-f6455ec6-0998-4538-a9d5-56498ab60dec.jpg?temp_url_sig=95d3bd63ec10c89bd0caaf3f44150e33131973b8&amp;temp_url_expires=4948957487</StillSceneUrl>
+    <ShortDescription>Hvem leverede den største præstation på SPORT LIVE i det forgangne år?</ShortDescription>
+    <LongDescription>I denne årskavalkade giver vi vores bud på de 10 mest betydningsfulde danske sportspræstationer på SPORT LIVE i 2026 inden for bl.a. basketball, fodbold, futsal, boksning og bordtennis - og nu er det så op til seerne at afgøre, hvilken der skal kåres som årets absolut største præstation. Vært: Jonas Kvist Jepsen.</LongDescription>
   </Event>
   <Event>
     <Date>12/11/2026</Date>
@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>12:25</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>15:50</StartTime>
+    <StartTime>15:45</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>18:00</StartTime>
+    <StartTime>17:55</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>19:25</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -873,7 +873,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Portugal</EpisodeTitle>
@@ -886,7 +886,20 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:30</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Årets sportspræstation på SPORT LIVE</Title>
+    <EpisodeTitle>De største danske sportspræstationer i 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14831-f6455ec6-0998-4538-a9d5-56498ab60dec.jpg?temp_url_sig=95d3bd63ec10c89bd0caaf3f44150e33131973b8&amp;temp_url_expires=4948957487</StillSceneUrl>
+    <ShortDescription>Hvem leverede den største præstation på SPORT LIVE i det forgangne år?</ShortDescription>
+    <LongDescription>I denne årskavalkade giver vi vores bud på de 10 mest betydningsfulde danske sportspræstationer på SPORT LIVE i 2026 inden for bl.a. basketball, fodbold, futsal, boksning og bordtennis - og nu er det så op til seerne at afgøre, hvilken der skal kåres som årets absolut største præstation. Vært: Jonas Kvist Jepsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>13/11/2026</Date>
+    <StartTime>23:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -898,8 +911,8 @@
     <LongDescription>Herrernes K1-løb med bl.a. danske Philip Knudsen og forsvarende verdensmester Mads Brandt Pedersen ved VM i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>13/11/2026</Date>
-    <StartTime>23:15</StartTime>
+    <Date>14/11/2026</Date>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -911,21 +924,8 @@
     <LongDescription>Herrernes K2-løb med bl.a. danske Mads Brandt Pedersen, Philip Knudsen, Valdemar Jørgensen og Jonathan Dagnæs ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>13/11/2026</Date>
-    <StartTime>23:55</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>Fodboldspillernes DM</Title>
-    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
     <Date>14/11/2026</Date>
-    <StartTime>00:30</StartTime>
+    <StartTime>00:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -938,7 +938,7 @@
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1031,6 +1031,19 @@
     <Date>15/11/2026</Date>
     <StartTime>00:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
+    <Title>Årets sportspræstation på SPORT LIVE</Title>
+    <EpisodeTitle>De største danske sportspræstationer i 2026</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14831-f6455ec6-0998-4538-a9d5-56498ab60dec.jpg?temp_url_sig=95d3bd63ec10c89bd0caaf3f44150e33131973b8&amp;temp_url_expires=4948957487</StillSceneUrl>
+    <ShortDescription>Hvem leverede den største præstation på SPORT LIVE i det forgangne år?</ShortDescription>
+    <LongDescription>I denne årskavalkade giver vi vores bud på de 10 mest betydningsfulde danske sportspræstationer på SPORT LIVE i 2026 inden for bl.a. basketball, fodbold, futsal, boksning og bordtennis - og nu er det så op til seerne at afgøre, hvilken der skal kåres som årets absolut største præstation. Vært: Jonas Kvist Jepsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>15/11/2026</Date>
+    <StartTime>01:00</StartTime>
+    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
     <Season>2026</Season>
@@ -1042,20 +1055,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>00:40</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
-    <Season>2026-27</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
-    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
-    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>15/11/2026</Date>
-    <StartTime>01:45</StartTime>
+    <StartTime>01:40</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -1068,7 +1068,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1081,7 +1081,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>07:00</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -1094,7 +1094,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>07:30</StartTime>
+    <StartTime>07:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -1107,7 +1107,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>08:10</StartTime>
+    <StartTime>08:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -1120,7 +1120,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>08:40</StartTime>
+    <StartTime>08:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -1133,7 +1133,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>09:20</StartTime>
+    <StartTime>09:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -1146,7 +1146,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>10:10</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1159,7 +1159,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>11:00</StartTime>
+    <StartTime>11:15</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1172,7 +1172,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Tyskland</EpisodeTitle>
@@ -1185,20 +1185,20 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>15:30</StartTime>
+    <StartTime>15:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>Basketcheferne</Title>
-    <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
-    <Season>2026-27</Season>
+    <Title>Årets sportspræstation på SPORT LIVE</Title>
+    <EpisodeTitle>De største danske sportspræstationer i 2026</EpisodeTitle>
+    <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14372-1979a2f3-8330-437a-bf4f-d57b1056fba7.jpg?temp_url_sig=7e9e7e929bcde136b4c71af33b0caa4224e9bde1&amp;temp_url_expires=4943615677</StillSceneUrl>
-    <ShortDescription>De mest indflydelsesrige basketchefer debatterer aktuelle emner.</ShortDescription>
-    <LongDescription>Fire af Danmarks mest indflydelsesrige basketchefer - Troels Mortensen fra Svendborg Rabbits, Andreas Larsen fra Team FOG Næstved, Michael Piloz fra Bakken Bears og Danmarks Basketball-Forbunds direktør Jesper Sørensen - mødes til debat om de største og mest aktuelle emner i dansk basketball. Vært: Jonas Kvist Jepsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14831-f6455ec6-0998-4538-a9d5-56498ab60dec.jpg?temp_url_sig=95d3bd63ec10c89bd0caaf3f44150e33131973b8&amp;temp_url_expires=4948957487</StillSceneUrl>
+    <ShortDescription>Hvem leverede den største præstation på SPORT LIVE i det forgangne år?</ShortDescription>
+    <LongDescription>I denne årskavalkade giver vi vores bud på de 10 mest betydningsfulde danske sportspræstationer på SPORT LIVE i 2026 inden for bl.a. basketball, fodbold, futsal, boksning og bordtennis - og nu er det så op til seerne at afgøre, hvilken der skal kåres som årets absolut største præstation. Vært: Jonas Kvist Jepsen.</LongDescription>
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>16:35</StartTime>
+    <StartTime>16:40</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1211,7 +1211,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>18:10</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1224,7 +1224,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>18:50</StartTime>
+    <StartTime>19:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Danish Fight Night</Title>
     <EpisodeTitle>Professionelt boksestævne</EpisodeTitle>
@@ -1237,7 +1237,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>23:05</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -1249,8 +1249,8 @@
     <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>15/11/2026</Date>
-    <StartTime>23:50</StartTime>
+    <Date>16/11/2026</Date>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -1263,7 +1263,7 @@
   </Event>
   <Event>
     <Date>16/11/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>

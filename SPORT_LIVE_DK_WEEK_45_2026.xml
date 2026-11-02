@@ -5,30 +5,30 @@
     <StartTime>07:00</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Finale (k)</EpisodeTitle>
+    <EpisodeTitle>Kuai Man-Sun Yingsha</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Damernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Damernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
+    <LongDescription>Damernes finalekamp mellem de to kinesere Kuai Man og Sun Yingsha ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>02/11/2026</Date>
     <StartTime>08:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
+    <EpisodeTitle>Patrick Franziska-Jang Woo-jin</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
     <StillSceneUrl/>
     <ShortDescription>Herrernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
+    <LongDescription>Herrernes finalekamp mellem tyske Patrick Franziska og sydkoreanske Jang Woo-jin ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
   </Event>
   <Event>
     <Date>02/11/2026</Date>
-    <StartTime>09:10</StartTime>
+    <StartTime>09:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>02/11/2026</Date>
-    <StartTime>11:10</StartTime>
+    <StartTime>11:30</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>02/11/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>14:00</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>02/11/2026</Date>
-    <StartTime>14:25</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Tennis</PrimaryGenre>
     <Title>Elitedivisionen</Title>
     <EpisodeTitle>KB Tennis-Gentofte (m)</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>02/11/2026</Date>
-    <StartTime>18:05</StartTime>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>02/11/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>18:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>02/11/2026</Date>
-    <StartTime>19:10</StartTime>
+    <StartTime>19:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BMS Herlev-Værløse Blue Hawks</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>02/11/2026</Date>
-    <StartTime>21:35</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, indledende runde</EpisodeTitle>
@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -145,20 +145,7 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>SPORT LIVE vil til OL</Title>
-    <EpisodeTitle>Programserie om unge danske OL-håb</EpisodeTitle>
-    <Season/>
-    <EpisodeNo>2</EpisodeNo>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-12722-a3b0e398-da4a-421d-80c4-7b578c8ad863.jpg?temp_url_sig=1e4b37aab343d91e6d049a24a488a706f307cc2b&amp;temp_url_expires=4939349196</StillSceneUrl>
-    <ShortDescription>Følg med på en række danske atleters vej mod OL i Los Angeles.</ShortDescription>
-    <LongDescription>Frem mod OL i 2028 følger SPORT LIVE en række unge danske atleter, som drømmer om at komme med til sommerlegene i Los Angeles. Vi møder igen bokseren Lucas Esonga Ashira, svømmeren Schastine Tabor og kajakroeren Thorbjørn Rask, som alle tre kæmper videre for at blive en del af Danmarks OL-hold i USA.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/11/2026</Date>
-    <StartTime>07:45</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -171,7 +158,7 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>09:50</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>Füchse Berlin-Al Ahly (m)</EpisodeTitle>
@@ -184,7 +171,7 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>11:20</StartTime>
+    <StartTime>10:55</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -197,7 +184,46 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>13:00</StartTime>
+    <StartTime>12:35</StartTime>
+    <PrimaryGenre>Padel</PrimaryGenre>
+    <Title>Fodboldspillernes DM</Title>
+    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
+    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
+    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>13:10</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Montpellier</Title>
+    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14740-07d3a83c-0502-46a8-aca0-0d7749d49cad.jpg?temp_url_sig=57e5cc4ea4c7d9c121ccc48e4ca859b7aafbbd99&amp;temp_url_expires=4947140802</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions fra Montpellier i Frankrig.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den franske verdenstoer Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>13:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Live</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-ca109f6c-a916-4156-8773-23d7c6fc8080.jpg?temp_url_sig=f3edf60c125eb6db1c674d54a8c1765f8d8253c9&amp;temp_url_expires=4947841071</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>03/11/2026</Date>
+    <StartTime>14:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -210,7 +236,7 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>16:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BMS Herlev-Værløse Blue Hawks</EpisodeTitle>
@@ -223,7 +249,7 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>17:15</StartTime>
+    <StartTime>18:25</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -236,7 +262,7 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -249,20 +275,7 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>20:10</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>Fodboldspillernes DM</Title>
-    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>03/11/2026</Date>
-    <StartTime>20:45</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -275,7 +288,33 @@
   </Event>
   <Event>
     <Date>03/11/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>23:55</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-8aaf6894-0686-4f76-a7cb-a5f7bdba8792.jpg?temp_url_sig=376b5a73b1b511ab27452549d73a32706d30d204&amp;temp_url_expires=4948523550</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Damernes K1 U23-løb med bl.a. danske Sophie Blomgren-Hansen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>00:25</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Herrernes K1 U23-løb med bl.a. danske Valdemar Jørgensen ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>04/11/2026</Date>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -287,8 +326,8 @@
     <LongDescription>Damernes K1-løb med bl.a. danske Pernille Hostrup ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
-    <Date>03/11/2026</Date>
-    <StartTime>23:50</StartTime>
+    <Date>04/11/2026</Date>
+    <StartTime>01:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -301,33 +340,7 @@
   </Event>
   <Event>
     <Date>04/11/2026</Date>
-    <StartTime>00:30</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Anders Lind-Félix Lebrun</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14740-07d3a83c-0502-46a8-aca0-0d7749d49cad.jpg?temp_url_sig=57e5cc4ea4c7d9c121ccc48e4ca859b7aafbbd99&amp;temp_url_expires=4947140802</StillSceneUrl>
-    <ShortDescription>Første runde af WTT Champions fra Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Danske Anders Lind møder den franske verdenstoer Félix Lebrun i den prestigefyldte bordtennisturnering WTT Champions i Sud de France Arena i sydfranske Montpellier. Kommentator: Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/11/2026</Date>
-    <StartTime>01:00</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Montpellier</Title>
-    <EpisodeTitle>Finale (m)</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl/>
-    <ShortDescription>Herrernes finale ved WTT Champions Montpellier i Frankrig.</ShortDescription>
-    <LongDescription>Herrernes finalekamp ved den prestigefyldte bordtennisturnering WTT Champions i sydfranske Montpellier. Kampen spilles i Sud de France Arena og kommenteres af Martin Kring.</LongDescription>
-  </Event>
-  <Event>
-    <Date>04/11/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -340,7 +353,7 @@
   </Event>
   <Event>
     <Date>04/11/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>BMS Herlev-Værløse Blue Hawks</EpisodeTitle>
@@ -353,7 +366,7 @@
   </Event>
   <Event>
     <Date>04/11/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -366,7 +379,7 @@
   </Event>
   <Event>
     <Date>04/11/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>10:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -379,20 +392,20 @@
   </Event>
   <Event>
     <Date>04/11/2026</Date>
-    <StartTime>10:50</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>Fodboldspillernes DM</Title>
-    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <StartTime>10:40</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-ca109f6c-a916-4156-8773-23d7c6fc8080.jpg?temp_url_sig=f3edf60c125eb6db1c674d54a8c1765f8d8253c9&amp;temp_url_expires=4947841071</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>04/11/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
@@ -405,7 +418,7 @@
   </Event>
   <Event>
     <Date>04/11/2026</Date>
-    <StartTime>16:45</StartTime>
+    <StartTime>16:50</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -587,7 +600,7 @@
   </Event>
   <Event>
     <Date>05/11/2026</Date>
-    <StartTime>16:10</StartTime>
+    <StartTime>16:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
@@ -613,20 +626,20 @@
   </Event>
   <Event>
     <Date>05/11/2026</Date>
-    <StartTime>23:00</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>DM i disc golf</Title>
-    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
+    <StartTime>22:55</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
-    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
-    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-ca109f6c-a916-4156-8773-23d7c6fc8080.jpg?temp_url_sig=f3edf60c125eb6db1c674d54a8c1765f8d8253c9&amp;temp_url_expires=4947841071</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>05/11/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -639,7 +652,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -666,19 +679,19 @@
   <Event>
     <Date>06/11/2026</Date>
     <StartTime>11:40</StartTime>
-    <PrimaryGenre>Padel</PrimaryGenre>
-    <Title>Fodboldspillernes DM</Title>
-    <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14718-4780f6a2-31f7-49b1-b9c7-2968e5e770fa.jpg?temp_url_sig=9f8268d15eb677899b42cb0288f686c0566e2842&amp;temp_url_expires=4946706245</StillSceneUrl>
-    <ShortDescription>Danmarksmesterskabet i padel for tidligere fodboldspillere.</ShortDescription>
-    <LongDescription>Vejle Padelcenter dannede d. 6. oktober rammen om tredje udgave af Fodboldspillernes DM i Padel, hvor tidligere professionelle spillere, som har lagt støvlerne på hylden, greb padelketsjerne til fordel for Børnecancerfonden. Reporter: Thomas Sønnichsen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-ca109f6c-a916-4156-8773-23d7c6fc8080.jpg?temp_url_sig=f3edf60c125eb6db1c674d54a8c1765f8d8253c9&amp;temp_url_expires=4947841071</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -691,7 +704,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>14:25</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -704,7 +717,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>14:55</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -717,7 +730,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>15:35</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -730,7 +743,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>16:15</StartTime>
+    <StartTime>16:30</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -743,7 +756,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>17:50</StartTime>
+    <StartTime>18:05</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -756,7 +769,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
@@ -769,7 +782,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -782,7 +795,7 @@
   </Event>
   <Event>
     <Date>06/11/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>23:35</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -795,7 +808,7 @@
   </Event>
   <Event>
     <Date>07/11/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -808,7 +821,7 @@
   </Event>
   <Event>
     <Date>07/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -887,19 +900,19 @@
   <Event>
     <Date>07/11/2026</Date>
     <StartTime>20:50</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajakmaraton</Title>
-    <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
-    <LongDescription>Herrernes K2-løb med bl.a. danske Mads Brandt Pedersen, Philip Knudsen, Valdemar Jørgensen og Jonathan Dagnæs ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-ca109f6c-a916-4156-8773-23d7c6fc8080.jpg?temp_url_sig=f3edf60c125eb6db1c674d54a8c1765f8d8253c9&amp;temp_url_expires=4947841071</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>07/11/2026</Date>
-    <StartTime>21:30</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Herlev Fight Night</Title>
     <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
@@ -912,7 +925,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:05</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -925,7 +938,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>07:25</StartTime>
+    <StartTime>07:10</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -938,7 +951,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>09:05</StartTime>
+    <StartTime>08:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -951,7 +964,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>09:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
@@ -964,20 +977,20 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>12:30</StartTime>
-    <PrimaryGenre>Sportsmagasin</PrimaryGenre>
-    <Title>DM i disc golf</Title>
-    <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
+    <StartTime>12:15</StartTime>
+    <PrimaryGenre>Bordtennis</PrimaryGenre>
+    <Title>WTT Champions Frankfurt</Title>
+    <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14622-995479ae-0e65-4890-97d9-028198aedc26.jpg?temp_url_sig=614072b6f147bf9df602e353b0f06a11e000a77f&amp;temp_url_expires=4945418567</StillSceneUrl>
-    <ShortDescription>Reportage fra årets individuelle DM i disc golf for PRO-spillere.</ShortDescription>
-    <LongDescription>Vi var med, da årets individuelle DM i disc golf for PRO-spillere blev afviklet i Valbyparken den sidste weekend i september med nogle af Danmarks absolut bedste disc-kastere. Stævnet er sanktioneret som en A-event - det næsthøjeste niveau under det internationale forbund PDGA. Reporter: Jørn Husum.</LongDescription>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-ca109f6c-a916-4156-8773-23d7c6fc8080.jpg?temp_url_sig=f3edf60c125eb6db1c674d54a8c1765f8d8253c9&amp;temp_url_expires=4947841071</StillSceneUrl>
+    <ShortDescription>Første runde af WTT Champions i Frankfurt.</ShortDescription>
+    <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>13:10</StartTime>
+    <StartTime>13:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -990,7 +1003,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -1003,7 +1016,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>14:15</StartTime>
+    <StartTime>14:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -1016,7 +1029,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>14:45</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -1081,7 +1094,7 @@
   </Event>
   <Event>
     <Date>08/11/2026</Date>
-    <StartTime>21:40</StartTime>
+    <StartTime>21:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
