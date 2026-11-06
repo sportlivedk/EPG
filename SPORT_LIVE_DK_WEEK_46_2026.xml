@@ -28,7 +28,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>11:30</StartTime>
+    <StartTime>11:35</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -41,7 +41,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>13:40</StartTime>
+    <StartTime>13:45</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Italien-Danmark</EpisodeTitle>
@@ -54,7 +54,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Volleyball</PrimaryGenre>
     <Title>EM for herrer</Title>
     <EpisodeTitle>Frankrig-Polen</EpisodeTitle>
@@ -67,7 +67,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>18:15</StartTime>
+    <StartTime>18:20</StartTime>
     <PrimaryGenre>Beachvolley</PrimaryGenre>
     <Title>Danish Beachvolley Tour</Title>
     <EpisodeTitle>Reportage fra sæsonfinalerne</EpisodeTitle>
@@ -80,7 +80,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>18:55</StartTime>
+    <StartTime>19:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -93,7 +93,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>19:35</StartTime>
+    <StartTime>19:40</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Finale (m)</EpisodeTitle>
@@ -106,7 +106,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>20:35</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -119,7 +119,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>21:10</StartTime>
+    <StartTime>21:20</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -132,7 +132,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>21:45</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -145,7 +145,7 @@
   </Event>
   <Event>
     <Date>09/11/2026</Date>
-    <StartTime>22:45</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
@@ -158,7 +158,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>01:00</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -171,7 +171,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>01:30</StartTime>
+    <StartTime>01:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>10:40</StartTime>
+    <StartTime>10:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Gladsaxe BK-Holbæk-Stenhus</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>12:55</StartTime>
+    <StartTime>13:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -236,7 +236,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -249,7 +249,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>14:30</StartTime>
+    <StartTime>14:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -262,7 +262,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>15:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -275,7 +275,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>15:40</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Triatlon</PrimaryGenre>
     <Title>DATEV Challenge Roth</Title>
     <EpisodeTitle>2. etape, cykling</EpisodeTitle>
@@ -288,7 +288,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>20:10</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>20:30</StartTime>
+    <StartTime>20:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -314,7 +314,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>21:10</StartTime>
+    <StartTime>21:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -327,7 +327,7 @@
   </Event>
   <Event>
     <Date>10/11/2026</Date>
-    <StartTime>23:20</StartTime>
+    <StartTime>23:40</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>01:00</StartTime>
+    <StartTime>01:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -366,7 +366,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -379,7 +379,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>07:15</StartTime>
+    <StartTime>07:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>UEFA Women's Champions League</Title>
     <EpisodeTitle>HB Køge-PSV Eindhoven</EpisodeTitle>
@@ -392,7 +392,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>09:45</StartTime>
+    <StartTime>09:40</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -405,7 +405,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>10:25</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -418,7 +418,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>12:30</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -431,7 +431,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>13:10</StartTime>
+    <StartTime>13:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -444,7 +444,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>14:50</StartTime>
+    <StartTime>14:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -496,7 +496,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>21:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -509,7 +509,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -522,7 +522,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>22:05</StartTime>
+    <StartTime>22:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -535,7 +535,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>22:35</StartTime>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -548,7 +548,7 @@
   </Event>
   <Event>
     <Date>11/11/2026</Date>
-    <StartTime>23:15</StartTime>
+    <StartTime>23:25</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Anders Lind-Wang Chuqin</EpisodeTitle>
@@ -560,8 +560,8 @@
     <LongDescription>Danske Anders Lind møder den tidligere verdensetter Wang Chuqin fra Kina i første runde af den internationale bordtennisturnering WTT Champions i Süwag Energie Arena i Frankfurt. Kommentator: Mads Knudsen.</LongDescription>
   </Event>
   <Event>
-    <Date>11/11/2026</Date>
-    <StartTime>23:55</StartTime>
+    <Date>12/11/2026</Date>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Finale (k)</EpisodeTitle>
@@ -574,7 +574,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>01:00</StartTime>
+    <StartTime>01:10</StartTime>
     <PrimaryGenre>Bordtennis</PrimaryGenre>
     <Title>WTT Champions Frankfurt</Title>
     <EpisodeTitle>Finale (m)</EpisodeTitle>
@@ -587,7 +587,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -600,7 +600,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Roning</PrimaryGenre>
     <Title>VM i roning</Title>
     <EpisodeTitle>Finaler</EpisodeTitle>
@@ -613,7 +613,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>09:15</StartTime>
+    <StartTime>09:05</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -626,7 +626,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>09:55</StartTime>
+    <StartTime>09:45</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -639,7 +639,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>10:25</StartTime>
+    <StartTime>10:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -652,7 +652,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>11:05</StartTime>
+    <StartTime>11:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -665,7 +665,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>11:45</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -678,7 +678,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:45</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-LANDAU Lions</EpisodeTitle>
@@ -691,7 +691,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>15:25</StartTime>
+    <StartTime>15:20</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Portugal</EpisodeTitle>
@@ -756,7 +756,7 @@
   </Event>
   <Event>
     <Date>12/11/2026</Date>
-    <StartTime>21:55</StartTime>
+    <StartTime>22:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Herlev Fight Night</Title>
     <EpisodeTitle>Dansk eliteboksestævne</EpisodeTitle>
@@ -769,7 +769,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:25</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -795,7 +795,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>11:40</StartTime>
+    <StartTime>11:45</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -808,7 +808,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>12:20</StartTime>
+    <StartTime>12:25</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -821,7 +821,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -834,7 +834,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -847,7 +847,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>17:55</StartTime>
+    <StartTime>18:05</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -860,7 +860,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>18:30</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -873,7 +873,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>19:20</StartTime>
+    <StartTime>19:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -886,7 +886,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>20:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Portugal</EpisodeTitle>
@@ -899,7 +899,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>22:25</StartTime>
+    <StartTime>22:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -912,7 +912,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -925,7 +925,7 @@
   </Event>
   <Event>
     <Date>13/11/2026</Date>
-    <StartTime>23:35</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -938,7 +938,7 @@
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -951,7 +951,7 @@
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>00:45</StartTime>
+    <StartTime>01:05</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -964,7 +964,7 @@
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>02:20</StartTime>
+    <StartTime>02:40</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -977,7 +977,7 @@
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>07:20</StartTime>
+    <StartTime>07:15</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
@@ -990,7 +990,7 @@
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>12:40</StartTime>
+    <StartTime>12:35</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Portugal</EpisodeTitle>
@@ -1042,7 +1042,7 @@
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>18:10</StartTime>
+    <StartTime>18:15</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -1081,7 +1081,7 @@
   </Event>
   <Event>
     <Date>14/11/2026</Date>
-    <StartTime>23:50</StartTime>
+    <StartTime>23:55</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1094,7 +1094,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1107,7 +1107,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -1120,7 +1120,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>07:40</StartTime>
+    <StartTime>07:30</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -1133,7 +1133,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>08:20</StartTime>
+    <StartTime>08:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -1146,7 +1146,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>08:50</StartTime>
+    <StartTime>08:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -1159,7 +1159,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>09:30</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -1172,7 +1172,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>10:10</StartTime>
+    <StartTime>10:05</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1185,7 +1185,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>11:10</StartTime>
+    <StartTime>11:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Randers Cimbria-Team FOG Næstved</EpisodeTitle>
@@ -1198,7 +1198,7 @@
   </Event>
   <Event>
     <Date>15/11/2026</Date>
-    <StartTime>13:30</StartTime>
+    <StartTime>13:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Tyskland</EpisodeTitle>
@@ -1275,8 +1275,8 @@
     <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>15/11/2026</Date>
-    <StartTime>23:55</StartTime>
+    <Date>16/11/2026</Date>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -1289,7 +1289,7 @@
   </Event>
   <Event>
     <Date>16/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
