@@ -184,7 +184,7 @@
   </Event>
   <Event>
     <Date>24/11/2026</Date>
-    <StartTime>07:10</StartTime>
+    <StartTime>07:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Værløse Blue Hawks-BC Copenhagen</EpisodeTitle>
@@ -197,7 +197,7 @@
   </Event>
   <Event>
     <Date>24/11/2026</Date>
-    <StartTime>09:35</StartTime>
+    <StartTime>09:25</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Portugal</EpisodeTitle>
@@ -210,7 +210,7 @@
   </Event>
   <Event>
     <Date>24/11/2026</Date>
-    <StartTime>11:45</StartTime>
+    <StartTime>11:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -223,7 +223,7 @@
   </Event>
   <Event>
     <Date>24/11/2026</Date>
-    <StartTime>12:15</StartTime>
+    <StartTime>12:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -301,7 +301,7 @@
   </Event>
   <Event>
     <Date>24/11/2026</Date>
-    <StartTime>16:00</StartTime>
+    <StartTime>15:55</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, indledende runde</EpisodeTitle>
@@ -340,7 +340,7 @@
   </Event>
   <Event>
     <Date>25/11/2026</Date>
-    <StartTime>00:05</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -353,7 +353,7 @@
   </Event>
   <Event>
     <Date>25/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:00</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -652,7 +652,7 @@
   </Event>
   <Event>
     <Date>26/11/2026</Date>
-    <StartTime>13:55</StartTime>
+    <StartTime>14:05</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Tyskland</EpisodeTitle>
@@ -665,7 +665,7 @@
   </Event>
   <Event>
     <Date>26/11/2026</Date>
-    <StartTime>16:05</StartTime>
+    <StartTime>16:15</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>CUPRA FIP Tour</Title>
     <EpisodeTitle>FIP Bronze Copenhagen, finaler</EpisodeTitle>
@@ -678,7 +678,7 @@
   </Event>
   <Event>
     <Date>26/11/2026</Date>
-    <StartTime>21:25</StartTime>
+    <StartTime>21:35</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -691,7 +691,7 @@
   </Event>
   <Event>
     <Date>26/11/2026</Date>
-    <StartTime>22:00</StartTime>
+    <StartTime>22:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -704,7 +704,7 @@
   </Event>
   <Event>
     <Date>26/11/2026</Date>
-    <StartTime>22:55</StartTime>
+    <StartTime>23:00</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -717,7 +717,7 @@
   </Event>
   <Event>
     <Date>26/11/2026</Date>
-    <StartTime>23:40</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-Lions de Genève</EpisodeTitle>
@@ -730,7 +730,7 @@
   </Event>
   <Event>
     <Date>27/11/2026</Date>
-    <StartTime>02:05</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -990,7 +990,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>10:05</StartTime>
+    <StartTime>10:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Tyskland</EpisodeTitle>
@@ -1003,7 +1003,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>12:10</StartTime>
+    <StartTime>12:20</StartTime>
     <PrimaryGenre>Squash</PrimaryGenre>
     <Title>Senior Grand Prix 3</Title>
     <EpisodeTitle>Reportage fra Skinderskovhallen i Herlev</EpisodeTitle>
@@ -1016,7 +1016,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>12:50</StartTime>
+    <StartTime>12:55</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -1029,7 +1029,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>13:25</StartTime>
+    <StartTime>13:35</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1042,7 +1042,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>15:00</StartTime>
+    <StartTime>15:10</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>FIBA Europe Cup</Title>
     <EpisodeTitle>Bakken Bears-Lions de Genève</EpisodeTitle>
@@ -1055,7 +1055,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>17:25</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1068,7 +1068,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>18:25</StartTime>
+    <StartTime>18:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Portugal-Danmark</EpisodeTitle>
@@ -1081,7 +1081,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>20:20</StartTime>
+    <StartTime>20:30</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -1094,7 +1094,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>22:20</StartTime>
+    <StartTime>22:30</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1107,7 +1107,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>23:00</StartTime>
+    <StartTime>23:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -1119,8 +1119,8 @@
     <LongDescription>Oliver Zaren bokser sin karrieres største kamp, når han møder den cubanske IBF- og IBO-verdensmester i supermellemvægt Osleys Iglesias ved stævnet Gala de Boxe record D'EOTTM i Théâtre Capitole i Quebec, Canada. Kommentatorer: Thomas Sønnichsen og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
-    <Date>28/11/2026</Date>
-    <StartTime>23:50</StartTime>
+    <Date>29/11/2026</Date>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Palermo-Mantova</EpisodeTitle>
@@ -1133,7 +1133,7 @@
   </Event>
   <Event>
     <Date>29/11/2026</Date>
-    <StartTime>02:00</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
