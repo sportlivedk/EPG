@@ -915,6 +915,32 @@
     <StartTime>19:15</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-8aaf6894-0686-4f76-a7cb-a5f7bdba8792.jpg?temp_url_sig=376b5a73b1b511ab27452549d73a32706d30d204&amp;temp_url_expires=4948523550</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Damernes K1-løb med bl.a. danske Pernille Hostrup ved verdensmesterskaberne i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/11/2026</Date>
+    <StartTime>19:45</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
+    <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
+    <Season>2026</Season>
+    <EpisodeNo/>
+    <Status>Repeat</Status>
+    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14802-c3afb0bd-0b67-4ed5-8abb-41fb2d9b3b23.jpg?temp_url_sig=82731611a56d0ba6efcc6204b4127d3f488614ef&amp;temp_url_expires=4948523566</StillSceneUrl>
+    <ShortDescription>Verdensmesterskaberne i kajakmaraton fra Argentina.</ShortDescription>
+    <LongDescription>Herrernes K1-løb med bl.a. danske Philip Knudsen og forsvarende verdensmester Mads Brandt Pedersen ved VM i kajakmaraton fra Gualeguaychu i det østlige Argentina. Kommentator: Peter Jørgensen.</LongDescription>
+  </Event>
+  <Event>
+    <Date>27/11/2026</Date>
+    <StartTime>20:30</StartTime>
+    <PrimaryGenre>Kajak</PrimaryGenre>
+    <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
@@ -925,7 +951,7 @@
   </Event>
   <Event>
     <Date>27/11/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>21:10</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Danish Fight Night</Title>
     <EpisodeTitle>Professionelt boksestævne</EpisodeTitle>
@@ -934,11 +960,11 @@
     <Status>Repeat</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14800-ad6f9e24-1b47-491d-a314-b25007121859.jpg?temp_url_sig=8b37c34830cc50dc0a48e8427c85d380591bb676&amp;temp_url_expires=4948429764</StillSceneUrl>
     <ShortDescription>14. udgave af Danish Fight Night fra Sluseholmen i København.</ShortDescription>
-    <LongDescription>14. udgave af Danish Fight Night under overskriften "Tomorrow's Champions" byder på professionel boksning i topklasse med etablerede navne som den ukrainske sværvægter Nikolay Piddubnyy og en række unge talenter, bl.a. Rasmus Mikkelsen, Enock Mbilizi, Hamza Hussein og flere andre. Stævnet afvikles på Scandic Hotel Sluseholmen i København og kommenteres af Tue Trnka.</LongDescription>
+    <LongDescription>14. udgave af Danish Fight Night under overskriften "Tomorrow's Champions" byder på professionel boksning i topklasse med etablerede navne som den ukrainske sværvægter Nikolay Piddubnyy og en række unge talenter, bl.a. Rasmus Mikkelsen, Enock Mbilizi, Hamza Hussein og flere andre. Stævnet afvikles på Scandic Hotel Sluseholmen i København og kommenteres af Tue Trnka og Oliver Møllenberg.</LongDescription>
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>00:10</StartTime>
+    <StartTime>00:15</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Parma-Cremonese</EpisodeTitle>
@@ -951,7 +977,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>02:15</StartTime>
+    <StartTime>02:20</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1029,7 +1055,7 @@
   </Event>
   <Event>
     <Date>28/11/2026</Date>
-    <StartTime>13:35</StartTime>
+    <StartTime>13:30</StartTime>
     <PrimaryGenre>Håndbold</PrimaryGenre>
     <Title>VM for klubhold</Title>
     <EpisodeTitle>FC Barcelona-Veszprém (m)</EpisodeTitle>
@@ -1289,7 +1315,7 @@
   </Event>
   <Event>
     <Date>29/11/2026</Date>
-    <StartTime>16:50</StartTime>
+    <StartTime>16:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
