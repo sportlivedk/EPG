@@ -499,7 +499,7 @@
     <StartTime>13:55</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Indledende heats, 1000 m. enerkajak</EpisodeTitle>
+    <EpisodeTitle>Indledende heats i enerkajak</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -512,7 +512,7 @@
     <StartTime>14:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Semifinaler, 1000 m. enerkajak</EpisodeTitle>
+    <EpisodeTitle>Semifinaler i enerkajak</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -525,7 +525,7 @@
     <StartTime>15:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>B- og C-finaler, 1000 m. enerkajak</EpisodeTitle>
+    <EpisodeTitle>B- og C-finaler i enerkajak</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -538,7 +538,7 @@
     <StartTime>15:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>A-finale, 1000 m. enerkajak</EpisodeTitle>
+    <EpisodeTitle>A-finale i enerkajak</EpisodeTitle>
     <Season>2026</Season>
     <EpisodeNo/>
     <Status>Repeat</Status>
@@ -870,71 +870,6 @@
     <StillSceneUrl/>
     <ShortDescription/>
     <LongDescription/>
-  </Event>
-  <Event>
-    <Date>20/11/2026</Date>
-    <StartTime>07:00</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Frankfurt</Title>
-    <EpisodeTitle>Satsuki Odo-Hina Hayata</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
-    <ShortDescription>Damernes finale ved WTT Champions i Frankfurt.</ShortDescription>
-    <LongDescription>Damernes finalekamp mellem japanerne Satsuki Odo og Hina Hayata ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/11/2026</Date>
-    <StartTime>08:10</StartTime>
-    <PrimaryGenre>Bordtennis</PrimaryGenre>
-    <Title>WTT Champions Frankfurt</Title>
-    <EpisodeTitle>Patrick Franziska-Tomokazu Harimoto</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14791-e1118ef7-9246-47cb-9af9-84b3b17ae13a.jpg?temp_url_sig=6624b8026673349c1c4603e25c3a8245c3e3b255&amp;temp_url_expires=4947841079</StillSceneUrl>
-    <ShortDescription>Herrernes finale ved WTT Champions i Frankfurt.</ShortDescription>
-    <LongDescription>Herrernes finalekamp mellem tyske Patrick Franziska og japanske Tomokazu Harimoto ved den internationale bordtennisturnering WTT Champions i Frankfurt. Kampen spilles i Süwag Energie Arena og kommenteres af Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/11/2026</Date>
-    <StartTime>09:20</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Indledende heats, 500 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/11/2026</Date>
-    <StartTime>10:05</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>Semifinaler, 500 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
-  </Event>
-  <Event>
-    <Date>20/11/2026</Date>
-    <StartTime>10:30</StartTime>
-    <PrimaryGenre>Kajak</PrimaryGenre>
-    <Title>VM i kajaksprint</Title>
-    <EpisodeTitle>C-, B- og A-finaler, 500 m. enerkajak</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14221-5679a242-8aee-449e-a419-f327db81bc98.jpg?temp_url_sig=3390660921e8916ec315c9672d3d38c0e5d01934&amp;temp_url_expires=4940303948</StillSceneUrl>
-    <ShortDescription>Verdensmesterskaberne i kajaksprint fra Poznan i Polen.</ShortDescription>
-    <LongDescription>Poznan i Polen danner rammen om verdensmesterskaberne i kano- og kajaksprint, og vi følger danske Thorbjørn Rasks jagt på VM-medaljer i enerkajakken. Kommentator: Peter Jørgensen.</LongDescription>
   </Event>
   <Event>
     <Date>20/11/2026</Date>
