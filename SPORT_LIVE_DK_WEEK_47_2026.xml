@@ -567,7 +567,7 @@
     <EpisodeTitle>Bakken Bears-Lions de Genève</EpisodeTitle>
     <Season>2026-27</Season>
     <EpisodeNo/>
-    <Status>Live</Status>
+    <Status>Premiere</Status>
     <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-14681-15a8f2bf-3b80-4bdb-9f8f-b05a8a8c8013.jpg?temp_url_sig=c837cd498a90e48f93385a77c8342dc4403fa1b7&amp;temp_url_expires=4946003571</StillSceneUrl>
     <ShortDescription>Gruppekamp i FIBA Europe Cup fra Aarhus.</ShortDescription>
     <LongDescription>I den syvende af ti gruppekampe i FIBA Europe Cup får Bakken Bears besøg af Lions de Genève fra Schweiz. Kampen spilles i Vejlby-Risskov Hallen i Aarhus og kommenteres af Peter Jørgensen og Jens Jensen.</LongDescription>
@@ -990,7 +990,7 @@
   </Event>
   <Event>
     <Date>20/11/2026</Date>
-    <StartTime>22:45</StartTime>
+    <StartTime>22:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Overtime</Title>
     <EpisodeTitle>Studieprogram om Basketligaen</EpisodeTitle>
@@ -1003,7 +1003,7 @@
   </Event>
   <Event>
     <Date>20/11/2026</Date>
-    <StartTime>23:45</StartTime>
+    <StartTime>23:50</StartTime>
     <PrimaryGenre>Padel</PrimaryGenre>
     <Title>Fodboldspillernes DM</Title>
     <EpisodeTitle>Reportage fra Vejle Padelcenter</EpisodeTitle>
@@ -1016,7 +1016,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>00:20</StartTime>
+    <StartTime>00:25</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Parma-Cremonese</EpisodeTitle>
@@ -1029,7 +1029,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>02:25</StartTime>
+    <StartTime>02:30</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1094,7 +1094,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>13:45</StartTime>
+    <StartTime>13:50</StartTime>
     <PrimaryGenre>Futsal</PrimaryGenre>
     <Title>VM-kvalifikation</Title>
     <EpisodeTitle>Rumænien-Danmark</EpisodeTitle>
@@ -1107,7 +1107,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>15:45</StartTime>
+    <StartTime>15:50</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>SPORT LIVE vil til OL</Title>
     <EpisodeTitle>Programserie om unge danske OL-håb</EpisodeTitle>
@@ -1120,7 +1120,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>16:30</StartTime>
+    <StartTime>16:35</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>DM i kajaksprint</Title>
     <EpisodeTitle>200-, 1000- og 2500-meterfinaler</EpisodeTitle>
@@ -1133,7 +1133,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>18:40</StartTime>
+    <StartTime>18:45</StartTime>
     <PrimaryGenre>Gokart</PrimaryGenre>
     <Title>Dansk Gokart Cup</Title>
     <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
@@ -1146,7 +1146,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>19:15</StartTime>
+    <StartTime>19:20</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>DM i disc golf</Title>
     <EpisodeTitle>Reportage fra Valbyparken</EpisodeTitle>
@@ -1159,7 +1159,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>19:55</StartTime>
+    <StartTime>20:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>Basketligaen</Title>
     <EpisodeTitle>Værløse Blue Hawks-BC Copenhagen</EpisodeTitle>
@@ -1172,7 +1172,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>22:20</StartTime>
+    <StartTime>22:25</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Gala de Boxe record D'EOTTM</Title>
     <EpisodeTitle>Oliver Zaren-Osleys Iglesias</EpisodeTitle>
@@ -1185,7 +1185,7 @@
   </Event>
   <Event>
     <Date>21/11/2026</Date>
-    <StartTime>23:10</StartTime>
+    <StartTime>23:15</StartTime>
     <PrimaryGenre>Boksning</PrimaryGenre>
     <Title>Cherneka Johnson-Dina Thorslund</Title>
     <EpisodeTitle>Firedobbelt VM-titelkamp fra USA</EpisodeTitle>
@@ -1198,7 +1198,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>00:00</StartTime>
+    <StartTime>00:05</StartTime>
     <PrimaryGenre>Fodbold</PrimaryGenre>
     <Title>Coppa Italia</Title>
     <EpisodeTitle>Palermo-Mantova</EpisodeTitle>
@@ -1211,7 +1211,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>02:10</StartTime>
+    <StartTime>02:15</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
@@ -1328,7 +1328,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>17:30</StartTime>
+    <StartTime>17:35</StartTime>
     <PrimaryGenre>Sportsmagasin</PrimaryGenre>
     <Title>Basketcheferne</Title>
     <EpisodeTitle>Debatprogram om dansk basketball</EpisodeTitle>
@@ -1341,7 +1341,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>18:35</StartTime>
+    <StartTime>18:40</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (k)</EpisodeTitle>
@@ -1354,7 +1354,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>19:05</StartTime>
+    <StartTime>19:10</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 U23 (m)</EpisodeTitle>
@@ -1367,7 +1367,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>19:45</StartTime>
+    <StartTime>19:50</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (k)</EpisodeTitle>
@@ -1380,7 +1380,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>20:15</StartTime>
+    <StartTime>20:20</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K1 Senior (m)</EpisodeTitle>
@@ -1393,7 +1393,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>20:55</StartTime>
+    <StartTime>21:00</StartTime>
     <PrimaryGenre>Kajak</PrimaryGenre>
     <Title>VM i kajakmaraton</Title>
     <EpisodeTitle>K2 Senior (m)</EpisodeTitle>
@@ -1406,20 +1406,7 @@
   </Event>
   <Event>
     <Date>22/11/2026</Date>
-    <StartTime>21:35</StartTime>
-    <PrimaryGenre>Gokart</PrimaryGenre>
-    <Title>Dansk Gokart Cup</Title>
-    <EpisodeTitle>6. afdeling, Taastrup</EpisodeTitle>
-    <Season>2026</Season>
-    <EpisodeNo/>
-    <Status>Repeat</Status>
-    <StillSceneUrl>https://storage.waw.cloud.ovh.net/v1/AUTH_5e22e38acf504bc39bd8b4287f32f111/gfx/title-13219-de558a6a-db83-4f9c-a02e-45e787163556.jpg?temp_url_sig=3625a05ef8ce6ae5741a5964f22fe825e2bc19bd&amp;temp_url_expires=4930637961</StillSceneUrl>
-    <ShortDescription>Reportage fra årets DM-finale i indendørs gokart.</ShortDescription>
-    <LongDescription>Danmarks hurtigste gokartkørere kæmpede d. 1. november om DM-titlerne ved sæsonens sidste afdeling af Dansk Gokart Cup - danmarksmesterskaberne i indendørs gokart - som fandt sted hos Racehall København i Taastrup. Reporter: Jørn Husum.</LongDescription>
-  </Event>
-  <Event>
-    <Date>22/11/2026</Date>
-    <StartTime>22:15</StartTime>
+    <StartTime>21:40</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Portugal</EpisodeTitle>
@@ -1432,7 +1419,7 @@
   </Event>
   <Event>
     <Date>23/11/2026</Date>
-    <StartTime>00:30</StartTime>
+    <StartTime>00:00</StartTime>
     <PrimaryGenre>Basketball</PrimaryGenre>
     <Title>EM-kvalifikation for kvinder</Title>
     <EpisodeTitle>Danmark-Tyskland</EpisodeTitle>
@@ -1445,7 +1432,7 @@
   </Event>
   <Event>
     <Date>23/11/2026</Date>
-    <StartTime>02:40</StartTime>
+    <StartTime>02:10</StartTime>
     <PrimaryGenre/>
     <Title>Godnat</Title>
     <EpisodeTitle>Slut på dagens programmer</EpisodeTitle>
